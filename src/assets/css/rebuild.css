@@ -1,0 +1,327 @@
+html {
+	overflow: auto;
+}
+
+@media (min-width: 1600px) {
+	.container {
+		max-width: 1560px;
+	}
+}
+
+img {
+	max-width: 100%;
+}
+
+.col {
+	flex-basis: initial;
+}
+
+body .v-application a {
+	color: rgba(var(--main-dark), 1);
+}
+
+.v-application {
+	font-family: var(--font-regular) !important;
+	color: var(--theme-color) !important;
+}
+
+.v-application .dark-grey {
+	color: rgba(var(--dark-grey), 1);
+}
+
+.v-application .main-grey {
+	color: rgba(var(--main-grey), 1);
+}
+
+.v-application .grey-light-2 {
+	color: rgba(var(--grey-light-2), 1);
+}
+
+.v-application .primary-text {
+	color: rgba(var(--main-primary), 1);
+}
+
+.app-form-group .v-input__slot {
+	box-shadow: none !important;
+}
+
+.v-btn__content {
+	opacity: 1 !important;
+}
+
+.v-list-item {
+	min-height: 32px;
+	font-family: var(--font-semiBold);
+}
+
+.v-tabs-bar {
+	margin-bottom: 40px;
+}
+
+.v-tabs.mb-0 .v-tabs-bar {
+	margin-bottom: 0;
+}
+
+.v-tab:before {
+	display: none;
+}
+
+.hooper {
+	height: auto !important;
+}
+
+.v-btn--outlined {
+	border: 2px solid;
+}
+
+.v-btn--outlined.v-btn:hover:before {
+	opacity: 1;
+}
+
+.v-btn--outlined.v-btn:hover span {
+	color: #fff;
+}
+
+.app-form-group .theme--light.v-text-field--outlined:not(.v-input--is-focused):not(.v-input--has-state) > .v-input__control > .v-input__slot fieldset {
+	box-shadow: 0 6px 27px rgb(0 0 0 / 5%);
+	transition: box-shadow 350ms;
+}
+
+.app-form-group .theme--light.v-text-field--outlined:not(.v-input--is-focused):not(.v-input--has-state) > .v-input__control > .v-input__slot fieldset,
+.app-form-group .theme--light.v-text-field--outlined:not(.v-input--is-focused):not(.v-input--has-state):not(.v-input--is-disabled) > .v-input__control > .v-input__slot:hover fieldset {
+	color: rgba(var(--border-color), 1);
+}
+
+.app-form-group .theme--light.v-text-field--outlined > .v-input__control > .v-input__slot:hover fieldset {
+	box-shadow: none !important;
+}
+
+.app-form-group .theme--light.v-text-field--outlined.v-input--is-focused fieldset {
+	border: 1px solid rgba(var(--border-color), 1);
+}
+
+.app-form-group .theme--light.v-text-field--outlined.v-input--is-focused.error--text fieldset {
+	border: 1px solid #ff5252;
+}
+
+.app-form-group .v-text-field--outlined.v-input--has-state fieldset {
+	border: 1px solid !important;
+}
+
+
+.progress-field .v-slider--horizontal {
+	margin: 0;
+	min-height: auto;
+}
+
+.progress-field .v-input {
+	position: absolute;
+	bottom: -12px;
+	width: 100%;
+	left: 0;
+}
+
+.progress-field .v-input__slot {
+	margin: 0;
+}
+
+.app-table.v-data-table > .v-data-table__wrapper > table > thead > tr > th,
+.app-table.v-data-table > .v-data-table__wrapper > table > tbody > tr > td {
+	border-bottom: 0 !important;
+	font-weight: normal;
+}
+
+.app-table__border {
+	border: 1px solid rgba(var(--grey-light-2), 0.25);
+}
+
+.app-table.app-table__border.v-data-table > .v-data-table__wrapper > table > tbody > tr > td:not(:first-child),
+.app-table.app-table__border.v-data-table > .v-data-table__wrapper > table > thead > tr > th:not(:first-child),
+.app-table.app-table__border.v-data-table > .v-data-table__wrapper > table > tfoot > tr > td:not(:first-child) {
+	border-left: 1px solid rgba(var(--grey-light-2), 0.25);
+}
+
+.app-table.app-table__border.v-data-table > .v-data-table__wrapper > table > tbody > tr > td,
+.app-table.app-table__border.v-data-table > .v-data-table__wrapper > table > thead > tr > th {
+	border-bottom: 1px solid rgba(var(--grey-light-2), 0.25) !important;
+}
+
+.app-table.app-table__border.v-data-table > .v-data-table__wrapper > table > tbody > tr:last-child > td {
+	border-bottom: 0 !important;
+}
+
+.app-table.v-data-table > .v-data-table__wrapper > table > tbody > tr:hover:not(.v-data-table__expanded__content):not(.v-data-table__empty-wrapper),
+.app-table__border tbody tr:nth-child(even),
+.app-table__border thead tr:nth-child(odd) {
+	background: rgba(var(--grey-light), 1);
+}
+
+.app-table__border thead th {
+	color: #000 !important;
+}
+
+.app-form-group .v-input input,
+.app-form-group .v-input textarea {
+	font-size: 18px;
+	font-family: var(--font-semiBold);
+}
+
+.app-form-group .v-input--is-disabled .v-input__control {
+	background: #eee;
+}
+
+.app-form-group .vue-treeselect__control,
+.app-form-group .vue-treeselect--open-below .vue-treeselect__menu {
+	border-color: rgba(var(--border-color), 1);
+	border-radius: 4px;
+	box-shadow: none !important;
+}
+
+.app-form-group__small .v-input__slot,
+.app-form-group__small .vue-treeselect__control {
+	min-height: 48px !important;
+}
+
+.app-form-group__small .vue-treeselect__placeholder,
+.app-form-group__small .vue-treeselect__single-value {
+	line-height: 48px;
+}
+
+.app-form-group .vue-treeselect__option,
+.app-form-group .vue-treeselect__label-container {
+	min-height: 36px;
+	font-family: var(--font-semiBold);
+}
+
+.app-form-group__small .v-input__slot input,
+.app-form-group__small .v-input__slot textarea {
+	font-size: 16px;
+}
+
+.app-form-group__small .v-input__append-inner {
+	margin-top: 12px;
+}
+
+.vue-slider-dot-handle {
+	box-shadow: 0.5px 0.5px 2px 1px rgb(0 0 0 / 32%) !important;
+}
+
+.vue-slider-rail {
+	background: rgba(var(--main-primary), .2);
+}
+
+.app-collapse .v-expansion-panel:before {
+	box-shadow: none;
+}
+
+.app-collapse .v-expansion-panel--active > .v-expansion-panel-header {
+	background: rgba(var(--main-primary), 1);
+	color: #fff;
+}
+
+.app-collapse .v-expansion-panel--active > .v-expansion-panel-header .v-icon {
+	color: #fff !important;
+}
+
+.app-collapse .v-expansion-panel-content__wrap {
+	padding-top: 16px;
+}
+
+.app-hooper-addons {
+	position: relative !important;
+}
+
+.app-hooper-addons .hooper-indicator {
+	width: 12px;
+	height: 12px;
+	border-radius: 100%;
+	background: #ccc;
+	margin: 0 8px;
+	outline: transparent;
+}
+
+.app-hooper-addons .hooper-indicator:hover, .app-hooper-addons .hooper-indicator.is-active {
+	background-color: rgba(var(--main-primary), 1);
+}
+
+.app-collapse.section-grey .v-expansion-panel {
+	background-color: transparent;
+}
+
+.hooper-liveregion {
+	display: none;
+}
+
+.hooper-track {
+	list-style: none;
+	padding-left: 0 !important;
+}
+
+.app-timeline .theme--light.v-timeline:before {
+	background: rgba(var(--border-color), 1)
+}
+
+.app-table table {
+	min-width: 1500px;
+}
+
+.app-table__auto table {
+	min-width: auto !important;
+}
+
+.hide-clear-icon {
+	position: absolute;
+	width: 44px;
+	height: 43px;
+	top: 2px;
+	right: 175px;
+	background: #fff;
+	z-index: 1;
+}
+
+.list-icon svg {
+	width: 22px;
+	height: 22px;
+}
+
+.list-item-prefix {
+	color: #a6a4b0;
+	font-size: 0.9rem;
+}
+
+.app-polls .v-progress-linear__content {
+	justify-content: flex-start;
+	padding: 0 12px;
+}
+
+.app-polls-radio .v-radio {
+	margin-right: 0 !important;
+	margin-bottom: 16px;
+	width: 50%;
+}
+
+.app-polls-radio .v-radio:last-child {
+	margin-bottom: 0 !important;
+}
+
+.VueCarousel-navigation-button {
+	width: 48px;
+	height: 48px;
+	border: 1px solid rgba(255, 255, 255, 1) !important;
+	box-shadow: 0 0.4px 6px 0 rgba(158, 158, 158, 0.07),
+	0 1px 16px 0 rgba(158, 158, 158, 0.09),
+	0 2px 40px 0 rgba(158, 158, 158, 0.12),
+	0 9px 134px 0 rgba(158, 158, 158, 0.19);
+	border-radius: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.VueCarousel-navigation-button svg {
+	color: #D70C17;
+}
+
+.VueCarousel-pagination {
+	display: none;
+}

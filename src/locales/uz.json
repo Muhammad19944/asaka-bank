@@ -1,0 +1,2642 @@
+{
+  "letter_of_credit": "«Akreditivni qanday olish mumkin»",
+  "application_letter_of_credit": "Akkreditiv uchun ariza",
+  "application_factoring": "Faktoring uchun ariza",
+  "application_warranty": "Kafolat uchun ariza",
+  "guarantee" : "«Qanday qilib kafolat olish mumkin»",
+  "factoring": "«Faktoringni qanday olish mumkin»",
+  "application_sent": "Ariza yuborildi!",
+  "terminal_marta" : "Terminal Marta",
+  "upload_image" : "Rasmni yuklash",
+  "upload_image_text": "Bu yerga karta uchun rasmni joylashtiring. Rasm formati png, jpeg da bo'lishi kerak va 4mb hajmidan oshmasligi zarur",
+  "payment_system" : "To'lov tizimi",
+  "logo_color" : "Logotip rangi",
+  "location_logo" : "Logotip joylashgan joy",
+  "color_text" : "Matn rangi",
+  "continue" : "davom ettirish",
+  "hike" : "Sayr",
+  "journey" : "Sayohat",
+  "landscapes": "Landshaftlar",
+  "animals" : "Hayvonlar",
+  "family" : "Oila",
+  "texture" : "Tekstura",
+  "payment_service": "Xizmatni to'lash",
+  "resume_file" : "Rezyume fayl",
+  "anti_corruption" : "Korrupsiyaga qarshi kurash",
+  "stock_company" : "Aksiyadorlik jamiyati",
+  "application" : "Ariza",
+  "application_information" : "Ariza haqida ma'lumot",
+  "language" : "Til",
+  "status" : "Status",
+  "org_structure" : "Tashkilot tuzilishi",
+  "type" : "Turi",
+  "dates" : "Sana",
+  "date_creation" : "Yaratilgan sana",
+  "applicant_information" : "Ariza beruvchi ma'lumotlari",
+  "region" : "Viloyat",
+  "download_pdf" : "PDF Yuklash",
+  "send_message_client" : "Mijozga xabar yuborish",
+  "application_send" : "Murojaat muvaffaqiyatli yuborildi",
+  "for_info": "Ma'lumot uchun",
+  "username": "Foydalanuvchi nomi",
+  "first_name": "Ismi",
+  "last_name": "Familiyasi",
+  "role": "Roli",
+  "filial": "Filiali",
+  "password": "Parol",
+  "repeat_password": "Parolni tasdiqlash",
+  "go_to_section": "Sahifaga o'tish",
+  "factoring_text_1" : "Faktoring - etkazib beruvchi-xo'jalik yurituvchi sub'ektlarni to'lovchilar tomonidan qabul qilingan va to'lanmagan da'volar uchun bank-moliya agentiga to'lovni olish huquqini o'tkazish asosida etkazib berilgan tovarlar, bajarilgan ishlar yoki ko'rsatilgan xizmatlar uchun moliyalashtirish bo'yicha bank xizmatining bir turi.",
+  "factoring_text_2" : "“Asakabank” erkin konvertatsiya qilinadigan valyutada va milliy valyuta – so‘mda faktoring xizmatlarini ko‘rsatadi. Xorijiy valyutada faktoring xizmati 60 kungacha, so‘mda 90 kungacha ko‘rsatilishi mumkin.",
+  "factoring_text_3" : "Tomonlar faktoring shartnomasini imzolagandan so‘ng, bank xo‘jalik yurituvchi subyektning talabiga binoan asosiy depozit hisobvarag‘iga shartnomada belgilangan miqdorda, lekin uning to‘lov talablari bo‘yicha to‘lov summasining 80 foizidan ko‘p bo‘lmagan miqdorda mablag‘larni o‘tkazadi.",
+  "factoring_text_4" : "To‘lovning qolgan qismi to‘lovchidan mablag‘ kelib tushgandan keyin Bank tomonidan o‘tkaziladi.",
+  "factoring_text_5" : "Kerakli hujjatlar to'plami",
+  "factoring_text_6" : "Kredit ajratish uchun ariza",
+  "factoring_text_7" : "Buxgalteriya hisobotlari",
+  "factoring_text_8" : "Mijozning ta`sis xujjatlari",
+  "factoring_text_9" : "Amaldagi qonunchilikka va bank talablariga javob beradigan garov xujjatlari",
+  "factoring_text_10": "Biznes-reja",
+  "factoring_text_11": "Faktoring haqida",
+  "refund_scheme" : "To'lovni qaytarish sxemasi",
+  "share_social": "Ijtimoiy tarmoqlarda ulashish",
+  "credit_property": "Kredit mulki",
+  "card_condition2": "Karta holati",
+  "key_skills": "Asosiy ko'nikmalar",
+  "respond": "Javob berish",
+  "leave_resume": "Rezyume qoldirish",
+  "card_condition": "Kartadan foydalanish tarif va shartlar",
+  "extension1": "Evroda omonatlar",
+  "extension2": "AQSH dollarida omonatlar",
+  "extension3": "O'zb. so'mida omonatlar",
+  "credit_purpose": "Kredit maqsadi",
+  "date_of_birth": "Tug'ilgan kuni",
+  "deposit_interest": "Depozit bo'yicha foizlar",
+  "deposit_type": {
+    "sum": "Milliy valyutada",
+    "dollar": "AQSH dollarida",
+    "euro": "Yevroda omonatlar"
+  },
+  "yearlyMax": "maksimum, yillik",
+  "yearlyMin": "minimum, yillik",
+  "monthlyMin": "minimum, oy",
+  "monthlyMax": "maksimum, oy",
+  "insurance_companies": "Sug'urta kompaniyalari",
+  "from": "dan",
+  "to": "gacha",
+  "for_sending": "jo'natish uchun",
+  "commission": "komissiya",
+  "Auth": {
+    "Forget": {
+      "resetPassword": "Parolni tiklash",
+      "phoneNumber": "Telefon raqami",
+      "example": "Masalan: + 998 90 123 45 67",
+      "enterPhone": "Telefon raqamingizni kiriting",
+      "btnLogin": "Login",
+      "register": " Hozir ro'yxatdan o'tish",
+      "restore": "Qayta tiklash",
+      "enterSms": "Sms kodni kiriting",
+      "number": "Raqamiyah *",
+      "enterCode": "Kodni kiriting *",
+      "enterCodeHint": "sizga yuborilgan kodni kiriting",
+      "newPass": "Yangi parolni kiriting *",
+      "newPassHint": "Yangi parol kamida bo'lishi kerak 8 uzoq belgilar",
+      "btnClose": " Yopish",
+      "resendPass": " Parolni qayta yuboring",
+      "confirm": "Tasdiqlash",
+      "Changed": "O'zgartirildi!"
+    },
+    "Login": {
+      "authorization": "Avtorizatsiya",
+      "login": "Kirish",
+      "enterLogin": "Loginingizni kiriting",
+      "enterLoginCor": "Loginni to'g'ri kiriting",
+      "pass": "Parol",
+      "enterPass": "Parolini kiriting",
+      "enterPassHint": "8 belgi kiritildi",
+      "btnSignUp": "Ro'yhatdan o'tish",
+      "btnForget": " Parolni unutdingizmi?",
+      "btnSubmit": "Kirish",
+      "enterPassCor": "Parolni to'g'ri kiriting",
+      "enterLeast": "Kamida 8 ta belgini kiriting!",
+      "successLogin": "Kirish muvaffaqiyatli bo'ldi!",
+      "welcome": "Xush kelibsiz"
+    },
+    "SignUp": {
+      "byEmail": "Elektron pochta orqali",
+      "byPhone": "Login",
+      "signUp": "Ro'yhatdan o'tish",
+      "login": "Login",
+      "enterEmail": "Elektron pochta manzilini kiriting",
+      "enterPlease": "E-pochta manzilini kiriting",
+      "userExist": "Bunday foydalanuvchi mavjud",
+      "phone": "Telefon",
+      "phonePlaceholder": "Mobil telefon raqamingizni kiriting. masalan: + 998 90 123 45 67",
+      "name": "Ismingiz",
+      "enterName": "Iltimos Ismingizni kiriting",
+      "family": "Familyangiz",
+      "enterFamily": "Iltimos Familyangizni kiriting",
+      "fatherName": "Sharifingiz",
+      "enterFatherName": "Iltimos sharifingizni kiriting",
+      "codeConf": "Kodni tasdiqlash turi",
+      "selectCodeConf": "Kodni tasdiqlash turini tanlang",
+      "pass": "Parol",
+      "passLabel": "Iltimos parolini kiriting",
+      "passHint": "Siz qo'shishingiz mumkin 8 uchun 20 belgilar!",
+      "entry": "Login",
+      "forget": " Parolni unutdingizmi?",
+      "sign_up": "Ro'yxatdan o'tish",
+      "enterPassCor": "Parolni to'g'ri kiriting",
+      "enterLeast": "Kamida 8 ta belgini kiriting!",
+      "example": "Masalan: + 998 90 123 45 67",
+      "numberMandatory": "Raqamni kiritish shart!",
+      "registered": "Siz ro'yxatdan o'tdingiz. Yuborilgan parolni tasdiqlang!",
+      "exist": "Bunday foydalanuvchi mavjud!"
+    },
+    "Verify": {
+      "smsCode": "Sms kodni kiriting",
+      "number": "Raqam *",
+      "codeLabel": "Kodni kiriting *",
+      "codeHint": "sizga yuborilgan kodni kiriting",
+      "close": "Yopish",
+      "resendCode": "Kodni qayta yuborish",
+      "confirmation": "Tasdiqlash",
+      "eConf": "E-mail manzilingizga tasdiqnoma yuborildi",
+      "eConf2": "E-mail manzilingizga yuborilgan link orqali tasdiqlang",
+      "ok": "Ok",
+      "conf": "Tasdiqlandi!",
+      "error": " Xato!",
+      "error1": " Noto'g'ri parolni kiritdingiz:"
+    }
+  },
+  "more2": "Qo'shimcha",
+  "interactive_services": "Interfaol xizmatlar",
+  "credit_calculator": "Kredit kalkulyator",
+  "faq": "Savollar va javoblar",
+  "online_polls": "Onlayn so'rovnomalar",
+  "archive_polls": "So`rovnomalar arxivi",
+  "Nav": {
+    "PrivateClients": {
+      "title": "Xususiy mijozlar",
+      "Loans": {
+        "title": "Kreditlar",
+        "tab1": "Overdraft",
+        "tab2": "Avtokredit 2.1",
+        "tab3": "Taʼlim krediti",
+        "tab4": "Bozor tamoyillari asosida ipoteka krediti",
+        "tab5": "Mikroqarz",
+        "tab6": "Qulay shartlardagi ipoteka"
+      },
+      "Cards": {
+        "title": "Kartalar",
+        "tab1": "UzCard",
+        "tab2": "Mastercard Standard",
+        "tab3": "Mastercard Gold",
+        "tab4": "Mastercard Platinum",
+        "tab5": "Mastercard World",
+        "tab6": "Mastercard & UzCard",
+        "tab7": "Humo"
+      },
+      "Contributions": {
+        "title": "Omonatlar",
+        "tab1": "Milliy valyutadagi omonatlar",
+        "tab2": "Maksimal foyda",
+        "tab3": "On-line",
+        "tab4": "Avans",
+        "tab5": "Xorijiy valyutadagi omonatlar",
+        "tab6": "Maksimal foyda AQSH dollarida",
+        "tab7": "On-line AQSH dollarida",
+        "tab8": "Avans AQSH dollarida",
+        "tab9": "Maksimal foyda Yevroda",
+        "tab10": "On-line Yevroda",
+        "tab11": "Avans Yevroda"
+      },
+      "MoneyTransfers": {
+        "title": "Pul oʻtkazmalari",
+        "tab1": "Western Union",
+        "tab2": "Юнистрим",
+        "tab3": "Zolotaya korona",
+        "tab4": "MoneyGram",
+        "tab5": "Toʻlovlar",
+        "tab6": "Mobil operatorlar",
+        "tab7": "Kommunal xizmatlar",
+        "tab8": "Internet provayderlari",
+        "tab9": "Davlat xizmatlari",
+        "tab10": "Taʼlim",
+        "tab11": "Televizion xizmatlar",
+        "tab12": "Telefoniya",
+        "tab13": "Transport",
+        "tab14": "Xayriya faoliyati",
+        "tab15": "Xosting xizmatlari",
+        "tab16": "Xorijiy valyutani xarid qilish va sotish",
+        "tab17": "Contact",
+        "tab18": "Asia Express",
+        "tab19": "To'lovlar bo'yicha to'lash"
+      },
+      "StorageValuables": "Qimmatbaho buyumlarni saqlash",
+      "Services": {
+        "title": "Xizmatlar",
+        "tab1": "Mobil bank",
+        "tab2": "SMS-xabarnoma",
+        "tab3": "Kartadan kartaga pul oʻtkazish",
+        "tab4": "Kredit kalkulyatori",
+        "tab5": "Depozit kalkulyatori",
+        "tab6": "Karta ochish",
+        "tab7": "Omonat ochish",
+        "tab8": "Ariza holatini tekshirish",
+        "tab9": "Internetsiz foydalanish",
+        "tab10": "Ofis va bankomatlar",
+        "tab11": "Valyuta ayirboshlash",
+        "tab12": "Depozit yacheykalari",
+        "tab13": "Valyuta ayirboshlash",
+        "tab14": "Tariflar"
+      },
+      "InteractiveServices": {
+        "title": "Interfaol xizmatlar",
+        "CreditCalculator": "Kredit kalkulyatori",
+        "OnlineLoan": "Onlayn kredit",
+        "Scoring": "Skoring",
+        "QuestionsAnswers": "Savol-javob",
+        "SMSInforming": "SMS-xabarnoma",
+        "MobileBank": "Mobil bank",
+        "InternetBanking": "Internet bank",
+        "OpenPlasticCard": "Plastik karta ochish",
+        "TransferCard": "Kartadan kartaga oʻtkazish",
+        "CustomizedCard": "Alohida dizaynli karta",
+        "DepositCalculator": "Depozit kalkulyatori",
+        "OpenDeposit": "Omonat ochish",
+        "CardRequisites": "Karta rekvizitlari"
+      }
+    },
+    "SmallBusiness": {
+      "title": "Kichik biznes",
+      "Loans": {
+        "title": "Kreditlar",
+        "tab1": "Kichik biznes va xususiy tadbirkorlarni kreditlash",
+        "tab2": "Modulli kreditlar",
+        "tab3": "Kontokorrent kreditlar",
+        "tab4": "Yosh tadbirkor"
+      },
+      "Cards": {
+        "title": "Kartalar",
+        "tab1": "Savdo ekvayringi",
+        "tab2": "Ish haqi kartasi",
+        "tab3": "Korporativ karta",
+        "tab4": "Mastercard Business",
+        "tab5": "Terminal olish",
+        "tab6": "Interfaol xizmatlar",
+        "tab7": "SMS-xabarnoma",
+        "tab8": "Internet bank"
+      },
+      "Financing": {
+        "title": "Savdoni moliyalashtirish",
+        "tab1": "Eksportdan oldin moliyalash",
+        "tab2": "Akkreditivlar",
+        "tab3": "Bank kafolatlari",
+        "PreExport": {
+          "title": "Eksportdan oldingi moliyalashtirish",
+          "sub_text": "Eksport qiluvchi korxonalarning eksport shartnomalari bajarilishini toʻliq va sifatli taʼminlash maqsadida zarur xomashyo, materiallar sotib olish va xizmatlar koʻrsatish uchun kreditlar;",
+          "AboutCredit": {
+            "text": "Eksport qiluvchi korxonalarning eksport shartnomalari bajarilishini toʻliq va sifatli taʼminlash maqsadida zarur xomashyo, materiallar sotib olish va xizmatlar koʻrsatish uchun kreditlar;"
+          },
+          "TermsAndConditions": {
+            "title1": "Kredit maqsadi",
+            "text1": "Akkreditiv hisob-kitobini nazarda tutuvchi eksport shartnomalarini tuzgan eksport qiluvchi korxonalarni moliyalashtirish",
+            "title2": "Shartlar va talablar",
+            "li1": "Kredit berish muddati - Eksportdan oldingi moliyalashtirish 1 yilgacha muddatga kredit liniyasi ochilgan holda qaytarilishi mumkin; • 90 kungacha naqd pulda (Investitsiya va tashqi savdo vazirligining kafolat xati bo‘lgan va kreditlar bo‘yicha qarzi bo‘lmagan kompaniyalar uchun)",
+            "li2": "Kredit summasi – kreditlar milliy valyutadagi yoki eksport kontraktlari yoki ishlab chiqaruvchilar va eksport qiluvchilar o‘rtasida tuzilgan komissiya shartnomalarini moliyalashtirishni nazarda tutuvchi eksport kontraktlari valyutasida tuzilgan shartnomalarning 85 foizigacha bo‘lgan miqdorda ajratiladi.",
+            "li3": "Foiz stavkasi",
+            "li3li1": "Milliy valyutada yiliga 20%",
+            "li3li2": "Chet el valyutasida yiliga 8%",
+            "title3": "Akkreditiv shartlari"
+          },
+          "Documents": {
+            "title": "Kerakli hujjatlar",
+            "text1": "Ariza",
+            "text1sub": "kredit olish uchun",
+            "text2": "Biznes plan",
+            "text2sub": "qarz oluvchining bank hisobvarag'iga naqd pul tushumlari prognozini ko'rsatgan holda (pul oqimi)",
+            "text3": "Balans (shakl № 1)",
+            "text3sub": "tegishli davlat soliq inspektsiyasiga taqdim etilgan oxirgi hisobot davri uchun qarz oluvchi, moliyaviy natijalar to‘g‘risidagi hisobot (2-shakl).",
+            "text4": "Eksport shartnomasi",
+            "text4sub": "akkreditiv hisob-kitobini, shuningdek eksport kontraktlariga tenglashtirilgan shartnomalarni nazarda tutadi",
+            "text5": "Kredit kafolati bo'yicha hujjatlar",
+            "text5sub": "amaldagi qonunchilikni hisobga olgan holda bank talablarini qondirish"
+          }
+        },
+        "Accreditation": {
+          "title": "Akkreditivlar",
+          "sub_text": "Akkreditiv - bu majburiyat bo'lib, unga ko'ra buyurtmachi mijoz nomidan ish olib boradigan bank shartnoma shartlariga javob beradigan hujjatlarni bankka taqdim etgan holda pul mablag'larini oluvchiga (benefitsiarga) to'lashi shart. akkreditiv.",
+          "TermsAndConditions": {
+            "title1": "Akkreditivlarning maqsadi",
+            "text1": "Import qilingan tovarlarni akkreditiv hisob-kitobi orqali to‘lov shartlarida yetkazib berish",
+            "title2": "Kredit berish shartlari",
+            "li1": "Akkreditiv muddati - 360 kungacha",
+            "li2": "Akkreditivlar miqdori - kelishuv bo'yicha (shartnomalar miqdoriga qarab)",
+            "li3": "Akkreditivlar bo'yicha komissiyalar - \"Asakabank\" tariflariga muvofiq (resurslar narxini hisobga olgan holda)"
+          },
+          "Documents": {
+            "text": "Qarz oluvchining ta'sis hujjatlari"
+          }
+        },
+        "BankGuarantees": {
+          "BankGuarantees": {
+            "title": "Bank kafolatlari",
+            "li1": "Avans to'lovlarini qaytarish uchun",
+            "li2": "To'lovni amalga oshirish uchun",
+            "li3": "Shartnoma shartlarini bajarish uchun",
+            "li4": "Tenderda ishtirok etish uchun",
+            "li5": "Bojxona to'lovlarini to'lash uchun",
+            "li6": "Boshqa turdagi kafolatlar uchun"
+          },
+          "LendingPurpose": {
+            "title": "Qarz berish maqsadi",
+            "li1": "Tender (tanlov) savdolarida qatnashish uchun (Bid Guarantee)",
+            "li2": "To'lov kafolati (Payment Guarantee)",
+            "li3": "Oldindan to'lovni qaytarish kafolati (Advance Payment Guarantee)",
+            "li4": "Shartnomani bajarish kafolati (Performance Guarantee)"
+          },
+          "SecurityRequirements": {
+            "title": "Xavfsizlik talablari",
+            "text": "Obligatsiya talablari:",
+            "li": "Amaldagi qonunchilikni hisobga olgan holda bank talablariga javob beradigan ta'minot"
+          },
+          "Conditions": {
+            "title": "Shartlar",
+            "li1": "Kafolat muddati - shartnomalar shartlariga muvofiq",
+            "li2": "Kafolat miqdori - shartnomalar shartlariga muvofiq",
+            "li3": "Kafolatlarni berish va qo'llab-quvvatlash uchun komissiya - oylik summaning 0,3% dan (to'liq, to'liq emas)."
+          }
+        }
+      },
+      "Documents": "Hujjatlar"
+    },
+    "CorporateClients": {
+      "title": "Korporativ mijozlar",
+      "Loans": {
+        "title": "Kreditlar",
+        "tab1": "Yopilmagan akkreditivlarning ochilishi",
+        "tab2": "O'z mablag'lari hisobiga faktoring amaliyotlarini taqdim etish",
+        "tab3": "Eksportoldi moliyalashtirish"
+      },
+      "Cards": {
+        "title": "Kartalar",
+        "tab1": "Savdo ekvaringi",
+        "tab2": "Ish haqi kartasi",
+        "tab3": "Korporativ karta",
+        "tab4": "Mastercard Business",
+        "tab5": "Terminal olish",
+        "tab6": "Interfaol xizmatlar",
+        "tab7": "SMS-xabarnoma",
+        "tab8": "Internet bank"
+      },
+      "Financing": {
+        "title": "Moliyalash",
+        "tab1": "Savdoni moliyalashtirish",
+        "tab2": "Bank kafolatlarini chiqarish",
+        "tab3": "Xorijiy kredit liniyalari"
+      },
+      "Documents": "Hujjatlar "
+    },
+    "AboutBank": {
+      "title": "Bank haqida",
+      "GeneralInfo": {
+        "title": "Umumiy axborot",
+        "tab1": "Bank haqida maʼlumot",
+        "tab2": "Vazifalar",
+        "tab3": "Biznes reja",
+        "tab4": "Bank tarixi",
+        "tab5": "Boshqaruv Raisining murojaatnomasi",
+        "tab6": "Bank tuzilmasi",
+        "tab7": "Bank aksiyadorlari",
+        "tab8": "Bank kengashi",
+        "tab9": "Bank boshqaruvi",
+        "tab10": "Tarkibi boʻlinmalar",
+        "tab11": "Bank tuzilmasi sxemasi",
+        "tab12": "Taftish komissiyasi",
+        "tab13": "Vakolatlangan shaxslar",
+        "tab14": "Bank qoʻmitalari",
+        "tab15": "Bank faoliyati",
+        "tab16": "Ochiq maʼlumotlar",
+        "tab17": "Xayriya faoliyati",
+        "tab18": "Moliyaviy hisobot",
+        "tab19": "Tariflar",
+        "tab20": "Qimmatbaho qogʻozlar",
+        "tab21": "Interfaol xizmatlar",
+        "tab22": "Filiallar va bankomatlar manzillari",
+        "tab23": "Ichki audit departamenti",
+        "OpenInfo": {
+          "openInfo": "Ochiq ma'lumotlar nomi",
+          "format": "Ma'lumotlar formati",
+          "renewal": "Yangilash davriyligi"
+        }
+      },
+      "Career": "Karyera",
+      "Progress": {
+        "title": "Yutuqlar",
+        "tab1": "Reytinglar",
+        "tab2": "Sifat boshqaruvi tizimi",
+        "tab3": "Mukofotlar"
+      },
+      "InformationDocuments": "Foydali maʼlumot va hujjatlar",
+      "Appeal": "Murojaat"
+    },
+    "PressCenter": {
+      "title": "Matbuot markazi",
+      "NewsAlerts": "Yangiliklar va xabarnomalar",
+      "announcements": "E'lonlar",
+      "Stocks": "Aksiyalar",
+      "YouthPolicy": "Yoshlar bilan ishlash",
+      "FinancialLiteracy": "Moliyaviy savodxonlik",
+      "Tenders": "Tenderlar",
+      "UsefulLinks": "Foydali havolalar",
+      "VideoMaterials": "Videomateriallar",
+      "PhotoMaterials": "Fotomateriallar"
+    },
+    "ShareholdersInvestors": {
+      "title": "Aksiyadorlar va investorlarga",
+      "Info": "Aksiyadorlar uchrashuvlari haqida maʼlumot",
+      "Financial": "Moliyaviy koʻrsatkichlar",
+      "OpenInformation": "Ochiq maʼlumot va hisobotlar",
+      "FinancialInstitutions": {
+        "title": "Moliyaviy institutlarga",
+        "tab1": "Hamkorlarga",
+        "tab2": "Gʻaznaxona amaliyotlari"
+      }
+    }
+  },
+  "Home": {
+    "Slider": {
+      "more": "Batafsil",
+      "First": {
+        "auction": "MasterCard dan aksiya",
+        "auction_sub": "Bahorni MasterCard bilan kutib oling"
+      },
+      "Second": {
+        "credit": "Avtokredit",
+        "sub_text": "Avtotransport vositasini sotib olish uchun kredit rasmiy dilerlar salonlari orqali rasmiylashtirish mumkin.",
+        "other_credits": "Boshqa kreditlar"
+      },
+      "Third": {
+        "sub_text": "O'zbekiston Respublikasi hududida va undan tashqarida online xarid qilish va to'lovlarni amalga oshiring.",
+        "other_cards": "Boshqa kartalar"
+      },
+      "Fourth": {
+        "text": "Maksimal foyda",
+        "sub_text": "O'z mablag'larini ko'paytirmoqchi bo'lganlar uchun!",
+        "open_deposit": "Omonat ochish"
+      }
+    },
+    "BestProposals": {
+      "header": "Asakabankdan eng yaxshi takliflar",
+      "header_sub": "Barcha holatlar uchun mahsulot va xizmatlar",
+      "header1": "Avans omonati",
+      "header11": "Hayotingizni ertaga qoldirmang. Foizlarni bugun olib keting",
+      "header2": "Bank kartalari",
+      "header21": "To'lovlarni amalga oshirishda eng qulay vosita",
+      "header3": "Kartadan kartaga o'tkazmalar",
+      "header31": "Tez, qulay va ishonchli",
+      "header4": "Pul o'tkazmalari",
+      "header41": "Bir necha daqiqa ichida pul o'tkazmalarini yuborish"
+    },
+    "Credit_Calc": {
+      "title": "Maslahat olish",
+      "desc": "2 daqiqada yechim!",
+      "label1": "Kredit turi",
+      "label2": "Hudud",
+      "label3": "Ko'chmas mulk bozori turi",
+      "label4": "Miqdor",
+      "label5": "Boshlang'ich to'lov",
+      "label6": "Kredit muddati",
+      "label7": "Imtiyozli davr",
+      "label8": "Foiz stavkasi:",
+      "label9": "Oylik to'lov:",
+      "label10": "Qo'shimcha to`lov:",
+      "btn_table": "So'ndirish jadvali",
+      "btn_send": "Ariza qoldirish",
+      "btn_scoring": "skoring",
+      "text": "Hisob-kitoblar faqat ma'lumot berish uchun mo'ljallangan. Umumiy miqdor individual tarzda hisoblanadi.",
+      "sum": "so'm"
+    }
+  },
+  "currency_exchange": "Valyuta ayirboshlash",
+  "career": "Karyera",
+  "asaka_bank": "Asakabank",
+  "btn_pay": "To'lash",
+  "asaka_web": "Asaka WEB",
+  "online_service": "Onlayn xizmat",
+  "internet_banking": "Internet bank",
+  "personal_cabinet": "Shaxsiy kabinet",
+  "for_business": "Biznes uchun",
+  "for_individuals": "Xususiy mijozlar uchun",
+  "share_on_twitter": "Twitter da ulashing",
+  "contact_center": "Aloqa markazi 24/7",
+  "search": "Qidirish",
+  "feedback": "Qayta aloqa",
+  "write_an_appeal": "Murojaat yozish",
+  "complains_manager": "Komplayens menejer",
+  "virtual_reception": "Virtual qabulxona",
+  "share_on_facebook": "Facebook da ulashing",
+  "special_opportunities": "Maxsus imkoniyatlar",
+  "branches_and_ATMs": "Filiallar va bankomatlar",
+  "Promotions": "Aksiyalar",
+  "press_center": "Matbuot markazi",
+  "info_center": "Ma'lumot markazi",
+  "news": "Yangiliklar",
+  "announcements": "E'lonlar",
+  "events": "Tadbirlar",
+  "useful_links": "Foydali havolalar",
+  "more": "Ko'proq",
+  "all_deposits": "Barcha omonatlar",
+  "application_form": "ariza qoldirish",
+  "more_details": "batafsil",
+  "interest_on_deposit": "Omonat bo'yicha foizlar",
+  "annual": "yillik",
+  "up_to": "gacha",
+  "shelf_life": "Saqlash muddati",
+  "up_to_month": "oygacha",
+  "props": "Rekvizitlar",
+  "tariffs": "Tariflar",
+  "files": "Hujjatlar",
+  "social": "Biz ijtimoiy tarmoqlarda",
+  "day_night_worker": "Kunu-tun ishlovchi Aloqa markazi",
+  "hotline": "Ishonch telefoni",
+  "working_time": "9.00 dan : 18.00 gacha (13.00-14.00 tushlik) dushanba-juma",
+  "all_rights": "Barcha huquqlar himoyalangan. Xizmatlar litsenziyalangan",
+  "materials": "\"Asakabank\" sayti materiallaridan foydalanilganda,",
+  "mandatory": "saytiga havola bo'lishi majburiydir.",
+  "link_to_old_site": "Eski saytga havola",
+  "btn_application_form": "ariza qoldirish",
+  "btn_more": "batafsil",
+  "benefits_of_using_cards": {
+    "title": "Kartalardan foydalanishning afzalliklari",
+    "text1": "Veb-saytda arizani to'ldiring. 5 daqiqa vaqtingizni oladi",
+    "text2": "Kartani tarifga muvofiq yetkazib beramiz yoki bank filialidan olib keting",
+    "text3": "Kartani aktivlashtiring va zavq bilan foydalaning",
+    "text4": "Karta imkoniyatlaridan to'liq foydalaning",
+    "text5": "Karta olishga online ariza",
+    "text6": "Kartani chiqarish uchun arizani to'ldiring. Bu 5 daqiqagina vaqtingizni oladi.",
+    "btn": "kartani olish"
+  },
+  "updated": "Yangilandi : ",
+  "toDownload": "Yuklab olish uchun",
+  "FAQ": {
+    "money_transfers": {
+      "title": "Pul o'tkazmalari",
+      "desc1": {
+        "title": "Chet eldan pul o'tkazmasini olish mumkinmi?",
+        "body": "Xalqaro pul o'tkazmalari boshqa davlatdan keladi, respublika ichida pul o'tkazmalarini amalga oshirishga yo'l qo'yilmaydi."
+      },
+      "desc2": {
+        "title": "Boshqa shaxsning nomiga kelgan tarjimani olish mumkinmi?",
+        "body": "Bu mumkin, ammo buning uchun uning ismi tarjima qilingan shaxs tarjimani olishni istagan shaxsga vakolat (notarial tasdiqlangan ishonchnoma) berishi kerak."
+      },
+      "desc3": {
+        "title": "AQSh dollarida, rubllarda yoki boshqa valyutada olingan pul o'tkazmasini olish mumkinmi?",
+        "body": "\"Asakabank\" (OAJ) da o'tkazmalar o'tkazma yuborilgan valyutada beriladi (AQSh dollarida yoki Evroda, boshqa valyuta bilan pul o'tkazmalari bo'yicha ishlamaymiz)."
+      },
+      "desc4": {
+        "title": "Pul o'tkazmasini qanday yuborish mumkin?",
+        "body": "Buning uchun hisobga olish kartasini (pasport, harbiy xizmatchilar uchun harbiy bilet) taqdim etish, shuningdek kassaga jo'natish va komissiya miqdori miqdorida naqd pul berish kerak. Shu bilan birga, pul o'tkazmalari punktida pul o'tkazmasini jo'natish uchun ariza, 09011 formasi kassaga naqd pul kiritish to'g'risida to'ldiriladi. Shundan so'ng, pul o'tkazmalari operatori dasturga pul o'tkazmasini yuboradi va mijozga jo'natilish to'g'risidagi hujjatni taqdim etadi."
+      },
+      "desc5": {
+        "title": "Tarjimani oluvchi haqida jo'natuvchiga qanday ma'lumot kerak?",
+        "body": "Yuboruvchi to'liq ismni bilishi kerak. qabul qiluvchi va qaysi mamlakatga pul o'tkazmasini yuborish kerak."
+      },
+      "desc6": {
+        "title": "Qabul qiluvchi tarjima haqida qanday biladi?",
+        "body": "Tarjima haqidagi barcha ma'lumotlarni jo'natuvchi aytishi kerak."
+      }
+    },
+    "plastic_cards": {
+      "title": "Plastik kartalar",
+      "desc1": {
+        "title": "Agar kartamni yo'qotib qo'ysam nima qilishim kerak?",
+        "body": "Zudlik bilan yo'qolganlik munosabati bilan uni Stoplistga kiritish uchun yozma ariza bilan karta berilgan filialga murojaat qilish kerak."
+      },
+      "desc2": {
+        "title": "Chet el fuqarosi plastik kartani chiqarishi mumkinmi?",
+        "body": "Ehtimol, pasport yoki pasportni almashtiruvchi hujjat va kartaga kiritilgan summaning deklaratsiyasi bo'lishi kerak."
+      },
+      "desc3": {
+        "title": "Mening ismim yoki oilam uchun kartalarni buyurtma qila olamanmi?",
+        "body": "Kartani olishda mavjud tartibda pasport bilan mijozning mavjudligi talab qilinadi, shuning uchun karta buyurtmasi qabul qilinmaydi."
+      },
+      "desc4": {
+        "title": "Ikkita karta bitta hisobga ulanishi mumkinmi?",
+        "body": "Agar kartalar hisob egasining nomi bilan berilgan bo'lsa."
+      }
+    },
+    "deposits": {
+      "title": "Depozitlar",
+      "desc1": {
+        "title": "Depozitning amal qilish muddatini uzaytirish uchun nima qilish kerak?",
+        "body": "Omonat muddati tugagandan so'ng, omonat depozitning boshqa turiga qayta rasmiylashtirilishi yoki depozitning yangi muddati uchun qayta ro'yxatdan o'tish vaqtida amal qiladigan depozitning bunday turi mavjud bo'lsa, xuddi shu depozitga qayta rasmiylashtirilishi mumkin. Buning uchun shartnomani, omonatni saqlashning yangi muddatini qayta rasmiylashtirish uchun arizani to'ldirish kerak."
+      },
+      "desc2": {
+        "title": "Depozitni muddatidan oldin olib tashlasam, foizlar qanday qilib olinadi?",
+        "body": "Agar omonatchi depozitni saqlashning belgilangan muddatidan oldin hisobni yopsa, foizlar milliy valyutadagi \"talab qilib olinguncha\" omonati bo'yicha yillik 6% foiz stavkasi va omonat ochilgan sanadan boshlab xorijiy valyutadagi \"talab qilib olinguncha\" omonati bo'yicha yillik 0,3% miqdorida hisoblab chiqiladi. Shu bilan birga, agar hisob erta yopilganda erta berilgan foizlar bo'lsa, unda farq asosiy balansdan o'tkaziladi.\""
+      },
+      "desc3": {
+        "title": "Men allaqachon chiqarilgan depozit miqdori uchun pul qo'shishingiz mumkin?",
+        "body": "Bu omonat bu turi shartlariga zid bo'lmasa qo'shimcha hissasi ruxsat etiladi."
+      }
+    }
+  },
+  "deposits_in_currency": "O'zb. so'mda omonatlar",
+  "deposits_in_US": "AQSh dollarida omonatlar",
+  "deposits_in_euro": "Euroda omonatlar",
+  "about_deposit": "Omonat haqida",
+  "tariffs_and_conditions": "Tariflar va shartlar",
+  "documents": "Hujjatlar",
+  "Credits": {
+    "title": "Asakabank kreditlari to’g’risida ma’lumotlar",
+    "text1": "Kredit maksimal miqdori",
+    "text2": "Kredit muddati",
+    "text3": "Kredit summasi",
+    "from": "yildan",
+    "to": "yilgacha",
+    "service": {
+      "calc_title": "Kredit kalkulyator",
+      "application_title": "Ariza holatini tekshiring",
+      "calc_body": "Noyob kredit rejasini hisoblang",
+      "atm_title": "Bankomatlar",
+      "atm_body": "To'lov ishi uchun bankomatlar ro'yxati",
+      "scoring_title": "Skoring",
+      "scoring_body": "Kredit olish imkoniyatini hisoblang"
+    }
+  },
+  "Credit_Detail": {
+    "credit_period": "oy",
+    "text2": "Kredit muddati",
+    "text3": "Boshlang'ich badal",
+    "credit_initial_fee": "Dastlabki to'lov",
+    "tab1": "О кредите",
+    "tab2": "Shartlar va talablar",
+    "tab3": "Hujjatlar",
+    "tab4": "To'lov usullari",
+    "tab5": "Mahsulot haqida",
+    "step_text": "Qanday qilib kredit olish mumkin?",
+    "step_body": "Orzuyingiz sari bir qadam",
+    "step1": "Kredit olish uchun veb-saytda ariza to'ldiring",
+    "step2": "Bankdan tasdiqlovchi xabarni kuting",
+    "step3": "Tanlagan bank filialingizda kreditni oling",
+    "step4": "Kredit olish uchun ariza",
+    "step5": "Kredit olish uchun arizani to'ldiring, bu 5 daqiqa vaqtingizni oladi"
+  },
+  "Credit_documents_title": "Zarur hujjatlar",
+  "PaymentMethodsTitle": "Kreditni so'ndirishingiz mumkin",
+  "TermsAndConditionsTitle": "Shartlar va talablar",
+  "Cards": {
+    "all_cards": "Barcha kartalar",
+    "uz_card": "UzCard",
+    "humo": "Humo",
+    "mastercard": "Mastercard",
+    "bonuses": "Bonuslar",
+    "no_data": "Ma'lumotlar yoq :(",
+    "from": "Asakabankdan kartalar",
+    "using": "Plastik kartalardan foydalanishning afzalliklari",
+    "order": "Qaysi kartaga buyurtma berish?",
+    "how": "Qanday buyurtma berish kerak?",
+    "plastic": {
+      "title": "Asakabank plastik kartasi",
+      "text1": "Do'konlarda, mehmonxonalarda, uyali aloqa uchun, yoqilg'i quyish shoxobchalarida, metroda va hokazolarda tovarlar yoki xizmatlar uchun haq to'lashning qulay usuli;",
+      "text2": "Avtoulov krediti uchun tez va oson to'lash imkoniyati;",
+      "text3": "Mablag'larning o'rtacha oylik qoldig'i bo'yicha oylik daromad;",
+      "text4": "Yo'qolgan yoki shikastlangan holda sug'urta qilish"
+    },
+    "advantages": {
+      "title": "Qulay va ishonchli himoyalangan debet kartasini rasmiylashtirsh har bir kishi uchun foydalidir: uy bekalari, xodimlar, tadbirkorlar.",
+      "text1": "Qog'oz pullarni olib yurishning hojati yo'q: tovarlar, xizmatlar karta bilan to'lanishi mumkin, hatto taksida ham to'lash imkonini beradi;",
+      "text2": "Operatsiyalarni bajarishda xatolarning minimal xavfi: chekda ko'rsatilgan miqdordan ko'proq narsani yozib olish mumkin emas;",
+      "text3": "Internetda xarid qilish qulayligi;",
+      "text4": "Pul mablag'larining ishonchli xavfsizligini ta'minlash, chunki u o'g'irlangan yoki yo'qolgan bo'lsa ham, hujumchilarga pul olish imkonini bermasdan darhol bloklanishi mumkin;",
+      "text5": "Siz bankomatlar va terminallar mavjud bo'lgan joyda, chet elda xarid qilishingiz va naqd pul olishingiz mumkin;",
+      "text6": "Xaridlar va xizmatlar uchun to'lovlar sheriklarimizdan turli bonuslarni taklif qilish bilan birga keladi, bu ham juda foydali. Debet karta egalari mobil ilovadan bepul foydalanishlari mumkin, ular byudjetni prognoz qilishlari, xaridlarni kuzatishlari mumkin.",
+      "text7": "Pul mablag'larining ishonchli saqlanishini ta'minlash, chunki u o'g'irlangan yoki yo'qolgan taqdirda ham kiberjinoyatchilarning pul olishiga to'sqinlik qilib, uni darhol blokirovka qilish mumkin;"
+    },
+    "sms": {
+      "title": "SMS - xabarnoma xizmati",
+      "body": "SMS - xabarnoma xizmati"
+    },
+    "bankomat": {
+      "title": "Bankomatlar",
+      "body": " To'lov ishi uchun bankomatlar ro'yxati"
+    },
+    "inf": {
+      "title": "Infokiosklar",
+      "body": " Biznesingiz uchun eng qulay takliflar"
+    },
+    "detail": {
+      "issue": "Kartani chiqarish",
+      "free": "bepul",
+      "proctor": "Komissiya",
+      "card_currency": "Karta pul birligi",
+      "deposit": "Depozit",
+      "year": "yil",
+      "validity_period": "Amal qilish muddati",
+      "about_card": "Karta haqida",
+      "recipes_and_conditions": "Tariflar va shartlar",
+      "files": "Hujjatlar",
+      "required_documents": "Zarur hujjatlar"
+    }
+  },
+  "ExchangeRates": {
+    "title": "Valyuta kursi",
+    "tab1": "Jismoniy shaxslar uchun",
+    "tab2": "Yuridik shaxslar uchun",
+    "tab3": "Markaziy bank kursi",
+    "th1": "Valyuta",
+    "th2": "Sotib olish",
+    "th3": "Sotish",
+    "btn_rate": "Online savdo valyuta kursi",
+    "information": "Ma'lumotlar",
+    "convertor": "Valyuta konvertori",
+    "footer_title": "Filiallar va bankomatlar",
+    "footer_body": "«Asakabank» filiallari va bankomatlarining kartadagi manzillari, shuningdek ish jadvali, telefon raqamlari.",
+    "footer_btn": "o'tish"
+  },
+  "Corp_Kredit": {
+    "Detail": {
+      "tab1": "Kredit haqida",
+      "tab2": "Xorijiy kredit liniyalar",
+      "tab3": "Hujjatlar"
+    },
+    "tab2": {
+      "title": "Xorijiy kredit liniyalari",
+      "btn": "«ASAKABANK» DA XTTB (energiyatejamkorlik) KREDIT LINIYASINING LOYIHASI DOIRASIDA MA'LUMOT",
+      "th": "Loyihalar:",
+      "td": "Eskirgan kommunal xizmatlar va uskunalarni yangi energiya tejaydigan uskunalar bilan almashtirish orqali sanoat korxonalarining energiya samaradorligini oshirish bo'yicha loyihalar",
+      "td1": "Qarz oluvchi:",
+      "td2": "Sanoat sohasida tovar ishlab chiqaradigan ro'yxatdan o'tgan kompaniyalar",
+      "td3": "Kreditdan maqsadli foydalanish:",
+      "td4": "Quyidagi yo'nalishlar bo'yicha import qilinadigan uskunalar va texnologiyalarni xarid qilishni moliyalashtirish:",
+      "li": "energiya tizimlari (qozonxonalarni modernizatsiya qilish va boshqa turdagi yoqilg'iga o'tish, estrodiol energiya ishlab chiqarish uchun uskunalardan foydalanish, kogeneratsiya inshootlaridan, elektr tizimlaridan, shu jumladan siqilgan havo tizimlaridan foydalanish va boshqalar;",
+      "li1": "qayta ishlash texnologiyalari (energiya samaradorligini oshirish maqsadida uskunalar, mashinalar va inshootlarni modernizatsiya qilish va almashtirish);",
+      "li2": "ikkilamchi issiqlik va chiqindilardan foydalanish;",
+      "li3": "sanoat korxonalari tomonidan yoqilg'i va / yoki elektr energiyasi sarfini kamaytirish uchun qayta tiklanadigan energiya manbalaridan (RES) foydalanish masalasini ham ko'rib chiqish mumkin (masalan: qozonlarda, texnologik pechlarda va quritish inshootlarida biogaz ishlab chiqarish va ulardan foydalanish)."
+    }
+  },
+  "TariffsAndConditions": {
+    "conditions": "Omonat shartlari",
+    "percent": "Foiz stavkasi",
+    "documents": "Kerakli hujjatlar",
+    "for_download": "Yuklab olish uchun"
+  },
+  "Transfers": {
+    "transfer_tariff": "O'tkazmalar uchun tarif",
+    "about_transfer": "O'tkazma haqida",
+    "to_perform": "Amalga oshirish tartibi",
+    "transfer_information": "Pul o'tkazmalarini yuborish uchun zarur ma'lumotlar",
+    "proof": "Sizning shaxsingizni tasdiqlovchi hujjat",
+    "recipient": "Pul o'tkazmasini qabul qilib oluvchining familiyasi va ismi",
+    "state": "Pul o'tkazmasini qabul qilib oluvchining davlati",
+    "send_money": "Pul mablag'larini yuborish",
+    "advantages": "Asakabank xizmatlarining barcha afzalliklaridan foydalaning",
+    "rates": "Stavkalar",
+    "summa": "Summa",
+    "regardless": "Miqdoridan qat'i nazar",
+    "tariff": "Tarif",
+    "conditions": "Shartlar",
+    "minimum": "Minimal stavka",
+    "transfer_currency": "O'tkazma summasi",
+    "transfer_countries": "O'tkazma mintaqalari",
+    "commission": "O'tkazma uchun kommissiya"
+  },
+  "SaveMoney": {
+    "deposit_box": "Depozitar qutilar",
+    "privacy": "Maxfiylik",
+    "safety_guaranteed": "Mijoz ma'lumotlari va seyfdagi buyumlarni maxfiyligi kafolatlangan",
+    "reliable": "Ishonchli",
+    "cash": "Kassani faqat bir vaqtning o'zida asosiy kalit va mijoz kalitlarini burish orqali ochish mumkin",
+    "comfortable": "Qulay",
+    "check": "Istalgan vaqtda depozitar qutilarni tekshirish",
+    "unlimited": "Cheklanmagan",
+    "rent": "Siz depozitar qutini istalgan muddatga ijaraga olishingiz mumkin",
+    "save": "Boyliklarni saqlash",
+    "safe": "Shaxsiy bank seyfi, bu naqd pul, zargarlik buyumlari, qimmatli qog'ozlar, qimmatbaho metallar va toshlar, maxfiy hujjatlar, qoldiqlar va boshqa qimmatbaho buyumlarning saqlanishi.",
+    "safe2": "Asakabankida shaxsiy bank seyfini ijaraga berib, ish safari yoki ta'tilga chiqqanda sizning qadrdon narsalaringiz to'liq xavfsiz bo'lishiga amin bo'lishingiz mumkin.",
+    "rent2": "Depozit qutilarini ijaraga olish",
+    "boxSize": "Quti hajmi",
+    "rentPrice": "Ijara haqi",
+    "period": "Muddati",
+    "lostKey": "Yo'qotilgan kalitlar uchun jarima",
+    "depositary": "Depozitary",
+    "where": "Qayerda seyfni ijaraga olsa bo'ladi",
+    "address": "Manzil",
+    "for_contact": "Aloqa uchun"
+  },
+  "Dashboard": {
+    "f": "Field to'ldirilishi shart",
+    "c": "Yaratildi",
+    "y": "Yangilandi",
+    "e": "Xatolik",
+    "d": "O'chirishni xoxlaysizmi ?",
+    "d1": "O'chirildi",
+    "d2": "O'chirishda xatolik",
+    "n": "Yangilandi",
+    "AboutBank": {
+      "name": "Nomlanishi",
+      "members": "A'zolar",
+      "position": "lavozimi",
+      "employeeName": "Xodim ismi",
+      "bio": "Xodim biografiyasi",
+      "add": "Xodim qo'shish",
+      "bOnly": "Biografiya bo'limi faqat bank boshqaruvi xodimlar uchun",
+      "work_place": "ish joyi",
+      "birth_place": "tug'ilgan joyi",
+      "nationality": "millati",
+      "education": "ta'lim",
+      "speciality": "ixtisosligi",
+      "birth_year": "tug'ilgan yil",
+      "work_experience": "ish tajribasi",
+      "current_position_held_year": "joriy ishlagan yili",
+      "fio": "F.I.SH",
+      "description": "Tavsif",
+      "phone": "Raqam",
+      "email": "Email",
+      "type": "Turi"
+    },
+    "Branches": {
+      "filialName": "Filial nomi",
+      "province": "Viloyat",
+      "address": "Manzil",
+      "deposit": "Depozit",
+      "type": "Tip",
+      "date": "Sana"
+    },
+    "sidebar": {
+      "main": "Bosh sahifa",
+      "cards": "Karta bo'limi",
+      "cards_list": "Kartalar ro'yxati",
+      "card_applies": "Arizalar ro'yxati",
+      "credit_department": "Kredit bo'limi",
+      "deposit_box_department": "Omonat quti bo'limi",
+      "list_of_loans": "Kreditlar ro'yxati",
+      "deposit_department": "Omonat bo'limi",
+      "list_of_deposits": "Omonatlar ro'yxati",
+      "list_of_saving_boxes": "Omonat qutilar ro'yxati",
+      "money_transfer_department": "Pul o'tqazma bo'limi",
+      "list_of_transfers": "O'tqazmalar ro'yxati",
+      "list_of_country": "Davlatlar ro'yxati",
+      "country": "Davlat",
+      "region": "Viloyat",
+      "list_of_regions": "Viloyatlar ro'yxati",
+      "list_of_branches": "Filiallar ro'yxati",
+      "press_center": "Matbuot markazi",
+      "category_section": "Yangilik kategoriya bo'limi",
+      "news_section": "Yangiliklar va ogohlantirish",
+      "promotion": {
+        "promotion_text": "Aksiya"
+      },
+      "young_policy": {
+        "young_policy_text": "Yoshlar siyosati"
+      },
+      "financial_literacy": {
+        "financial_literacy_text": "Moliyaviy savodxonlik"
+      },
+      "tenders": {
+        "tenders_text": "Tenderlar"
+      },
+      "useful_links": {
+        "useful_links_text": "Foydali havolalar"
+      },
+      "videos": {
+        "videos_text": "Video materiallar"
+      },
+      "photos": {
+        "photos_text": "Foto materiallar"
+      },
+      "slide_section": "Slayd bo'limi",
+      "shareholder": "Aksionerlar bo'limi",
+      "documents": "Hujjatlar bo'limi",
+      "annual_documents": "Yillik hujjatlar",
+      "about_bank": {
+        "text": "Bank haqida",
+        "awards": {
+          "text": "Yutuqlar bo'limi",
+          "description": "Yutuqlar haqida ma'lumot",
+          "name": "Yutuq nomi"
+        },
+        "careers": {
+          "text": "Karera bo'limi",
+          "description": "Karera haqida ma'lumot",
+          "requirement": "Karera talablari",
+          "workplace": "Ish joyi",
+          "name": "Karera nomi"
+        },
+        "structure": {
+          "text": "Bank tuzilishi bo'limi"
+        },
+        "structure_division": {
+          "text": "Tarkibiy bo'linma"
+        }
+      },
+      "users": {
+        "users": "Foydalanuvchilar",
+        "users_list": "Foydalanuvchilar ro'yxati"
+      },
+      "roles": {
+        "roles": "Rollar",
+        "roles_list": "Rollar ro'yxati"
+      },
+      "log_out": "Chiqish"
+    },
+    "repeat_password_text": "Yangi va takroriy parol teng bo'lishi kerak.",
+    "add_new": "Yangi qo'shish",
+    "create": "Yaratish",
+    "update": "Yangilash",
+    "read": "Ko'rish",
+    "delete": "O'chirish",
+    "completed": "Yopilgan",
+    "deleted": "O'chirilgan",
+    "new": "Yangi",
+    "cards": {
+      "debit_cards": "Debet kartalar",
+      "card_name": "Karta nomi",
+      "card_information": "Karta haqida ma'lumot",
+      "cards_list": "Kartalar",
+      "card_type": "Karta turi",
+      "issue_a_card": "Kartani chiqarish",
+      "fee_of_card": "Karta komissiyasi",
+      "card_currency": "Karta valyutasi",
+      "deposit": "Depozit",
+      "expiry_date": "Tugash sanasi",
+      "card_photo": "Karta rasmi",
+      "terms_and_condition": "Shart va talablar",
+      "card_properties": "Karta xususiyatlari",
+      "card_error_alert": "Birinchi karta yaratilishi shart",
+      "title_properties": "Karta sarlavhasi",
+      "description": "Ta'rif"
+    },
+    "document": {
+      "title": "Hujjat sarlavhasi",
+      "description": "Hujjat ta'rifi",
+      "for_download_text": "Yuklab olinadigan hujjatlar uchun"
+    },
+    "credits": {
+      "name": "Kredit nomi",
+      "period": "Kredit davri",
+      "initial_fee": "Boshlang'ich to'lov",
+      "create_credit_text": "Kredit yaratish",
+      "description": "Kredit haqida ma'lumot",
+      "loan_amount": "Kredit miqdori",
+      "bhm": "BHM",
+      "is_available": "Kredit mavjudligi",
+      "credit_prop": "Kredit xususiyatlari",
+      "create_calculator": "Kredit kalkulyator yasash",
+      "credit_error_alert": "Birinchi kredit yaratilishi shart",
+      "payment_methods": "To'lov usullari",
+      "interest_rate": "Foiz stavkasi",
+      "credit_calc_step_text1": "Ko'chmas mulk bozori turi",
+      "real_estate": "Ko'chmas mulk",
+      "initial_payment": "Boshlang`ich to`lov",
+      "loan_term": "Kredit muddati",
+      "quantity": "Miqdor",
+      "grace_period": "Imtiyozli davr",
+      "deposit_amount": "Depozit miqdori"
+    },
+    "deposit": {
+      "create_deposit_name": "Omonat yaratish",
+      "deposit_prop": "Omonat xusisiyatlar",
+      "create_deposit_period": "Omonat davrini yaratish",
+      "deposit_period": "Omonat davri",
+      "name": "Omonat nomi",
+      "description": "Omonat haqida ma'lumot",
+      "save_period": "Saqlash muddati",
+      "deposit_type": "Omonat turi",
+      "placement_percentage": "Qo'yish foizi",
+      "deposit_is_available": "Omonat mavjudligi",
+      "deposit_error_alert": "Birinchi omonat yaratilishi shart",
+      "deposit_title": "Omonat sarlavhasi",
+      "deposits": "Omonatlar"
+    },
+    "deposit_box": {
+      "name": "Omonat qutisining nomi",
+      "size": "Omonat qutisining o'lchami",
+      "rent_price": "Omonat qutisining ijara narxi",
+      "period": "Omonat quti ijara vaqti",
+      "lost_key_fee": "Omonat quti jarimasi",
+      "phone": "Telefon",
+      "address": "Omonat quti manzili",
+      "is_available": "Omonat quti uchun yaratish",
+      "deposit_box": "Omonat quti",
+      "deposit_box_view": "Omonat quti sahifasi"
+    },
+    "transfers": {
+      "transfer_create": "O'tqazma yaratish",
+      "name": "O'tqazma nomi",
+      "description": "O'tqazma haqida ma'lumot",
+      "commission": "Komissiya",
+      "transfer_prop": "O'tqazma xusisiyatlar",
+      "transfer_error_alert": "Birinchi transfer yaratilishi shart",
+      "transfer_currency": "O'tqazma valyutasi",
+      "transfer_tariff": "O'tqazma uchun tariff",
+      "transfer_country": "O'tqazma uchun davlatlar",
+      "transfer_amt_min": "O'tqazma summasi",
+      "commission_fee_min": "O'tqazma kommissiyasi"
+    },
+    "country": {
+      "name": "Davlat nomi"
+    },
+    "region": {
+      "name": "Viloyat nomi"
+    },
+    "branch": {
+      "name": "Filial nomi",
+      "address": "Filial manzili",
+      "phone": "Telefon",
+      "fax": "Faks",
+      "email": "Email",
+      "type": "Turi",
+      "location": "Joylashuv",
+      "lat": "kenglik",
+      "lng": "uzunlik",
+      "status": "Xolat"
+    },
+    "news": {
+      "name": "Yangilik nomi",
+      "description": "Yangilik haqida ma'lumot"
+    },
+    "slide": {
+      "title": "Slayd sarlavhasi",
+      "description": "Slayd haqida ma'lumot",
+      "more_button_text": "Tugma matni",
+      "more_button_link": "Tugma havolasi",
+      "open_fee_account": "Bepul hisob ochish"
+    },
+    "deposit-view": {
+      "title": "Sahifa sarlavhasi",
+      "description": "Sahifa tog'risidagi ma'lumot",
+      "sub_description": "Sahifa tog'risidagi ma'lumot"
+    },
+    "shareholder": {
+      "title": "Sarlavha",
+      "percent": "Foiz",
+      "link": "Vebsayt havolasi",
+      "name": "Tashkilot nomi"
+    },
+    "category": "Kategoriya",
+    "category_name": "Kategoriya nomi",
+    "recent_posts": "Recent posts",
+    "upload_file": "Faylni yuklash",
+    "upload_photo": "Rasm yuklash",
+    "back": "Ortga qaytish",
+    "documents": "Hujjatlar",
+    "fio": "F.I.O",
+    "phone": "Nomer",
+    "status": "Status",
+    "branches": "Filial",
+    "data": "Sana",
+    "terms_and_condition": "Shart va talablar",
+    "month": "oy",
+    "percentage_linked_month": "oyga bog'langan foiz",
+    "percent": "foiz",
+    "no_information_found": "Ma'lumot topilmadi",
+    "min": "minumum",
+    "max": "maksimum",
+    "second": "ikkinchi",
+    "load_more": "Yana yuklash ..."
+  },
+  "Services": {
+    "online_services": "Online xizmatlar",
+    "mobile_bank": "Mobil bank",
+    "on_arm": "Bankingiz doim kaftingizda",
+    "sms": "SMS-xabarnoma",
+    "payments": "Barcha to'lovlar haqida xabardor bo'ling",
+    "money_transfer": "Kartadan kartaga pul o'tkazish",
+    "money_transfer_sub": "Zarur bo'lgan kartaga mablag'larni o'tkazing",
+    "credit_calc": "Kredit kalkulyatori",
+    "credit_calc_sub": "Yangi muvaffaqiyatli xaridlar uchun kreditni hisoblang",
+    "deposit_calc": "Depozit kalkulyator",
+    "deposit_calc_sub": "Depozit kalkulyatorlar",
+    "open_card": "Karta ochish",
+    "open_card_sub": "Kartaning barcha afzalliklaridan foydalaning",
+    "online_credit": "Online kredit",
+    "online_credit_sub": "Orzuingizgacha bir necha qadam",
+    "open_deposit": "Omonat ochish",
+    "open_deposit_sub": "Hoziroq omonatni rasmiylashtiring",
+    "check_application": "Arizaning holatini tekshirish",
+    "check_application_sub": "So'rovingiz holatini bilib oling",
+    "offline_services": "Offline xizmatlar",
+    "offices": "Ofis va bankomatlar",
+    "offices_sub": "Barcha mablag'lar cho'ntagingizda",
+    "exchange": "Valyuta ayirboshlash",
+    "exchange_sub": "Istalgan vaqtda valyuta ayirboshlash imkoniyati",
+    "deposit_box": "Depozitar qutilar",
+    "deposit_box_sub": "Jamg'armaningizni himoya qiling",
+    "money_transfer_offline": "Pul o'tkazmalari",
+    "money_transfer_sub_offline": "Har doim o'z vaqtida, har doim siz bilan",
+    "tariffs": "Tariflar",
+    "tariffs_sub": "Xususiy mijozlar uchun tariflar",
+    "Mobile_banking": {
+      "finance": "Moliya monitoringi",
+      "finance_sub": "Istalgan vaqtda hisoblaringizni tekshiring",
+      "payment_for_services": "Xizmatlar uchun to'lov",
+      "payment_for_services_sub": "Depozitlarni oching, kreditlarni to'lang, navbatsiz valyutani sotib oling",
+      "important": "Muhim voqealar haqida xabarlar",
+      "important_sub": "Murojaatlar va to'lovlar holatini tekshiring",
+      "install": "Ilovani o'rnatish",
+      "install_sub": "Mobil ilovaning kerakli versiyasini tanlang",
+      "IOS": "IOS qurilmalari egalari uchun",
+      "android": "Android qurilmalari egalari uchun",
+      "download": "Yuklash",
+      "how_to_transfer": "\"Qanday qilib pul o'tkazish kerak\"",
+      "how_to_make_payments": "\"To'lovni qanday qilish kerak\"",
+      "how_to_get_credit": "\"Qanday qilib kredit olish mumkin\"",
+      "how_to_open_deposit": "\"Qanday qilib omonat ochish kerak\"",
+      "how_to_pay": "\"Kommunal to'lovlarni qanday to'lash kerak\""
+    },
+    "SMS": {
+      "potentials": "Imkoniyatlar",
+      "text1": "Ushbu xizmat turi orqali siz o’zingizning plastik kartochkangiz bilan bog’lik barcha amaliyotlar xaqida ma’lumotlarni avtomatik SMS orqali yoki E-MAIL orqali olishingiz mumkin. Siz bu bilan o’zingizni turli xil firibgarliklardan ximoya qilgan bo’lasiz.",
+      "text2": "Siz istalgan vaqtda xisoblangan oylik maosh, mukofot va boshqa unga tenglashtirilgan to’lovlar xaqida ma’lumot olish imkoniyatiga ega bo’lasiz, bundan tashqari kartochkaga yuklash lozim bo’lgan yoki kutilayotgan mablag’larni, chiqim amaliyotlari, ularning sanasi, savdo nuqtalari va shunga o’xshash turli ma’lumotlarni olishingiz mumkin.",
+      "text3": "Yuqoridagi xizmat turlari TM UCell, TM Beeline va TM Perfectum Mobile mijozlari uchun mavjud.",
+      "activate": "SMS-xabarnomani qanday faollashtirish mumkin ?",
+      "activate_sub": "3 oddiy qadamni bajaring",
+      "one": "Kartangizni bankomat yoki infokioskka joylashtiring",
+      "two": "Menyudan sms-ma'lumotnomani tanlang",
+      "three": "SMS-xabarnoma qaysi raqamga yuborilishini belgilang",
+      "contact_with_us": "Yoki biz bilan bog'laning",
+      "contact_with_us_sub": "Siz bankimizning istalgan filialiga murojaat qilishingiz mumkin va biz sizga yordam beramiz.",
+      "filial": "Filiallar",
+      "sms": "SMS - xabarnoma xizmati",
+      "sms_sub": "SMS - xabarnoma xizmati",
+      "atm": "Bankomatlar",
+      "atm_sub": "To'lov ishi uchun bankomatlar ro'yxati",
+      "info": "Infokiosklar",
+      "info_sub": "Biznesingiz uchun eng qulay takliflar"
+    },
+    "OpenCard": {
+      "FISH": "F.I.Sh",
+      "FISH_sub": "Masalan: Azizov Aziz Azizovich",
+      "phone": "Telefon",
+      "phone_sub": "Telefon nomer",
+      "mail": "E-mail",
+      "stir": "STIR",
+      "stir_sub": "Misol uchun: 100100",
+      "address": "Manzil",
+      "documents": "Hujjatlar",
+      "documents_sub": "Faylni biriktiring",
+      "passport": "Pasport nusxasi",
+      "passport_notification": "Bu yerga pasportingiz skaner qilingan faylni joylashtiring. Rasm formati png, jpeg, pdf yoki doc(x) da bo'lishi kerak va 4mb hajmidan oshmasligi zarur",
+      "card_type": "Karta turi",
+      "card": "Karta",
+      "residence": "Yashash joyingiz",
+      "residence_sub": "Hududni tanlang",
+      "filial": "Filial",
+      "filial_sub": "Filialni tanlang",
+      "typeApplication": "Murojaat turi",
+      "typeApplication_sub": "Murojaat turini tanlang",
+      "message": "Xabar",
+      "oferta": "Ommaviy oferta",
+      "oferta_sub": "shartlari bilan tanishdim",
+      "application": "Ariza qoldirish",
+      "sendApplication": "murojaat yuborish",
+      "currency_type": "Valyuta turi",
+      "deposit_type": "Omonat turi",
+      "deposit_quantity": "Omonat miqdori",
+      "deposit_date": "Omonat muddati",
+      "no_data": "Ma'lumotlar yo'q",
+      "OrganizationName": "Tashkilot nomi",
+      "ForExample": "Misol uchun: Asakabank",
+      "TypeOfLoan": "Kredit turi",
+      "Amount": "Miqdori",
+      "DateOfBirth": "Tug'ilgan sanangiz",
+      "LoanTerm": "Kredit muddati",
+      "initial_amount": "Boshlang'ich to'lov",
+      "PurposeOfTheLoan": "Kredit maqsadi",
+      "months": "oy"
+    },
+    "CheckApplication": {
+      "phone": "Telefon raqamingiz",
+      "check": "Tekshirish",
+      "list": "Murojaatlar ro'yxati",
+      "query_status": "So'rov holati",
+      "sent_time": "Arizaning yuborilgan sanasi",
+      "type": "Arizaning turi",
+      "status": "Arizaning holati",
+      "not_found": "Murojaat topilmadi"
+    },
+    "CurrencyExchange": {
+      "exchange_services": "Ayirboshlash shaxobchalarining xizmatlari",
+      "text1": "naqd xorijiy valyutani O'zbekiston Respublikasining naqd valyutasiga sotib olish",
+      "text2": "naqd xorijiy valyutani O'zbekiston Respublikasining naqd valyutasiga sotish",
+      "text3": "bank hisobvaraqlariga, jismoniy shaxslarning chet el valyutasidagi depozitlari bo'yicha hisobvaraqlarga kreditlar kiritish uchun chet el valyutasidagi naqd pullarni qabul qilish",
+      "text4": "bank hisob raqamlaridan, jismoniy shaxslarning chet el valyutasidagi depozitlari hisobvarag'idan naqd xorijiy valyutani olish",
+      "text5": "xorijiy davlatlar (xorijiy davlatlar guruhi) va ularning haqiqiyligiga shubha tug'diradigan O'zbekiston Respublikasi Markaziy bankining banknotalarini ekspertizaga yuborish uchun qabul qilish",
+      "branches": "Valyuta ayirboshlash punktlari",
+      "where": "Qayerdan valyuta ayirboshlasa bo'ladi?"
+    },
+    "Tariffs": {
+      "to_physical": "Xususiy mijozlarga",
+      "to_corporate": "Yuridik shaxslarga",
+      "tariffs": "Tariflar"
+    },
+    "Map": {
+      "title": "Ofislar va bankomatlar joylashgan joyi",
+      "label": "Viloyat",
+      "pl": "Viloyatni tanlang",
+      "ch1": "Mini bank",
+      "ch2": "Filiallar",
+      "ch3": "Bank xizmatlari markazlari",
+      "ch4": "Bankomatlar",
+      "ch5": "Infokiosklar",
+      "ch6": "Valyuta ayirboshlash",
+      "ch7": "Ro'yxat",
+      "ch8": "Xaritada"
+    },
+    "Offices": {
+      "title": "Ofislar",
+      "desc": "Bog'lanish uchun",
+      "bank": "Asakabank"
+    }
+  },
+  "Cooperative": {
+    "Cards": {
+      "all_cards": "Barcha kartalar",
+      "card_out": "Kartani chiqarish",
+      "commission": "Kommissiya",
+      "usd": "AQSH dollari",
+      "sum": "O'zb so'm",
+      "sum2": "so'm",
+      "currency": "Karta pul birligi",
+      "year": "yil",
+      "expiration": "Amal qilish muddati",
+      "tariffs": "Kartadan foydalanish uchun tariflar",
+      "good_for_all": "Qulay va ishonchli xavfsiz debet kartasini olish har kimga foydalidir: uy bekalari, ishchilar, tadbirkorlar. \nBuning bir nechta sabablari bor:",
+      "good_text1": "Siz bilan qog'oz hisob-kitoblarni va kichik pullarni olib yurishning hojati yo'q: tovarlarni, xizmatlarni karta bilan to'lash mumkin, bu hatto taksida to'lashga imkon beradi;",
+      "good_text2": "Tranzaksiyalarda xatolarning minimal xavfi: chekda ko'rsatilgan miqdordan ortiqcha hisobdan chiqarish mumkin emas; Internetda xarid qilish qulayligi;",
+      "good_text3": "Siz Rossiyaning istalgan shaharlarida, chet elda bankomatlar va terminallar mavjud bo'lgan joyda xaridlarni amalga oshirishingiz va naqd pul olishingiz mumkin; egasi balansda foizlar ko'rinishida foyda olishi mumkin (tarif rejasiga qarab).",
+      "good_text4": "Xaridlar va xizmatlar uchun to'lovlar sheriklarimiz tomonidan turli xil bonuslarni taklif qilish bilan birga keladi, bu ham juda foydali. Debet kartalar egalari mobil dasturga bepul kirish huquqiga ega, ular byudjetni taxmin qilishlari, xaridlarni kuzatishi mumkin."
+    },
+    "FInancing": {
+      "p1": "“Asakabank”i jahon va ichki moliyaviy bozordagi rivojlanish tendensiyalari o’zgarishlariga o’z vaqtida munosabat bildirish orqali O’zbekiston va chet eldagi bank korrespondentlar bilan munosabatlarni rivojlantirishga alohida e’tibor qaratmoqda. “Asaka” bank korrespondentlik munosabatlarini olib borishdagi o’z faoliyatini nafaqat o’z pozitsiyalaridan, balki, avvalambor bank mijozlari pozitsiyalaridan baholaydi. Ular uchun optimal sharoitlar bank tomonidan 24 yillik faoliyat davomida samaradorlik, to’lovlarning iqtisodiyligi, ijro muddatlari va komission harajatlarning past darajaliligi orqali yaratildi.",
+      "p2": "Hamkorlik yo’nalishlari spektrini kengaytirish va xizmat ko’rsatish sifatini oshirish orqali, bank o’z korrespondentlik tarmog’ini muntazam kengaytirib kelmoqda. Hozirgi kunda bank dunyoning 370 dan ortiq yetakchi horijiy banklari bilan korrespondentlik munosabatlarini o’rnatgan. Yirik horijiy banklardagi korrespondentlik hisoblari tarmog’i orqali “Asakabank” o’zining dunyoning asosiy moliyaviy markazlarida mavjudligini ta’minladi. Bank Germaniya, Avstriya, Yaponiya, AQSh, Buyuk Britaniya, Italiya, Shvetsariya, Xitoy Xalq Respublikasi, Korea Respublikasi, Rossiya va boshqa mamlakatlarning yetakchi banklari bilan korrespondentlik munosabatlarini olib boradi",
+      "p3": "Hozirgi kunda bank-korrespondentlar soni “Asakabank” tomonidan bajarilayotgan mijozlarning so’rovi bo’yicha barcha banklararo operatsiyalarni qoplashni ta’minlay oladi. Zarurat tug’ilganida “Asaka” bank yangi banklar bilan korrespondentlik munosabatlarini o’rnatish bo’yicha ishlarni operativ suratda olib borishga tayyor",
+      "p4": "Dunyoning moliyaviy institutlari bilan munosabatlarni rivojlantirish an’anaviy ravishda bank faoliyatining ustuvor yo’nalishlaridan biri hisoblanadi. Xalqaro moliyaviy muassasalar bilan hamkorlikni rivojlantirishda asosiy e’tibor investitsion loyihalarni o’rta va uzoq muddatga moliyalashtirish sohasi, savdo operatsiyalarini qisqa muddatga moliyalashtirish (savdoni moliyalashtirish), bank faoliyatidagi turli xil masalalar bo’yicha bilim va tajriba almashish, kasbiy ta’lim dasturlarida qatnashish va boshqalarga qaratiladi.",
+      "p5": "“Asakabank” doimiy asosda turli xil mahalliy va xorijiy assotsiatsiyalar bilan sheriklikni muntazam rivojlantiradi va hozirgi kunda O’zbekiston Banklari Assotsiatsiyasi, O’zbekiston Respublikasi Savdo-Sanoat Palatasi, Osiyo Bankirlar Assotsiatsiyasi (OBA), Osiyo va Tinch Okeani Moliyaviy Institutlarini Rivojlantirish Assotsiatsiyasi (OTOMIRA), SWIFT, THOMSON REUTERS va Mastercard kabi tashkilotlarning a’zosi hisoblanadi.",
+      "p6": "Hisob kitoblarning sifati, tezligi va ishonchliligiga alohida e’tibor berish, boshqa banklar bilan munosabatlarni rivojlantirishga alohida yondashuvni qo’llash orqali “Asakabank” keyinchalik ham o’zining ichki va xalqaro bozordagi pozitsiyalarini mustahkamlashga harakat qiladi.",
+      "services_list": "Xizmatlar ro'yxati",
+      "open_account": "Hisob raqam ochish va xizmat ko'rsatish",
+      "open_account_1": "Respublika miqiyosida valyuta o`tkazmalari",
+      "open_account_2": "Valyuta mablag'larini O'zbekiston Respublikasidan tashqariga o'tkazish",
+      "open_account_3": "Naqd pul mablag'lari bilan operatsiyalar",
+      "open_account_4": "Konvertatsiya operatsiyalar",
+      "document_operations": "Hujjatli operatsiyalar",
+      "document_operations_1": "Xorijiy valyutadagi hujjatli akkreditivlar bilan operatsiyalar",
+      "document_operations_2": "Bank kafolatlari va kafilliklarini taqdim etish",
+      "foreign_operations": "Tashqi iqtisodiy faoliyat bilan bog'liq operatsiyalar",
+      "foreign_operations_1": "Tashqi iqtisodiy faoliyat bilan bog'liq operatsiyalar",
+      "foreign_operations_2": "Chet el valyutasini konvertatsiya qilish (sotib olish/sotish)",
+      "foreign_operations_3": "SVOP operatsiyalar",
+      "foreign_operations_4": "SVOT operatsiyalari",
+      "foreign_operations_5": "Elektron shartnoma bo'yicha maslahat",
+      "tariffs": "Tariflar",
+      "tariffs_sub": "Tashqi iqtisodiy va valyuta operatsiyalari",
+      "column": "Operatsiyalar nomi:",
+      "column1": "Import akkreditivlari:",
+      "column2": "Akkreditivni oldindan vizalash",
+      "stavka": "Tarif stavkasi",
+      "text1": "Asakabank yangi ishlab chiqarishni qurish va kengaytirish, modernizatsiya qilish, ishlab chiqarishni texnik qayta jihozlash (shu jumladan uskunalar, materiallar, yangi mahsulotlar namunalari, boshqa moddiy qimmatliklar va texnologiyalarni sotib olishga) qurishga qaratilgan investitsiya loyihalarini moliyalashtirishni ta'minlaydi.",
+      "text2": "Kreditlardan foydalanish muddati loyihaning qaytarilish muddatiga yoki chet el banklari va boshqa xalqaro moliya institutlarining jalb qilingan kredit liniyalari shartlari asosida (Vazirlar Mahkamasining tegishli qarorlari va kredit shartnomalari bilan belgilangan shartlarda) bog'liq).",
+      "text3": "Garov sifatida bank ko'char va ko'chmas mulk garovini, uchinchi shaxslarning kafolatlarini, O'zbekiston Respublikasi Hukumatining, sug'urta tashkilotlari va banklarining kafolatlarini va O'zbekiston Respublikasi qonunlarida taqiqlanmagan boshqa garov turlarini qabul qilishi mumkin.",
+      "text4": "Chet el banklari va boshqa moliya institutlarining mablag'lari tegishli mamlakatlar eksport kredit agentliklari kafolati bilan investitsiya loyihalarini kreditlash manbalari bo'lishi mumkin.",
+      "text5": "Loyihalarni moliyalashtirish bo'yicha loyihalarni amalga oshirish uchun bank sindikatlashgan kreditlashdan ham foydalanadi",
+      "text6": "Moliyalashtirish uchun qabul qilingan loyiha belgilangan tartibda tasdiqlangan loyihaning texnik-iqtisodiy asoslari, to'liq va belgilangan tartibda rasmiylashtirilgan shartnomalar va kerakli texnologik uskunalar to'plamini etkazib berish bo'yicha shartnomalar va boshqa shartnomalar bilan loyiha-smeta hujjatlari bilan ta'minlanishi kerak. loyihaning normal ishga tushirilishi va ishlab chiqarish tijorat faoliyatini ta'minlash",
+      "text7": "Asakabank korxonalarning, shu jumladan kichik biznes va xususiy tadbirkorlik sub'ektlarining investitsiya loyihalarini amalga oshirishga qiziqish bildirmoqda. \"Asaka\" bankning investitsiya faoliyatini muvofiqlashtirish va loyihalarni boshqarish markazi, shuningdek bank filiallari investitsiya loyihalarini amalga oshirishning barcha bosqichlarida zarur yordam va ko'mak ko'rsatishga tayyor.",
+      "no_way": "Bankga quyida kreditlarni berishga yo'l qo'yilmaydi:",
+      "no_way1": "siyosiy maqsadlar uchun kreditlar",
+      "no_way2": "qurol-yarog ', o'q-dorilar, portlovchi moddalar, shuningdek giyohvandlik vositalari yoki psixotrop moddalarni moliyalashtirish uchun kreditlar (qonun hujjatlarida ruxsat berilgan hollar bundan mustasno);",
+      "no_way3": "likvidsiz va past rentabellikdagi qimmatli qog'ozlar bilan ta'minlangan kreditlar",
+      "no_way4": "bankrot deb e'lon qilingan qarz oluvchilarga kreditlar",
+      "no_way5": "noqonuniy bo'lishi mumkin bo'lgan maqsadlar uchun kreditlar",
+      "no_way6": "boshqa davlatlarning yuridik shaxslariga kreditlar",
+      "no_way7": "sekin, eskirgan, to'liq bo'lmagan, nostandart, sifatsiz qimmatbaho buyumlar uchun kreditlar",
+      "bank_politics": "Bank siyosati",
+      "bank_politics1": "mahalliy hokimiyat organlari va byudjet tashkilotlari (O'zbekiston Respublikasining amaldagi qonunchiligida nazarda tutilgan hollar bundan mustasno);",
+      "bank_politics2": "foydasiz korxonalar yoki qarzdorlik bilan;",
+      "bank_politics3": "tadbirkorlik faoliyatini amalga oshirmaydigan jamoat tashkilotlari;",
+      "financing_projects": "Asosiy vositalarni xarid qilish uchun kreditlar",
+      "financing_projects_sub": "chet el banklari ishtirokida",
+      "table_header": "Landensbank Baden Wurttemberg, Commerzbank AG, KFV IPEX BANK va BANK (Germaniya) kredit liniyalari hisobidan kredit bersih shartlari to'g'risida ma'lumot",
+      "table_td": "Qarz oluvchiga talab:",
+      "table_td2": "Moliyaviy ko'rsatkichlari yaxshi bo'lgan yuridik shaxs - O'zbekiston Respublikasi rezidenti",
+      "table_td3": "Kredit yo'nalishi filiali",
+      "table_td4": "Cheklovsiz (O'zbekiston Respublikasi qonunchiligi bilan taqiqlanmagan)",
+      "increase_energy": "Sanoat korxonalarining energiya samaradorligini oshirish",
+      "increase_energy_sub": "Ushbu loyihani amalga oshirishda \"Asakabank\" faol ishtirok etmoqda",
+      "increase_energy_sub_text1": "Joriy yil 5-iyun kuni bo'lib o'tgan konferentsiyada O'zbekiston Respublikasi Iqtisodiyot vazirligi va Jahon banki Toshkentdagi Xalqaro biznes markazida \"Sanoatning energiya samaradorligini oshirish\" qo'shma loyihasini amalga oshirishning O'rta muddatli sharhini taqdim etdi. Korxonalar ”mavzusida o'tkazildi.",
+      "increase_energy_sub_text2": "Tadbir yuqori darajada bo'lib o'tdi. Konferentsiyada O'zbekiston Respublikasi Iqtisodiyot vaziri va Jahon bankining O'zbekistondagi vakolatxonasi rahbari, shuningdek, O'zbekistonda energiya tejaydigan uskunalar va texnologiyalarni ilgari surish bilan shug'ullanadigan milliy idoralar, idoralar, korxonalar rahbarlari ishtirok etishdi.",
+      "Dropdown1": {
+        "row1": "Akkreditivni ochish",
+        "row12": "summadan 0.5%, 420 000 so`mdan 8500 000 so`mgacha",
+        "row2": "Akkreditiv miqdorini oshirish",
+        "row21": "summadan 0.25%, 420 000 so`mdan 2100 000 so`mgacha",
+        "row3": "Akkreditiv shartlaridagi boshqa o'zgarishlar",
+        "row31": "210 000 so`m",
+        "row4": "Xatarlar uchun mukofot",
+        "row5": "Akkreditivda belgilangan valyutada qoplashni ta'minlash",
+        "row51": "summadan 0.25%, 420 000 so`mdan 2100 000 so`mgacha",
+        "row6": "Qoplanmasdan",
+        "row61": "Kelishuv asosida"
+      },
+      "Dropdown2": {
+        "header": "Umumiy xizmatlar",
+        "row1": "Bankning operatsion kunida SWIFT tizimi va boshqa aloqa kanallari orqali xabar yuborish uchun komissiya",
+        "row12": "100 000 so`m",
+        "row2": "Bankning operatsion kuni tugagandan so'ng SWIFT tizimi va boshqa aloqa kanallari orqali xabar yuborish uchun komissiya",
+        "row21": "170 000 so`m",
+        "row3": "SWIFT tizimi va boshqa aloqa kanallari orqali xabar yuborish bilan mijozning so'rovini bajarish",
+        "row31": "50 000 so'm + 100 000 so'm (SWIFT tizimi va boshqa aloqa kanallari orqali xabar yuborish uchun komissiya) + O'zbekiston Respublikasi Markaziy banki kursi bo'yicha Korrespondent bank komissiyasi",
+        "row4": "Mijozning so'rovini bajarish (SWIFT tizimi va boshqa aloqa kanallari orqali xabar yubormasdan)",
+        "row41": "20 000 so`m"
+      },
+      "Dropdown3": {
+        "header": "Xorijiy valyutadagi o'tkazmalar",
+        "row1": "O'zbekiston Respublikasidan tashqaridagi mablag'larni quyidagi ijro muddatlari bilan o'tkazish",
+        "row2": "Agar operatsiya kuni mobaynida kelib tushgan bo'lsa, topshiriq kelib tushgan kundan kechiktirmay",
+        "row21": "O'tkazma summasining 0,15% (kamida 100 000 so'm) + 100 000 so'm ( SWIFT tizimi va boshqa aloqa kanallari orqali xabar yuborish uchun komissiya) + o'tkazma uchun qo'shimcha komissiya",
+        "row3": "Agar bank amaliyot kuni tugaganidan keyin kelib tushgan bo'lsa, bankka pul o'tkazish bo'yicha topshiriqlar kelib tushgan kuni",
+        "row31": "O'tkazma summasining 0,15% (kamida 100 000 so'm) + 160 000 so'm ( SWIFT tizimi va boshqa aloqa kanallari orqali xabar yuborish uchun komissiya) + o'tkazma uchun qo'shimcha komissiya",
+        "row4": "Korrespondent bank komissiyasini yopishda o'tkazma uchun qo'shimcha komissiya",
+        "row5": "Mablag'larni jo'natuvchi hisobidan (\"OUR\" opsiyasi\")",
+        "row51": "100 000 so`m",
+        "row6": "O'zbekiston Respublikasi hududida-mablag'larni jo'natuvchi hisobidan, O'zbekiston Respublikasidan tashqarida - mablag'larni oluvchi hisobidan (\"SHA\" opsiyasi\")",
+        "row61": "Bepul"
+      },
+      "DocumentaryOperations": {
+        "text1": "Hujjatli operatsiyalar mijozlarning tashqi savdo operatsiyalari paytida xavfini kamaytirishga, pul oqimlarini ko'paytirishga, xorijiy banklar bilan ishonchli aloqalarni rivojlantirishga va mustahkamlashga yordam beradi.",
+        "text2": "Hujjatli operatsiyalar qo'shimcha faoliyatni rivojlantirishga yordam beradi, masalan, ichki valyuta bozoridagi konversion operatsiyalar, mijozlarga hujjatli operatsiyalar uchun kredit liniyalarini taqdim etish, mijozlar hisobvarag'idagi qoldiqlarni ko'paytirish va boshqalar.",
+        "text3": "Hujjatli operatsiyalarni amalga oshirishda u mijozlarning tashqi iqtisodiy operatsiyalarini amalga oshirish uchun ikkala standart sxemalardan foydalanadi va kreditlash va savdoni moliyalashtirish vositalaridan foydalangan holda individual to'lov sxemalarini taklif etadi. Ushbu munosabatlarning natijalari - bu kredit liniyalari, shuningdek, birinchi darajali banklar tomonidan hujjatsiz akkreditivlarni tasdiqlash to'g'risidagi bitimlar, bu bizga yopiq bo'lmagan akkreditivlar, kafolatlar ochish bo'yicha xizmatlar ko'rsatishga imkon beradi va bu mijozlarga xizmatni arzonlashtiradi .",
+        "propositions": "Bank o'z mijozlari uchun xalqaro bank amaliyotida qabul qilingan hujjatli hisob-kitoblarning barcha turlarini olib boradi va hujjatli akkreditivlar bo'yicha har qanday operatsiyalarni taklif qiladi",
+        "propositions1": "Akkreditiv shartlari bo'yicha dastlabki maslahat",
+        "propositions2": "Akkreditiv ochish",
+        "propositions3": "Akkreditivni tekshirish, qabul qilish, jo'natish",
+        "propositions4": "Akkreditiv shartlarini o'zgartirish",
+        "propositions5": "Akkreditiv shartlariga o'zgartirishlar kiritish to'g'risida maslahat berish"
+      },
+      "Dealing": {
+        "header1": "Valuta va pul bozorlaridagi amaliyotlar",
+        "text1": "«Asakabank» milliy va xalqaro moliya bozorida ish yuritish uchun malakali kadrlar, axborot va taxliliy resurslarga egadir. Xususan, ushbu yo’nalishda Diling amaliyotlari bo’limi tashkil etilgan bo’lib, bo’limda yuqori malakaga ega bo’lgan hodimlar jamoasi Reuters XTRA, Reuters Dealing va Bloomberg Professional kabi axborot-tahliliy va savdo tizimlaridan foydalangan holda ish olib bormoqda.",
+        "text2": "«Asakabank» milliy va xalqaro moliya bozorida ish yuritish uchun malakali kadrlar, axborot va taxliliy resurslarga egadir. Xususan, ushbu yo’nalishda Diling amaliyotlari bo’limi tashkil etilgan bo’lib, bo’limda yuqori malakaga ega bo’lgan hodimlar jamoasi Reuters XTRA, Reuters Dealing va Bloomberg Professional kabi axborot-tahliliy va savdo tizimlaridan foydalangan holda ish olib bormoqda.",
+        "text3": "«Asakabank» Korporativ mijozlarga milliy va horijiy valyutalardagi vaqtincha bo’sh pul mablag’larini qulay foizlarda bank depozitlariga va depozit sertifikatlariga joylashtirishni taklif etmoqda",
+        "text4": "Zamonaviy texnologiyalar bozor kon’yunkturasi o’zgarishlariga tezkor javob berish imkoniyatini ta’minlaydi va buning natijasida valuta amaliyotlarining samaradorligi oshib boradi. «Asakabank» ning zamonaviy texnika bazasini rivojlantirib va qo’llab kelishi, shuningdek bank hodimlarining malakasini doimiy ravishda oshirib kelishi, bozorda bo’layotgan o’zgarish jarayonlariga o’z vaqtida moslasha olishi imkoniyatini yaratmoqda",
+        "header2": "Valuta ayirboshlash amaliyotlari",
+        "text5": "«Asakabank» mahalliy banklarga va korporativ mijozlarga barcha erkin ayirboshlanadigan valyutalar bo’yicha valyuta ayirboshash amaliyotlarini o’tkazishda qulay sharoitlarni taklif etadi.",
+        "text6": "Bank USD, EUR, GBP, JPY, CHF, RUB kabi xorijiy valyutalar bo’yicha joriy valiuta ayirboshlash amaliyotlarini amalga oshiradi.",
+        "text7": "Xalqaro valyuta bozorida «Asakabank» bir qator yirik moliya institutlari bilan hamkorlikni yo’lga qo’ygan bo’lib, bu Bank tomonidan korporativ mijozlar bilan valyuta amaliyotlarini amalga oshirishda mijozlar uchun ma’qul narxlar taklifi bilan ishlash imkoniyatini yaratdi. Shuningdek, «Asaka» bank USD, EUR, GBP, JPY, CHF kabi asosiy jahon valutalari bo’yicha muddatli valiuta «svop» va «forvard» amaliyotlarini amalga oshirish imkoniyatiga egadir, bu bir nechta xorijiy valutalar bilan joriy halqaro amaliyot olib boruvchi mijozlarga valuta tavakkalchiliklarini tashqi savdo va kredit amaliyotlari, savdo yoki kredit bitimlari valutasini o’zgartirish, ehtimoliy yo’qotishlarga qarshi zaxiralar tashkil etish orqali valuta va boshqa xatarlarni sug’urtalash imkoniyatini beradi.",
+        "text8": "Banklararo bozorda «Asakabank» so’m va xorijiy valutada mablag’larni banklararo bozori stavkalari bo’yicha turli muddatga joylashtirishni taklif etadi"
+      },
+      "Foreign": {
+        "text1": "Asakabank ichki va xalqaro moliya bozorlarida ishlash uchun inson, axborot, tahliliy va kommunikatsiya manbalariga ega. Xususan, bu yo'nalishda Reiling XTRA, Reuters Dealing 3000 va Bloomberg Professional kabi axborot-tahliliy va savdo tizimlari bilan ish olib boradigan Diling departamentining malakali xodimlaridan iborat guruh ishlaydi.",
+        "text2": "Asakabank - O'zbekiston banklari assotsiatsiyasining to'laqonli a'zosi1 va UZIBOR va UZIBID foiz stavkalarini shakllantirishda faol ishtirok etadi. Bank assotsiatsiyaning barcha a'zolari bilan ichki pul bozorida hamkorlik qiladi va banklar orasida ushbu bozorning ishonchli hamkori va bozor ishlab chiqaruvchisi sifatida obro'ga ega. Banklararo bozorda bank o'zbek so'mi va xorijiy valyutadagi mablag'larni turli davrlarga banklararo bozor kurslari bo'yicha jalb qiladi va joylashtiradi.",
+        "text3": "Asakabank korporativ mijozlarga milliy va xorijiy valyutadagi depozit vositalari bo'yicha jozibador foiz stavkalarini taqdim etadi",
+        "text4": "Bank doimo zamonaviy texnik bazani qo'llab-quvvatlaydi va rivojlantiradi, shuningdek o'z mutaxassislarining malakasini oshiradi, bu esa bozor kon'yunkturasi o'zgarishiga tezkorlik bilan javob qaytarish va shu bilan valyuta operatsiyalari samaradorligini oshirishga imkon beradi."
+      },
+      "Projects": {
+        "text1": "«Asakabank» yangi ishlab chiqarishlarni qurish va mavjudlarini kengaytirish, zamonaviylashtirish, texnik qayta jihozlash (shu jumladan jihozlar va texnologiyalarni) olishga qaratilgan investitsiya loyihalarini moliyalashtirilishini amalga oshiradi.",
+        "text2": "Bank tomonidan iqtisodiy jihatdan istiqbolli, foyda keltiradigan, rantabellik darajasi yuqori loyihalar moliyalashtiriladi",
+        "text3": "Kreditdan foydalanish muddati, loyiha o’zini-o’zi qoplash muddatidan kelib chiqib yoki jalb qilingan xorijiy banklar va boshqa xorijiy moliya institutlarining kredit liniyalari hisobidan (Vazirlar Mahkamasining tegishli qarorlari va kredit bitimlari bilan belgilangan shartlarda) berilishi mumkin.",
+        "text4": "Kreditni ta’minoti sifatida bank tomonidan ko’char va ko’chmas mulkni garovga olish, uchinchi shaxslar kafilliklari, O’zbekiston Respublikasi Hukumati, sug’urta tashkilotlari va banklar kafolatlari hamda O’zbekiston Respublikasi qonunchiligida ta’qiqlanmagan boshqa ta’minot turlari qabul qilinishi mumkin.",
+        "header": "Bank tomonidan quyidagi maqsadlarga kreditlar berilishiga yo’l qo’yilmaydi",
+        "header_li1": "siyosiy maqsadlar uchun kreditlar",
+        "header_li2": "qurol-yarog’, o’q-dori, portlovchi moddalar hamda giyohvandlik va psixotrop moddalarni moliyalashtirish (O’zbekiston Respublikasi qonunchiligida ruxsat etilgan holatlar bundan mustasno)",
+        "header_li3": "nolikvid va past daromadli qimmatli qog’ozlar bilan kafolatlangan kreditlar",
+        "header_li4": "bankrot deb e’lon qilingan qarz oluvchilarga kreditlar;",
+        "header_li5": "yashirin, noqonuniy bo’lishi extimol bo’lgan maqsadlarga kreditlar;",
+        "header_li6": "boshqa davlatlarning yuridik shaxslariga kreditlar;",
+        "header_li7": "xaridorgir bo’lmagan, uzoq vaqt ishlatilmay yotgan, nokomplekt, nostandart, sifati past boyliklarni garovi evaziga.",
+        "header2": "Bank kredit siyosatida quyidagi holatlarda kreditlar ajratish rad etilishi ko’zda tutilgan:",
+        "header2_li1": "mahalliy hukumat idoralari va byudjet tashkilotlariga (O’zbekiston Respublikasining amaldagi qonunchiligida ko’zda tutilgan holatlar bundan mustasno);",
+        "header2_li2": "zarar ko’rib ishlayotgan yoki muddati o’tgan qarzdorligi mavjud korxonalarga;",
+        "header2_li3": "tadbirkorlik faoliyati bilan shug’ullanmaydigan jamoat tashkilotlariga.",
+        "header2_li4": "Investitsiya loyihalarini moliyalashtirish manba’lari sifatida xorijiy davlatlarning eksport-kredit agentliklari kafolati ostida mazkur davlatlarning banklari va boshqa moliya muassasalarining mablag’lari bo’lishi mumkin.",
+        "text5": "Bank shuningdek, loyihalarni moliyalashtirisda sindikatlashtirilgan kreditlash turidan foydalanishi mumkin.",
+        "text6": "Moliyalashtirishga qabul qilingan loyiha belgilangan tartibda tasdiqlangan loyiha TIA, to’liq hajmda loyiha-smeta hujjatlari bilan va o’rnatilgan tartibda rasmiylashtirilgan zarur texnologik jihozlarni yetkazib berish, pudrat ishlarini amalga oshirish to’g’risidagi shartnomalar bilan hamda loyihani ishga tushirish va uning ishlab chiqarish – tijorat faoliyatini ta’minlovchi boshqa kelishuvlar bilan ta’minlangan bo’lishi kerak.",
+        "text7": "«Asakabank» korxonalarning, shu jumladan kichik biznes va xususiy tadbirkorlik subyektlarining investitsiya loyihalarini amalga oshirishdan manfaatdordir. Investitsiya loyihalarini amalga oshirishning barcha bosqichida Investitsiya faoliyatini muvofiqlashtirish va loyihalarni boshqarish markazi va bank filiallari malakali mutaxassislari zaruriy yordam ko’rsatishga va ko’mak berishga hamisha tayyor."
+      }
+    }
+  },
+  "AboutBank": {
+    "bankShareholders": {
+      "title": "\"Asakabank\" AJ aksiyadorlari ro'yxati",
+      "table": {
+        "th1": "Aksiyadorning nomi",
+        "th2": "Manzil",
+        "th3": "% Ulushi",
+        "tr1": {
+          "td1": "\"Buxoro neftni qayta ishlash zavodi\" mas'uliyati cheklangan jamiyati",
+          "td2": "O'zbekiston, 000000, Buxoro viloyati, Qorovulbozor tumani, Qorovulbozor sh ., Mustaqillik kuchi , 1 uy"
+        },
+        "tr2": {
+          "td1": "\"O'zagrosug'urta\" aksiyadorlik jamiyati",
+          "td2": "O'zbekiston, 100156, Toshkent shahri, Chilonzor tumani, 19-kvartal, 61/2"
+        },
+        "tr3": {
+          "td1": "\"O'zavtosanoat\" aksiyadorlik jamiyati",
+          "td2": "O'zbekiston, 100000, Toshkent shahri, Mirobod tumani, A. Temur shoh ko'chasi , 13-uy"
+        },
+        "tr4": {
+          "td1": "\"O'zbekinvest\" eksport -import sug'urta kompaniyasi” aksiyadorlik jamiyati",
+          "td2": "O'zbekiston, 100097, Toshkent, Chilonzor tumani, ko'ch. Chupon ota , 6 yosh"
+        },
+        "tr5": {
+          "td1": "\"O'zbekiston metallurgiya kombinati\" aksiyadorlik jamiyati",
+          "td2": "O'zbekiston, 110502, Toshkent viloyati, Bekobod, st. Sirdaryo , 1"
+        },
+        "tr6": {
+          "td1": "\"O'zbekiston temir yo'llari \" aksiyadorlik jamiyati",
+          "td2": "O'zbekiston, 100060, Toshkent, Mirobod tumani, st. T.Shevchenko , 7 yosh"
+        },
+        "tr7": {
+          "td1": "\"O'zbekneftgaz\" aksiyadorlik jamiyati",
+          "td2": "O'zbekiston, 100047, Toshkent, Yashnobod tumani, Istiqbol ko'chasi , 21- uy"
+        },
+        "tr8": {
+          "td1": "\"O'zbektelekom\" aksiyadorlik kompaniyasi",
+          "td2": "O'zbekiston, 100084, Toshkent, Yunusobod tumani, Amir Temur ko'chasi , 97 A"
+        },
+        "tr9": {
+          "td1": "\"Olmaliq kon-metallurgiya kombinati\" aksiyadorlik jamiyati",
+          "td2": "O'zbekiston, 110100, Toshkent viloyati, Olmaliq shahri, Amir Temur shoh ko'chasi , 53-uy."
+        },
+        "tr10": {
+          "td1": "O'zbekiston Respublikasi Moliya vazirligi",
+          "td2": "O'zbekiston, 100017, Toshkent, Yunusobod tumani, st. Istiqlol , 29 yosh"
+        },
+        "tr11": {
+          "td1": "O'zbekiston Respublikasi Tiklanish va taraqqiyot jamg'armasi",
+          "td2": "O'zbekiston, 000000, Toshkent shahri, Yunusobod tumani, A. Temur ko'chasi, 101-uy"
+        },
+        "footer": "Jami"
+      }
+    },
+    "affiliates": {
+      "table": {
+        "tr1": {
+          "td1": "Jismoniy shaxs F.I.Sh. yoki yuridik shaxsning toʼliq nomlanishi",
+          "td2": "Ularning afillangan shaxs deb hisoblanishi uchun asos"
+        },
+        "tr2": {
+          "td1": "Oʼzbekiston Respublikasining tiklanish va taraqqiyot Jamgʼarmasi",
+          "td2": "Jamiyatning 20 va undan ortiq foiz aktsiyalariga egalik qiluvchi Yuridik shaxs"
+        },
+        "tr3": {
+          "td1": "«OʼzMilliyBank» АTB",
+          "td2": "Jamiyatning 20 va undan ortiq foiz aktsiyalariga egalik qiluvchi Yuridik shaxs"
+        },
+        "tr4": {
+          "td1": "«O’zsanoatqurilishbank» АTB",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr5": {
+          "td1": "«Turon bank» АTB",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr6": {
+          "td1": "«Аloqabank» АTB",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr7": {
+          "td1": "«Ipoteka-bank» АTIB",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr8": {
+          "td1": "«Uzagroeksportbank» АTB",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr9": {
+          "td1": "«Uzshaharqurilish» IK",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr10": {
+          "td1": "«UzOmon kapital» MChJ",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr11": {
+          "td1": "«UzbekOmon Investitsiya kompaniyasi» MChJ",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr12": {
+          "td1": "«Toshkent metallurgiya zavodi» MChJ",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr13": {
+          "td1": "«Qishloq qurilish bank» АTB",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr14": {
+          "td1": "«Mikrokreditbank» АTB",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr15": {
+          "td1": "«Xalq Banki»АTB",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr16": {
+          "td1": "«Аgrobank» АTB",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr17": {
+          "td1": "«Qishloq qurilish invest» MChJ",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr18": {
+          "td1": "Vafaev Shuxrat Аbdusharifovich",
+          "td2": "Kuzatuv Kengashi aʼzosi"
+        },
+        "tr19": {
+          "td1": "Yusupov Olim Anvarovich",
+          "td2": "Kuzatuv Kengashi aʼzosi"
+        },
+        "tr20": {
+          "td1": "Tashpulatov Farxodjon Muxammadjonovich",
+          "td2": "Kuzatuv Kengashi aʼzosi"
+        },
+        "tr21": {
+          "td1": "Norkulov Ilxom Ibrogimovich",
+          "td2": "Kuzatuv Kengashi aʼzosi"
+        },
+        "tr22": {
+          "td1": "Kamalov Аyubxon Orifjonovich",
+          "td2": "Kuzatuv Kengashi aʼzosi"
+        },
+        "tr23": {
+          "td1": "Botirov Farrux Mannonovich",
+          "td2": "Kuzatuv Kengashi aʼzosi"
+        },
+        "tr24": {
+          "td1": "Olga Pascault",
+          "td2": "Kuzatuv Kengashi aʼzosi"
+        },
+        "tr25": {
+          "td1": "Saydullaev Nodirbek Narzullaevich",
+          "td2": "Direktor (Boshqaruv Raisi) vazifasini amalga oshiruvchi shaxs"
+        },
+        "tr26": {
+          "td1": "Zakirov Surʼat Utkurovich",
+          "td2": "Boshqaruv aʼzosi vazifasini amalga oshiruvchi shaxs"
+        },
+        "tr27": {
+          "td1": "Аbdullaev Boboxon Rustamovich",
+          "td2": "Boshqaruv aʼzosi vazifasini amalga oshiruvchi shaxs"
+        },
+        "tr28": {
+          "td1": "Sharipov Baxromxodja Shuxratovich",
+          "td2": "Boshqaruv aʼzosi vazifasini amalga oshiruvchi shaxs"
+        },
+        "tr29": {
+          "td1": "Mamadjanov Bunyod Baxtiyorovich",
+          "td2": "Boshqaruv aʼzosi vazifasini amalga oshiruvchi shaxs"
+        },
+        "tr30": {
+          "td1": "Skuybida Yelena Yevgenьevna",
+          "td2": "Boshqaruv aʼzosi vazifasini amalga oshiruvchi shaxs"
+        },
+        "tr31": {
+          "td1": "Pulatov Navfal Xaydarovich",
+          "td2": "Boshqaruv aʼzosi vazifasini amalga oshiruvchi shaxs"
+        },
+        "tr32": {
+          "td1": "«Samarkand avtomobil zavodi» MChJ",
+          "td2": "«Samarkand avtomobil zavodi» MChJ"
+        },
+        "tr33": {
+          "td1": "«Asaka-Trans-Leasing» MChJ",
+          "td2": "Jamiyatning shoʼba xoʼjalik jamiyati boʼlgan yuridik shaxs"
+        },
+        "tr34": {
+          "td1": "Ochiq aksiyadorlik jamiyati koʼrinishidagi «UZMED-LIZING» Lizing kompaniyasi",
+          "td2": "Ustav kapitalining 20 yoki undan koʼproq foizi Jamiyatga tegishli boʼlgan yuridik shaxs"
+        },
+        "tr35": {
+          "td1": "«Uzavializing» MChJ",
+          "td2": "Ustav kapitalining 20 yoki undan koʼproq foizi Jamiyatga tegishli boʼlgan yuridik shaxs"
+        },
+        "tr36": {
+          "td1": "«Аsaka» Bank «Dilorom» Pansionat MChJ",
+          "td2": "Jamiyatning shoʼba xoʼjalik jamiyati boʼlgan yuridik shaxs"
+        },
+        "tr37": {
+          "td1": "Jamiyatning shoʼba xoʼjalik jamiyati boʼlgan yuridik shaxs",
+          "td2": ""
+        },
+        "tr38": {
+          "td1": "«O’zbekiston Respublikasi to’g’ridan-to’g’ri investitsiyalar jamgarmasi» АJ",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr39": {
+          "td1": "“Hazorasp Textil” MChJ",
+          "td2": "Jamiyatning shoʼba xoʼjalik jamiyati boʼlgan yuridik shaxs"
+        },
+        "tr40": {
+          "td1": "«Asaka Capital Invest» MChJ",
+          "td2": "Jamiyatning shoʼba xoʼjalik jamiyati boʼlgan yuridik shaxs"
+        },
+        "tr41": {
+          "td1": "«OʼzMilliyBank» АTB",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        },
+        "tr42": {
+          "td1": "«Аbu Dabi Uzbekinvestment» MChJ",
+          "td2": "Jamiyat ustav kapitalining 20 foizi va undan ortiq foizga egalik qiluvchi ayni bir shaxs qaysi yuridik shaxs ustav kapitalining 20 foizi va undan ortiq foiziga egalik qiluvchi yuridik shaxs"
+        }
+      }
+    },
+    "charityActivity": "2020 yilda \"Asakabank\" AJ tomonidan 13 032 341 524 so'm miqdorida xayriya yordami ko'rsatildi, jumladan Pskent viloyatida maktablar qurish uchun, Bastakorlar ittifoqiga, Prezident Archasini o’tkazish uchun, Velosiped sporti federatsiyasi uchun (Bank bosh homiy hisoblanadi), Matematika instituti, \"Ekspo-2020\" Butunjahon ko'rgazmasiga tayyorgarlik ko'rish uchun Uzekspomarkaz (Dubay), Buxoro viloyatining Olot va Qorako'l tumanlarida tabiiy ofatlardan etkazilgan zararni qoplash fondi va boshqalar uchun ajratilgan.",
+    "your_bank": "Moliyaviy bozorda Sizning ishonchli hamkoringiz!",
+    "your_bank_sub": "Bankimiz 26 yildan buyon moliyaviy xizmatlar bozorida o'zining yetakchi mavqeini saqlab kelmoqda. Bank 1995 yilda tashkil etilgan bo'lib, shu kungacha kapital va aktivlar hajmi bo'yicha O'zbekistonning yetakchi banklaridan biri hisoblanadi.",
+    "filial": "filial",
+    "around_republic": "Respublika bo'yicha",
+    "bank": "bank",
+    "service_centers": "Xizmatlar markazi",
+    "minibank": "minibank",
+    "bankomat": "bankomat",
+    "bank_customers": "Bank mijozlari",
+    "bank_customers_sub": "Biz 26 yil davomida mijozlarimiz hurmati va sadoqatini qozonish uchun sifatli xizmatlarni taqdim etib kelmoqdamiz.",
+    "physical_persons": "Xususiy mijozlar",
+    "corporative": "Korporativ mijozlar",
+    "financial_indicators": "Moliyaviy ko'rsatkichlar",
+    "financial_indicators_sub": "2020 yil 1 yanvar holatiga ko'ra bankning jami aktivlari 34,7 trln so'mni tashkil etmoqda. Bankning jami kapitali 6,1 trln.so’m\n\nBankning kredit qo'yilmalari hajmi 26,3 trln. so'mga teng bo'ldi",
+    "bank_ach": "Bank yutuqlari",
+    "bank_ach_sub": "Asakabank xalqaro tashkilotlar tomonidan doim e'tirof etib kelinadi. Xususan, bir necha bor \"Euromoney\", \"Global Finance\" va \"The Banker\" xorijiy nashriyotlarining 'O'zbekistonda yilning eng yaxshi banki' reytingiga sazovor bo'lgan",
+    "other_ach": "Boshqa yutuqlar",
+    "ach": "Mukofot va yutuqlar",
+    "ratings": "Reytinglar",
+    "important_facts": "Muhim faktlar",
+    "menej_test": "Sifat menejmenti testi",
+    "bank_shareholders": "Bank aksionerlari",
+    "to_investors": "Investorlarga",
+    "to_investors_sub": "Eng muhim ma'lumotlar",
+    "career": "Karyera",
+    "career_sub": "Ilhomlantiruvchi jamoa",
+    "tariffs": "Tariflar",
+    "tariffs_sub": "Siz hayotingiz va biznesingiz uchun eng foydali bilimlar",
+    "see": "Ko'rish",
+    "other_docs": "Boshqa xujjatlar",
+    "filials": "Filiallar va bankomatlar",
+    "filials_sub": "\"Asakabank\" filiallari va bankomatlarining kartadagi manzillari, shuningdek ish jadvali, telefon raqamlari",
+    "pass": "O'tish",
+    "Career": {
+      "career": "Asakabankida karyera",
+      "turn_our_team": "Bizning jamoamiz a'zosiga aylan",
+      "text": "Har bir bankning obro’si va raqobatdoshligi xodimlar, ularning malakaviy darajasi va mijozlarga xizmat ko’rsatish sifati bilan shakllanadi.",
+      "emp": "xodim",
+      "around_rep": "Respublika bo'yicha",
+      "youth": "Yoshlar",
+      "specialist": "mutaxassis",
+      "high_edu": "Oliy ma'lumotli",
+      "bank_work": "Bank ishi bo'yicha",
+      "vacancy": "Vakansiyalar",
+      "functions": "Vazifalari",
+      "requirements": "Talablar",
+      "work_place": "Ish joyi"
+    },
+    "GeneralInformation": {
+      "tab1": "Bank mo'ljali",
+      "tab2": "Nizom",
+      "tab3": "Biznes reja",
+      "tab4": "Bank boshqaruvi raisi murojaati",
+      "bank_functions": "\"Asakabank\" vazifalari va maqsadlari",
+      "bank_functions_sub": "O’zbekiston iqtisodi faol rivojlanishiga va xalqaro iqtisodiy hamdo’stligiga kirishiga ko’maklashish, mijozlarimiz uchun yuqori sifatli bank amaliyoti va xizmatlaridan foydalanishni yengillashtirish.",
+      "title": "O’z vazifalarini bajarish chog’ida “Asakabank” quyidagi asosiy tamoyil va korporativ madaniyatga rioya qiladi:",
+      "header1": "Ijtimoiy mas’uliyat",
+      "header1_li1": "Sarmoya loyihalarini amalga oshirish, xizmat ko’rsatish va iqtisodiyotning ustuvor yo’nalishlarini moliyalashtirish yo’li bilan mustaqil O’zbekiston iqtisodining samarali rivojiga ko’maklashish",
+      "header1_li2": "mamlakatimizning jahon iqtisodiy hamdo’stligiga integratsiyasiga ko’maklashish maqsadida xalqaro moliyaviy institut va xorijiy banklar bilan unumli hamkorlik olib borish.",
+      "header2": "Pozitsiyalash",
+      "header2_li1": "Bozorda o’zini respublika bank tizimi sub’yektlari ichida barqaror yetakchi o’rinni egallayotgan yirik universal kredit-moliyaviy institut sifatida namoyish qilish",
+      "header2_li2": "hududiy bo’linmalar tarmog’ini samarali rivojlantirish hamda ilg’or texnologiyalardan foydalanish hisobiga butun mamlakat bo’yicha Bankning raqobatchilik imkoniyatlarini mustahkamlash",
+      "header3": "Hamkorlik",
+      "header3_li1": "Mijoz va kontragentlar bilan oydinlik, oqilona va o’rinli bank tavakkalchilik shartlarida iqtisodiy o’sish va daromad darajasi ortishini ta’minlovchi yakuniy natijaga qaratilgan o’zaro foydali hamkorlik munosabatlari",
+      "header4": "Innovatsiyalar",
+      "header4_li1": "Bank va axborot texnologiyalari sohasida yangi yutuqlarni muntazam ravishda joriy etish yo’li bilan zamonaviy bank mahsulotlari va xizmatlarini taqdim etish",
+      "header5": "Universallik",
+      "header5_li1": "Har bir mijozning ehtiyojlarini tushunish va qoniqtirish, keng omma uchun zarurlik kontseptsiyasini mujassamlash, iqtisodning turli sohasida faoliyat ko’rsatuvchi yirik korxonalardan boshlab, kichik va xusussiy tadbirkorlik sub’yektlarining eng talabchan talablariga javob berish",
+      "header6": "Hurmat",
+      "header6_li1": "Kattaligi, mulkchilik shakli, hududiy yoki xalqaro joylashishidan qat’iy nazar barcha mijozlar uchun yagona, yuqori sifatli bank xizmatlari standartini ta’minlash",
+      "header7": "Ishonchlilik",
+      "header7_li1": "Mijoz va hamkorlari oldidagi majburiyatlarni o’z vaqtida va sifatli amalga oshirish, qat’iy moliyaviy intizovga rioya qilish hamda tavakkalchilikni malakali boshqarish hisobiga benuqson ishbilarmon obro’sini saqlash",
+      "header8": "Malaka",
+      "header8_li1": "Muvaffaqiyatga erishishga intilgan va umumiy korporativ qadriyatlar bilan birlashgan yuqori malakali va asoslangan jamoani shakllantirish",
+      "header9": "Yuqori turuvchi organlar nomi",
+      "header9_li1": "O‘zbеkiston Rеspublikasi Markaziy banki",
+      "tab2_header": "Yuklab olish uchun",
+      "tab3_header": "Biznes reja",
+      "tab4_header": "Хоnimlar va janoblar,",
+      "tab4_header2": "Qadrli aksiyadorlar va ishbilarmon hamkorlar!",
+      "p1": "1995 yilda tashkil etilgan «Asakabank» ko’p yillar davomida mamlakatimiz moliya xizmatlari bozorida yetakchi o`rinni egallab kelmoqda. Bank iqtisodiy hayotning keng doiradagi ishtirokchilari bilan yaqindan hamkorlik qilishga intilgan holda, o’z oldiga, mulkchilik shakli va faoliyat ko’lamidan qat’iy nazar, barcha xo’jalik yurituvchi subyektlarning, shuningdek, aholining barcha ijtimoiy qatlamlarining bank xizmatlari va mahsulotlariga bo’lgan turli talablarini qondirishni o’zining bosh maqsadi deb belgilagan. Bunda asosiy e’tibor, har bir mijozning individual talabidan kelib chiqqan holda, ko’rsatilayotgan xizmatlarning sifatiga qaratilmoqda. «Asaka» bankiga murojaat qilgan har bir mijozga, «Mijoz bank uchun emas, bank mijoz uchun» degan asosiy tamoyilga amal qilgan holda individual yondoshilmoqda. Bu esa bankning muvaffaqiyatli faoliyat yuritishi va raqobatbardoshligida, asosiysi, aholining yuksak ishonchini qozonishda eng muhim omillardan biri bo’ldi. «Asaka» banki kapitallashuv darajasi, aktivlar o'sish sur’ati va foydalilik darajasi bo’yicha O'zbekiston banklari orasida yetakchi o'rinni egallaydi.",
+      "p2": "Hozirgi vaqtda «Asakabank» faoliyati uzoq muddatli barqaror o’sish va rivojlanishga erishish, investitsion jozibadorlikni oshirish, yuqori likvidlik va barqarorlikni, asosiy ko’rsatkichlarning ildam o’sishini ta’minlash va ularni jahon standartlari talablari darajasiga yetkazishga qaratilgan. Bu esa «Asaka» bankiga yuqori raqobatbardosh, ichki bozor va eksport talablariga mos mahsulotlar ishlab chiqaradigan va xizmatlar ko’rsatadigan mijozlarga va xorijiy hamkorlarga yuqori sifatli bank xizmatlarini ko’rsatishga imkoniyat yaratdi.",
+      "p3": "«Asakabank» doimiy tarzda ko’rsatilayotgan bank xizmatklari turlarini kengaytirish va sifatini yahshilash, kichik biznes va xususiy tadbirkorlik sub’yektlarini qo’llab-quvvatlash, iqtisodiyotning real sektori korxonalarining istiqbolli, rentabel, mahalliy xomashyodan eksportga mo’ljallangan va import o’rnini bosuvchi mahsulotlar ishlab chiqarishga mo’ljallangan loyihalarini kreditlash hajmini ko’paytirish, iqtisodiyotning yuqori texnologiyalar va ijtimoiy ahamiyatga ega bo’lgan tarmoqlarini qo’llab-quvvatlash, amaldagi ishlab chiqarishlarni modernizatsiyalash va yuqori samaradorlikka ega yangi ishlab chiqarishlarni joriy etish bo’yicha loyihalarni moliyalashtirishga intilib kelmoqda. Hozirgi kunda bank aktivlari farmasevtika, yengil, oziq-ovqat va avtomobilsozlik sanoati, qurilish, transport, telekommunikatsiya, neft-gaz va boshqa yetakchi tarmoqlarga investitsiya qilingan.",
+      "p4": "O’zaro manfaatli hamkorlik, strategik rejalarni ishlab chiqish va amalga oshirishda mijozlar istagini e’tiborga olinishiga intilish «Asakabank»iga yildan yilga barcha asosiy ko’rsatkichlarning barqaror o’sishi va yuqori moliyaviy natijalarga erishishga imkoniyat yaratmoqda. Yetakchi va nufuzli xalqaro reyting agentliklari bo’lmish «Moody’s» va «Fitch Ratings» tomonidan «Аsака» bankining barqarorligi va mustahkamligi bir necha bor tasdiqlandi.",
+      "p5": "Hayotning ildam sur’atlari O’zbekiston banklari oldiga yangi talablarni qo’ymoqda. Bu esa doimiy ravishda ko’rsatilayotgan bank xizmatlari va mahsulotlari turlarini kengaytirish va sifatini yanada yahshilab borishni talab etadi. Aks holda mamlakat moliya bozoridagi keskin raqobat sharoitida muvaffaqiyatga erishish va egallangan mavqeni saqlab turish mushkul vazifadir. Buni to’liq anglagan holda «Asakabank» mijozlarga qulay sharoitlar va qo’shimcha qulayliklar yaratish, ko’rsatilayotgan xizmatlarning turlarini kengaytirish, tezkorligini oshirish va sifatini yanada yahshilashga intilmoqda.",
+      "p6": "Hozirgi kunda «Asakabank» mamlakatimiz bank bozorida o’z o’rnini, bozor o’zgarishlariga o’z vaqtida javob berishga qodir, bank va moliyaviy institutlar hamda xo’jalik yurituvchi subyektlar bilan o’zaro manfaatli shartlar asosida samarali hamkorlik qilishga tayyor bo’lgan, istiqbolli, jo’shqin rivojlanayotgan va ishonchli bank sifatida ko’rmoqda. «Asaka» bank kelgusida barcha istiqbolli yo’nalishlar bo’yicha o’z faoliyatini takomillashtirish bo’yicha ishlarni davom ettiradi, mamlakatimizda tadbirkorlikni, ayniqsa oilaviy biznesni rivojlantirish, ijtimoiy infratizimni va insonlar hayotini yaxshilashga alohida e’tibor qaratadi.",
+      "p7": "So’zimning yakunida o’z nomimdan va hamkasblarim nomidan bankimizning barcha aksiyadorlariga, ishbilarmon hamkorlari va mijozlariga har tomonlama qo’llab-quvvatlaganliklari va o’zaro manfaatli hamkorliklari uchun hamda «Asakabank» jamoasiga erishilgan muvaffaqiyatlar uchun minnatdorchilik bildirmoqchiman. Biz bundan buyon ham mijozlarimizga xizmat ko’rsatish sifatini yaxshilash, taqdim etilayotgan bank mahsulotlari va xizmatlari turlarini kengaytirish, «Asaka» bankining ichki va tashqi bank bozorlarida moliyaviy barqarorligini ta’minlash va egallab turgan o’rnini mustahkamlash sari sabot bilan olg’a boraveramiz.",
+      "sincerely": "Hurmat bilan,",
+      "sincerely2": "Boshqaruv Raisi"
+    },
+    "BankHistory": {
+      "2019": "2019 yil",
+      "2019_li1": "Asiamoney xalqaro moliya nashri tomonidan Asakabank kichik va o'rta biznesni qo'llab-quvvatlash bo'yicha eng yaxshi bank deb topildi",
+      "2019_li2": "Evropa tiklanish va taraqqiyot banki 2019 yil yakunlari bo'yicha Asakabankiga Savdoni rivojlantirish dasturi (TFP) bo'yicha \"O'zbekistondagi eng faol emitent bank\" mukofotladi",
+      "2019_li3": "Asakabank \"2019 - yil brendi\" taqdimoti doirasuda \"O'zbekistonda marketing va reklamani qo'llab-quvvatlash bo`yicha yetakchi\" mukofotiga sazovor bo'ldi",
+      "2019_li4": "2020 yil 1 yanvar holatiga bank aktivlari 34,7 trln. so'mni tashkil etdi. Bankning umumiy kapitali 6,1 trln. so'mni tashkil etdi. Bankning kredit qo'yilmalari summasi ekvivalentida 26,3 trln. so'mni tashkil etdi.",
+      "2018": "2018 yil",
+      "2018_li1": "2019 yilning 1 yanvar holatiga bankning jami aktivlari o’tgan yilning shu davriga nisbatan 6,1 trln.so'mga yoki 125 foizga ortib 30,4 trln/so`mni, shundan daromad keltiruvchi aktivlar umumiy aktivlarning 91 foizini tashkil qildi. Bank kapitalining hajmi 2018 yil 1 yanvariga nisbatan 84,9 mlrd.so`mga ko’payib 3,2 trln.so`mni tashkil qildi.",
+      "2018_li2": "2018 yilda bank tomonidan olingan daromadlar hajmi 2,8 trln.so`mni tashkil qildi va sof foyda miqdori 123,2 mlrd.so’mni tashkil qildi.",
+      "2017": "2017 yil",
+      "2017_li1": "2018 yilning 1 yanvar holatiga bankning jami aktivlari yil boshiga nisbatan 13 827,3 mlrd.so'mga yoki 2,3 barobardan ko'proqqa o'sgan. Daromad keltiruvchi aktivlar umumiy aktivlarning 80% tashkil qildi. Bank kapitalining hajmi 2017 yil 1 yanvarga nisbatan 3 barobarga o’sgan.",
+      "2017_li2": "Bank daromadlarining hajmi ko’payib bormoqda va o’tgan yilning shu davriga nisbatan 1,6 barobarga oshgan holda, olingan sof foyda miqdori o’z navbatida 51.1 mlrd.so’mni tashkil qilgan.",
+      "2016": "2016 yil",
+      "2016_li1": "2015 yil yakunlari ko’ra «Asakabank» «Ahоli оmоnatlarini jalb qilish bo’yicha yilning eng yaхshi banki» dеb topildi va 3-o’rinni egalladi. «Asaka» bankning Surxohdaryo viloyat filiali «Shaharlarda ahоli оmоnatlarini jalb qilish bo’yicha yilning eng yaхshi filiali» deb topildi va 2-o’rinni egalladi. Shuningdek, «Asaka» bank tomonidan joriy etilgan «Qadriyat» omonati «Milliy valyutadagi eng yaxshi muddatli depozit» deb topildi.",
+      "2016_li2": "Bank хizmatlari, uskunalari va tехnоlоgiyalari IX-yillik «BankExpo-2016» milliy ko’rgazmasida «Asakabank» «Ta’lim muassasalari bitiruvchilarini qo’llab-quvvatlоvchi eng yaхshi bank» nоminatsiyasida g’оlib dеb tоpildi.",
+      "2015": "2015 yil",
+      "2015_li1": "«Asakabank» 2014 yil yakunlari ko’ra «Ahоli оmоnatlarini jalb qilish bo’yicha yilning eng yaхshi banki» dеb topildi va 1- o’rinni egalladi. «Asaka» bankning Oltiariq filiali «Qishlоq jоylarda ahоli оmоnatlarini jalb qilish bo’yicha yilning eng yaхshi filiali» deb topildi va 3-darajali diplom bilan taqdirlandi.",
+      "2015_li2": "Bank tехnоlоgiyalari, uskunalari va хizmatlari VIII-yillik «BankExpo-2015» milliy ko’rgazmasida «Asakabank» «Ayollar tadbirkorligini qo’llab-quvvatlоvchi eng yaхshi bank» nоminatsiyasida g’оlib dеb tоpildi.",
+      "2014": "2014 yil",
+      "2014_li1": "2013 yil yakunlari ko’ra «Asakabank» Samarqand viloyat filiali «Plastik kartochkalar asosida ish haqi loyihalarini amaliyotda joriy etish bo’yicha eng yaxshi bank filiali» nominatsiyasida g’olib dеb topildi va 2- darajali diplom bilan taqdirlandi. «Qishlоq jоylarda ahоli оmоnatlarini jalb qilish bo’yicha eng yaхshi jamg’arma/maxsus kassasi» nоminatsiyasida Marg’ilon filialining jamg’arma kassasi 2-o’rinni egalladi. Shuningdek, «Asaka» bank «Eng yaхshi plastik kartоchkalar emitenti bo’lgan bank» dеb tоpildi.",
+      "2013": "2013 yil",
+      "2013_li1": "“Asakabank” 2012 yil yakunlari ko’ra «Ahоli оmоnatlarini jalb qilish bo’yicha yilning eng yaхshi banki» dеb topildi va 3- darajali diplom bilan taqdirlandi. “Asaka” bankning Asaka filiali «Qishlоq jоylarda ahоli оmоnatlarini jalb qilish bo’yicha yilning eng yaхshi filiali» nоminatsiyasi bo’yicha g’оlib chiqdi va 2-darajali diplom bilan taqdirlandi. «Plastik kartоchkalar asоsida ish haqi lоyihalarini amaliyotda jоriy etish bo’yicha eng yaхshi bank filiali» nоminatsiyasida “Asaka” bankning Tоshkеnt shahar filiali 1–o’rinni egalladi. Shuningdеk, “Asaka” bank «Eng yaхshi plastik kartоchkalar Ekvayеri bo’lgan bank» dеb tоpildi.",
+      "2013_li2": "Bank tехnоlоgiyalari, uskunalari va хizmatlari VI-yillik “BankExpo-2013” milliy ko’rgazmasida “Asakabank” «Innоvatsiоn lоyihalarni qo’llab-quvvatlоvchi eng yaхshi bank» nоminatsiyasida g’оlib dеb tоpildi.",
+      "2012": "2012 yil",
+      "2012_li1": "“Asakabank” 2011 yil yakunlariga ko'ra «Aholi omonatlarini jalb qilish bo'yicha yilning e’ng yahshi banki» deb e’lon qilindi va 2 darajali diplom bilan taqdirlandi. Respublika banklari viloyat filiallari o'rtasida “Asaka” bankning Xorazm viloyat filiali «Shaharlarda aholi omonatlarini jalb qilish bo'yicha yilning e’ng yaxshi filiali» nominatsiyasi bo’yicha g’olib chiqdi va 1-o'rinni e’galladi. “Asaka” bank «E’ng yahshi plastik kartochka e’mitenti» nominatsiyasida g’olib chiqdi. “Asaka” bank «Yilning e’ng yahshi innovatsion banki» deb topildi.",
+      "2012_li2": "“BankExpo-2012” bank texnologiyalari, uskunalari va xizmatlari V- yillik milliy ko’rgazmasida «Tadbirkorlarning e’ng yahshi hamkori va ishonchli tayanchi» nominatsiyasida g’olib deb topildi",
+      "2011": "2011 yil",
+      "2011_li1": "Asakabank «Aholi omonatlarini jalb qilish bo’yicha 2010 yilning eng yaxshi banki» deb topildi va II darajali diplom bilan taqdirlandi;",
+      "2011_li2": "«Asakabank» «Банкиръ» (Ukraina) nashriyoti tomonidan tashkil etilgan xalqaro tanlovda ishtirok etib, «MDH, Baltiya va Gruziyada eng ochiq va shafof bank» deb topildi;",
+      "2011_li3": "«Asakabank» «2011 yilda fond bozoridagi eng faol tijorat banki» deb topildi.",
+      "2010": "2010 yil",
+      "2010_li1": "Asakabank «Aholi omonatlarini jalb qilish bo’yicha 2009 yilning eng yaxshi banki» deb topildi.",
+      "2007": "2007 yil",
+      "2007_li1": "Moliyaviy dunyoda yirik xorijiy «Global Finance» nashriyoti tomonidan «Asakabank» «2007 yilda O’zbekistonning eng yaxshi banki» deb tan olindi;",
+      "2007_li2": "Mashhur xorijiy «Euromoney» nashriyoti «Asakabank»ga «2007 yilda O’zbekistonning eng yaxshi banki» unvonini berdi;",
+      "2006": "2006 yil",
+      "2006_li1": "Dunyoda eng yirik banklaridan biri — «JP Morgan Chase» Asakabankiga «Excellency Award 2006» nomiyantsiyasida mukofot berdi;",
+      "2006_li2": "Moliyaviy dunyoda yirik xorijiy «Global Finance» nashriyoti tomonidan «Asaka» bank «2006 yilda O’zbekistonning eng yaxshi banki» deb tan olindi;",
+      "2006_li3": "«CITI Group» (AQSh) tomonidan «2006 Quality Recognition Award» nominatsiyasi bo’yicha sovrin berildi.",
+      "2005": "2005 yil",
+      "2005_li1": "«Asaka» bank Osiyo va Tinch Okeani Rivojlantirish Moliyaviy Muassasalari Uyushmasi (OTORMMU) tomonidan «2005 yilda eng yaxshi bank kadrlar siyosati» va «Eng yaxshi yillik hisobot» yo’nalishlari bo’yicha mukofotlandi;",
+      "2005_li2": "Mashhur xorijiy «Euromoney» nashriyoti «Asaka» bank «2005 yilda O’zbekistonning eng yaxshi banki» deb topdi;",
+      "2005_li3": "Moliyaviy dunyoda mashhur xorijiy «Global Finance» nashriyoti tomonidan o’tkasiladigan tanlovda ham «Asaka» bank «2005 yilda O’zbekistonning eng yaxshi banki» deb tan olindi;",
+      "2005_li4": "Moliyaviy dunyoda yirik nashriyotlaridan biri — «The Banker» tomonidan ham «Asaka» bank «2005 yilda O’zbekistonning eng yaxshi banki» deb tan olindi;",
+      "2003": "2003 yil",
+      "2003_li1": "«Asaka» bank Osiyo va Tinch Okeani Rivojlantirish Moliyaviy Muassasalari Uyushmasi (OTORMMU) tomonidan «Eng yaxshi ijtimoiy loyiha» va «Eng yaxshi yillik hisobot» yo’nalishlari bo’yicha mukofotlandi;"
+    },
+    "BankCommittees": {
+      "header1": "Bank Kengashi qoshida 4 ta qo'mita mavjud:",
+      "header1_li1": "Audit qo’mitasi;",
+      "header1_li2": "Tavakkalchiliklarni boshqarish qo‘mitasi;",
+      "header1_li3": "Mukofotlash va kadrlar qo'mitasi;",
+      "header1_li4": "Strategiya qo'mitasi.",
+      "header1_p": "Qo'mitalarning vazifasi Bank Kengashiga ko'rib chiqishi uchun kiritilgan masalalarni oldindan ko'rib chiqishdir. Qo'mitalar tomonidan ma'qullanmagan taqdirda, masalalar qo'shimcha ravishda Bank Kengashi ko'rib chiqish uchun taqdim etilmaydi, lekin qayta ko'rib chiqishga yuboriladi. Qo'mitalarning yig'ilishlari zarurat bo'lganda, lekin chorakda kamida bir marta o'tkaziladi. Har bir qo'mita kamida 3 kishidan iborat (Bank Kengashi a'zolari). Qo‘mita boshqa qo‘mita a’zoligida bo‘lgan aynan bir shaxslar tarkibidan iborat bo‘lishiga, shuningdek, kengashning bir a’zosi bir vaqtning o‘zida turli qo‘mitalar raisi bo‘lishiga yo‘l qo‘yilmaydi.",
+      "header2": "Audit qo’mitasining vazifalari:",
+      "header2_li1": "moliyaviy hisobot va ichki audit siyosatini ishlab chiqish hamda tasdiqlash jarayonida ishtirok etish;",
+      "header2_li2": "nazoratga oid, moliyaviy va boshqa hisobotlarning taqdim etilishini, to‘liqligini, ishonchliligini nazorat qilish;",
+      "header2_li3": "o‘z vakolati doirasidagi masalalar yuzasidan kengash yig‘ilishlariga ma’lumotlar tayyorlash va kengashga hisobotlar taqdim etish;",
+      "header2_li4": "bankning ichki va tashqi auditorlar bilan o‘zaro aloqasini nazorat qilib borish;",
+      "header2_li5": "ichki audit xizmati rahbarini tayinlash (lavozimidan ozod qilish) masalasini ko‘rib chiqib, kengashga taklif kiritish;",
+      "header2_li6": "ichki audit xizmatining choraklik hisobotlarini o‘rganib chiqish va kengashga taqdim etish;",
+      "header2_li7": "bankning ichki nazorat tizimi va ichki auditi faoliyati samaradorligi va monandligini ta’minlash uchun ularni baholash, ichki audit tekshiruvlari rejasi va ularning davriyligini ko‘rib chiqish, ichki audit xizmati rahbari o‘z vazifa va majburiyatlarini qay darajada amalga oshirayotganligini baholashda ishtirok etish va o‘z fikrlarini bildirish;",
+      "header2_li8": "har chorakda kamida bir marta ichki audit xizmati rahbari bilan uchrashuv o‘tkazib, ichki audit xizmati faoliyatiga oid masalalarni muhokama qilish;",
+      "header2_li9": "tashqi auditor takliflarini baholashda kengashga amaliy yordam berish, tashqi auditorni tanlashda kengashga tavsiyalar tayyorlash",
+      "header2_li10": "tashqi auditorlarning xizmatlariga to‘lanadigan eng ko‘p haq miqdori va u bilan shartnoma tuzilishi (bekor qilinishi) to‘g‘risida kengashga takliflar kiritish;",
+      "header2_li11": "tashqi auditorlar uchun texnik vazifalarni ishlab chiqishda kengashga amaliy yordam berish;",
+      "header2_li12": "ichki va tashqi audit hisobotlarini qabul qilib olish hamda ularda va boshqa nazoratni amalga oshiruvchi bo‘linmalar tomonidan aniqlangan qonun hujjatlari, bankning siyosatlari va ichki hujjatlariga nomuvofiqliklar va kamchiliklarni bank boshqaruvi tomonidan o‘z vaqtida bartaraf etilishini nazorat qilish;",
+      "header2_li13": "tashqi auditorlik hisobot va xulosalarni ko‘rib chiqish va ularni kengashga taqdim etish;",
+      "header2_li14": "tashqi auditorlar faoliyati qoniqarsiz deb baholangan taqdirda, ularni o‘zgartirish yuzasidan kengashga tavsiyalar berish;",
+      "header2_li15": "bank faoliyatining shaffofligi va ma’lumotlarning oshkor qilinishi yetarli darajada va aniq ekanligini ko‘rib chiqish;",
+      "header2_li16": "o‘z faoliyati to‘g‘risida hisobot tayyorlash;",
+      "header2_li17": "kengash tomonidan yuklatilgan boshqa vazifalarni bajarish.",
+      "header3": "Tavakkalchiliklarni boshqarish qo‘mitasining vazifalari:",
+      "header3_li1": "avakkalchiliklarni boshqarish masalalari va ichki nazoratga doir hujjatlar, shu jumladan, tavakkalchiliklarni boshqarishning tashkiliy tuzilmasi, tavakkalchiliklarni boshqarish strategiyasi va siyosati, manfaatlar to‘qnashuvining oldini olish siyosati va odob-axloq qoidalarini ko‘rib chiqish, kengashga tavakkalchiliklarni boshqarish tizimiga oid tavsiyalarni kiritish;",
+      "header3_li2": "boshqaruv va tavakkalchiliklarni boshqarish bo‘yicha tarkibiy tuzilma tomonidan tavakkalchiliklarni boshqarish tizimi, shu jumladan, risk-appetit va tavakkalchiliklarni boshqarish siyosatining ishlab chiqilishi, ularga rioya etilishi va ularning o‘z vaqtida yangilab borilishi ustidan nazorat qilish;",
+      "header3_li3": "bank tomonidan ishlab chiqilgan va amalga oshirilayotgan tavakkalchiliklarni baholash, shu jumladan, stress-test qilish uslublarini davriy ravishda ko‘rib chiqish;",
+      "header3_li4": "kengashga taqdim etiladigan tavakkalchiliklarga oid ma’lumotlarning (hisobotlarning) tuzilishi va shakli hamda ularni taqdim etish muddatlarini belgilash;",
+      "header3_li5": "bankning tavakkalchiliklar sohasi (risk-proifili) tasdiqlangan risk-appetitga mos emasligi yoki me’yordan chiqib ketishi kutilayotgan holatlarda, tavakkalchiliklarning kamaytirilishi va ular yuzasidan o‘z vaqtida choralar ko‘rilishi bo‘yicha qarorlar qabul qilish to‘g‘risida kengashga takliflar berish;",
+      "header3_li6": "bankning mukofotlash tizimi bankning risk-appetitiga muvofiqligini o‘rganib borish;",
+      "header3_li7": "tavakkalchiliklarni boshqarish bo‘yicha tarkibiy bo‘linma tomonidan taqdim etiladigan bankda yuzaga kelgan va yuzaga kelishi mumkin bo‘lgan tavakkalchiliklar bo‘yicha hisobotlarni kamida har chorakda bir marta qabul qilib borish va tavakkalchiliklarni kamaytirish bo‘yicha ishlarni amalga oshirish;",
+      "header3_li8": "tavakkalchiliklarni boshqarish bo‘yicha mas’ul bo‘lgan xodimlarning boshqaruv va tavakkalchiliklarni qabul qiluvchi boshqa tarkibiy bo‘linmalardan mustaqilligini baholab borish;",
+      "header3_li9": "tavakkalchiliklarni boshqarish bo‘yicha tarkibiy bo‘linma rahbarlari faoliyatini baholash jarayonida qatnashish yoki fikr bildirish;",
+      "header3_li10": "o‘z faoliyati to‘g‘risida choraklik hisobotlarni tayyorlash;",
+      "header3_li11": "kengash tomonidan yuklatilgan boshqa vazifalarni bajarish.",
+      "header4": "Mukofotlash va kadrlar qo'mitasining vazifalari:",
+      "header4_li1": "kengash va boshqaruv a’zolari hamda muhim ahamiyatga ega xodimlarni mukofotlash bo‘yicha siyosatni ishlab chiqishda ishtirok etish va uni kamida bir yilda bir marotaba qayta ko‘rib chiqish;",
+      "header4_li2": "mukofotlash siyosati hamda turli xil rag‘batlantirish dasturlarining joriy qilinishi va amalga oshirilishi ustidan nazorat qilish;",
+      "header4_li3": "mehnatga haq to‘lash va kompensatsiya qilishga oid qabul qilingan qarorlarning ijrosini nazorat qilish;",
+      "header4_li4": "kengash va boshqaruv a’zolari hamda muhim ahamiyatga ega xodimlarga mukofot to‘lovlarini belgilashda ularning majburiyatlari va mos ravishda tavakkalchiliklarni qabul qilish darajasini hisobga olgan holda ularning samaradorligini baholash mezonlarini ishlab chiqish;",
+      "header4_li5": "agarda kengash tomonidan ushbu vazifa yuklatilgan bo‘lsa, mukofotlash siyosatida aks ettirilgan mezonlar asosida kengash va boshqaruv a’zolari, shuningdek, muhim ahamiyatga ega xodimlarning yil yakunlari bo‘yicha faoliyatini dastlabki baholashdan o‘tkazish, shuningdek, ushbu shaxslarning uzoq muddatli belgilangan maqsad va vazifalarga erishganini tahlil qilish;",
+      "header4_li6": "mehnatga haq to‘lash va kompensatsiya tizimi ichki hujjatlarga muvofiqligini baholab borish;",
+      "header4_li7": "kengash tomonidan yuklatilgan boshqa vazifalarni amalga oshirish.",
+      "header5": "Strategiya qo'mitasining vazifalari:",
+      "header5_li1": "Bankni rivojlanish strategiyasi va biznes-rejasini oldindan ko'rib chiqish hamda ma’qullash;",
+      "header5_li2": "Bankni rivojlanish strategiyasi va biznes-rejasi to'g'risidagi hisobotlarni tinglaydi. Qo'mita filiallarni va vakolatxonalarni ochish (yopish) maqsadga muvofiqligini ko’rib chiqadi;",
+      "header5_li3": "bank aksiyalari va obligatsiyalarini chiqarish zarurligi masalalarini oldindan ko'rib chiqadi;",
+      "header5_li4": "bankning tashkiliy tuzilmasini o’zgartirish kiritish masalasini ko’rib chiqadi;",
+      "header5_li5": "boshqa tashkilotlar ustav kapitalida ishtirok masalasini ko’rib chiqadi:",
+      "header5_li6": "kengash tomonidan yuklatilgan boshqa vazifalarni amalga oshirish."
+    },
+    "Appeals": {
+      "tab1": "Fuqarolarni qabul qilish tartibi",
+      "tab2": "Murojaatlar statistikasi",
+      "tab3": "Fuqarolarni qabul qilish jadvali",
+      "tab4": "Murojaat yuborish",
+      "tab5": "Reyting",
+      "text1": "FUQAROLARNING MUROJAAT ETISH HUQUQI",
+      "text2": "O’zbekiston Respublikasi fuqarolari davlat organlariga arizalar, takliflar va shikoyatlar bilan murojaat etish huquqiga ega.",
+      "text2_2" : "Fuqarolarning murojaat etish huquqidan foydalanishlari boshqa shaхslarning, jamiyat va davlatning huquqlari, erkinliklari va qonuniy manfaatlariga putur etkazmasligi kerak",
+      "text2_3" : "Хorijiy davlatlarning fuqarolari va fuqaroligi bo’lmagan shaхslar O’zbekiston Respublikasi davlat organlariga ushbu qonunga muvofiq murojaat etish huquqiga ega",
+      "text2_4" : "Fuqarolar tomonidan fuqarolarning o’zini o’zi boshqarish organlariga murojaat etish sohasidagi munosabatlar ushbu qonunda belgilangan tarzda tartibga solinadi.",
+      "text2_5" : "Fuqarolarning murojaatlari, agar qonunlarda ularni ko’rib chiqishning boshqacha tartibi belgilangan bo’lsa, ushbu qonunga muvofiq ko’rib chiqilmaydi.",
+      "text3": "FUQAROLARNING MUROJAATLARI SHAKLLARI",
+      "text4": "Fuqarolarning murojaatlari og’zaki yoki yozma shaklda kiritiladi. Fuqarolarning og’zaki va yozma murojaatlari bir хil ahamiyatga ega",
+      "text5": "Fuqarolarning murojaatlari yakka tartibda yoki jamoa tomonidan berilishi mumkin",
+      "text6": "Fuqarolarning murojaatlari turi",
+      "text7": "Bayonot - ",
+      "text7_1" : "davlat va jamiyat faoliyatini takomillashtirish bo'yicha tavsiyalarni o'z ichiga olgan fuqarolarning murojaati.",
+      "text7_2" : "Taklif - ",
+      "text7_3" : "davlat va jamiyat faoliyatini takomillashtirish bo'yicha tavsiyalarni o'z ichiga olgan fuqarolarning murojaati.",
+      "text7_4" : "Shikoyat - ",
+      "text7_5" : "fuqarolarning buzilgan huquqlari, erkinliklari va qonuniy manfaatlarini tiklashni talab qiluvchi murojaati.",
+      "text7_6" : "Fuqarolarning murojaatlariga qo'yilgan talablar",
+      "text7_7" : "Murojaatlarda jismoniy shaxsning familiyasi (ismi, otasining ismi) va yashash joyi to‘g‘risidagi ma’lumotlar ko‘rsatiladi, ariza, taklif yoki shikoyat masalasi tushuntiriladi.",
+      "text7_8" : "Yozma murojaatlar ariza beruvchi tomonidan imzolanadi. Ariza beruvchi tomonidan murojaatni imzolashning iloji bo‘lmasa, unga familiyasi va ismi, otasining ismi qo‘shimcha ko‘rsatilgan holda loyiha muallifi tomonidan imzolanadi.",
+      "text7_9" : "Jismoniy shaxsning familiyasi (ismi, otasining ismi), yashash joyi toʻgʻrisidagi maʼlumotlar koʻrsatilmagan yoki yolgʻon maʼlumotlarni oʻz ichiga olgan murojaatlar, shuningdek imzo bilan tasdiqlanmagan murojaatlar anonim murojaatlar deb hisoblanadi va koʻrib chiqilmaydi.",
+      "text8": "Ko'chirish uchun ma'lumotlar",
+      "text9": "\"Аsakabank\" Aksiyadorlik jamiyatining Boshqaruvining qabul qilish grafigi",
+      "text10": "Qabulga kirish uchun bir kun avval (+99878) 140-65-65 ichki raqam 1112 telefonlari orqali ro’yxatga yozilish lozim.",
+      "text11": "Boshqaruv Raisi",
+      "text11_first_deputy": "Boshqaruv Raisining Birinchi O’rinbosari",
+      "text11_deputy": "Boshqaruv Raisining O’rinbosari",
+      "text12_deputy1_name": "Zakirov Sur’at Utkurovich",
+      "text12_deputy2_name": "Abdullaev Boboxon Rustamovich",
+      "text12_deputy3_name": "Sharipov Baxromxodja Shuxratovich",
+      "text12_deputy4_name": "Mamadjanov Bunyod Baxtiyorovich",
+      "text12": "Saydullayev Nodirbek Narzullayevich",
+      "text13": "O‘zbekiston Respublikasi investitsiya va tashqi savdo vaziri o‘rinbosari – O‘zbekiston Respublikasi Tiklanish va taraqqiyot jamg‘armasi ijrochi direktori",
+      "text14": "Qabul kuni:",
+      "text15": "Dushanbadan - Jumagacha",
+      "text16": "Qabul vaqti:",
+      "text17": "9:00 dan 11:00 gacha"
+    }
+  },
+  "P2p": {
+    "Payment": {
+      "maximum": "minimal miqdor",
+      "minimum": "maksimal miqdor",
+      "sum": "Summa",
+      "cardNumber": "Karta raqami",
+      "date": "Karta yaroqlik muddati",
+      "date2": "OO/YY"
+    },
+    "MoneyTransfer": {
+      "From": "Yuboruvchining karta raqami",
+      "To": "Qabul qiluvchining karta raqami",
+      "Summa": "Summa",
+      "Commission": "Komissiya",
+      "Transfer": "O'tkazish",
+      "Maximum": "Komissiyasiz bitta o'tkazmaning maksimal miqdori - ",
+      "Minimum": " so'm, eng kam miqdori - ",
+      "Sum": "so'm",
+      "CanBeSeveral": "Pul mablag'larini o'tkazish muddati qabul qilib oluvchining bankiga bog'liq va bir necha daqiqa bo'lishi mumkin."
+    },
+    "Check": {
+      "ServiceName": "Xizmat nomi",
+      "MoneyTransfer": "Pul o'tkazmasi",
+      "Receiver": "Qabul qiluvchi",
+      "ReceivingBank": "Qabul qiluvchi bank",
+      "ReceivingCard": "Qabul qiluvchi Kartasi",
+      "CardNumber": "Karta raqami",
+      "SystemTransferID": "Tizim uzatish Id si",
+      "TransferTime": "Tasdiqlash vaqti",
+      "Shortcoming": "O'tkazma vaqti",
+      "Sum": "So'm",
+      "PaymentAmount": "To'lov miqdori",
+      "Print": "Chop etish",
+      "Save": "Saqlash"
+    },
+    "ConfirmModal": {
+      "ConfirmationOfPayment": "To'lovni tasdiqlash",
+      "SMSCodeWillBeSentToThisNumber": "Ushbu raqamga SMS-kod yuboriladi",
+      "ApprovalTime": "Tasdiqlash vaqti",
+      "Hour": " Soat, ",
+      "Minute": " Daqiqa, ",
+      "Second": " soniya ",
+      "ConfirmationCode": "Tasdiqlash kodi"
+    }
+  },
+  "Documents": {
+    "Tab1": "Xususiy mijozlar",
+    "Tab2": "Yuridik shaxslar",
+    "Tab3": "Normativ huququy hujjatlar",
+    "Tab4": "Ichki normativ hujjatlar",
+    "Title1": "Tariflar",
+    "Title2": "Tariflar",
+    "Title3": "O'zbekiston Respublikasi Prezidenti tomonidan qabul qilingan farmonlar va dasturlar",
+    "Title4": "Ichki Normativ Hujjatlar "
+  },
+  "Scoring": {
+    "title": "Scoring",
+    "title2": "Yangi omadli xaridlar uchun!",
+    "btn": "Natijani oling",
+    "quest1": {
+      "title": "Sizning yoshingiz:",
+      "answer1": "25 dan 45 yilgacha",
+      "answer2": "45 dan 60 yilgacha",
+      "answer3": "18 dan 25 yilgacha",
+      "answer4": "18 yoki 60 yilgacha"
+    },
+    "quest2": {
+      "title": "Oxirgi ish joyida mehnat faoliyati davomiyligi:",
+      "answer1": "5 yildan ortiq",
+      "answer2": "3 dan 5 yilgacha",
+      "answer3": "1 yildan 3 yilgacha",
+      "answer4": "1 yilgacha"
+    },
+    "quest3": {
+      "title": "Oxirgi ish joyida mehnat faoliyati davomiyligi:",
+      "answer1": "5 yildan ortiq",
+      "answer2": "3 dan 5 yilgacha",
+      "answer3": "1 yildan 3 yilgacha",
+      "answer4": "1 yilgacha",
+      "answer5": "Ishsiz"
+    },
+    "quest4": {
+      "title": "O'rtacha oylik sof daromad:",
+      "answer1": "25 BRV dan ortiq",
+      "answer2": "10 dan 25 BRV gacha",
+      "answer3": "4 dan 10 BRV gacha",
+      "answer4": "4 tagacha BRV",
+      "answer5": "Ishsiz"
+    },
+    "quest5": {
+      "title": "Qarzni qoplash darajasi aniq oylik daromad(daromad-xarajat) / kredit bo'yicha oylik to'lov:",
+      "answer1": "3 dan ortiq",
+      "answer2": "2 dan 3 gacha",
+      "answer3": "1,5 dan 2 gacha",
+      "answer4": "1dan 1,5 gacha",
+      "answer5": "1 gacha"
+    },
+    "quest6": {
+      "title": "Asosiy ish joyi bo'yicha tashkiliy shaklning turi:",
+      "answer1": "Davlat muassasasi",
+      "answer2": "Davlat kompaniyasi",
+      "answer3": "Yakka tartibdagi tadbirkor",
+      "answer4": "Boshqa"
+    },
+    "quest7": {
+      "title": "Qarz oluvchining qaramog'idagi pul varaqalari:",
+      "answer1": "Mavjud emas",
+      "answer2": "Qaramlikda 1 kishi",
+      "answer3": "3 dan ortiq kishi"
+    },
+    "quest8": {
+      "title": "Uy-joy mulkining mavjudligi:",
+      "answer1": "Mulkda uy-joy mavjud",
+      "answer2": "Ota-onalarning uyi",
+      "answer3": "Qarindoshlarni ijaraga olish yoki uy-joy"
+    },
+    "quest9": {
+      "title": "Mulkda qo'shimcha mulkning mavjudligi:",
+      "answer1": "1000 BRV dan kam bo'lmagan savdo do'konlari, ishlab chiqarish sexi, uskunalar, yo'lovchi avtomobil",
+      "answer2": "400 BRV dan kam bo'lmagan miqdorda yo'lovchi avtomobili yoki boshqa mol-mulk mavjud",
+      "answer3": "Ushbu mulk yo'q"
+    },
+    "quest10": {
+      "title": "Bankda depozit depozit mavjudligi:",
+      "answer1": "3 yil oldin ochilgan bank depozitiga ",
+      "answer2": "1 yildan 3 yilgacha bankda depozit depozit bor",
+      "answer3": "1 yildan kam bankda depozit depozit bor",
+      "answer4": "Bankda depozit yo'q"
+    },
+    "quest11": {
+      "title": "Qarz oluvchining kredit tarixi:",
+      "answer1": "Benuqson-ilgari olingan barcha kreditlar uchun (5 yil davomida) asosiy qarz va foizlar bo'yicha o'z vaqtida to'lovlar amalga oshirildi",
+      "answer2": "Yaxshi-ya'ni, oldindan olingan kreditlar bo'yicha asosiy qarz va foizlar bo'yicha o'z vaqtida to'lovlar amalga oshirildi, ammo 30 kungacha kechiktirilgan to'lovlarning alohida holatlari mavjud edi",
+      "answer3": "Qoniqarli - ya'ni, oldindan olingan kreditlar bo'yicha asosiy qarzni to'lash muddati va 30 dan 90 kungacha bo'lgan foizlar bor edi",
+      "answer4": "Yo'q-qarz oluvchi ilgari bank kreditlaridan foydalanmagan",
+      "answer5": "Qoniqarli emas - ya'ni, oldindan olingan kreditlar bo'yicha asosiy qarzni to'lash muddati va 90 kundan ortiq foizlar bor edi"
+    }
+  },
+  "CorporateCustomers": {
+    "Home": {
+      "BestBusiness": {
+        "title": "Biznesingiz uchun eng yaxshisi",
+        "title_sub": "Kichik biznesga kompleks xizmat ko'rsatish",
+        "tab1": "Biznesingiz uchun kredit",
+        "tab12": "Individual shartlar",
+        "tab2": "Loyihalarni moliyalashtirish",
+        "tab21": "10 yilgacha qo'llab-quvvatlash",
+        "tab3": "Ish haqi loyihasi",
+        "tab31": "Har qanday moliyaviy muammolarni hal qilish uchun",
+        "tab4": "Bank kafolatlari",
+        "tab41": "Ta'minlash uchun bank kafolatlarini rasmiylashtirish",
+        "tab5": "Depozitlar",
+        "tab51": "Moslashuvchan joylashtirish shartlari. Maksimal daromad",
+        "tab6": "Faktoring",
+        "tab61": "Ta'minotni moliyalashtirish va mijozlarning debitorlik qarzlarini nazorat qilish",
+        "right_title": "Korporativ Internet-Banking",
+        "right_title_sub": "Tushumlar haqida darhol ma'lumot oling va ofisingizdan chiqmasdan to'lovlarni amalga oshiring"
+      },
+      "Terminal": {
+        "trade": "Savdo",
+        "acquiring": "ekvayringi",
+        "text": "Plastik kartalar orqali to'lovlar uchun terminal",
+        "for_legal": "Yuridik shaxslar uchun terminal ijarasi",
+        "for_yatt": "YaTT uchun terminal ijarasi",
+        "inkasatsiya": "Terminal berish va uni inkassatsiya qilish"
+      },
+      "TIF": {
+        "title": "Tashqi Iqtisodiy faoliyat",
+        "title_sub": "Tashqi savdo shartnomalarini tayyorlash va tuzishda yordam berish, shuningdek bitimlar bo'yicha xavflarni minimallashtirish",
+        "link1": "Hujjatli operatsiyalar",
+        "link2": "TIF yordam",
+        "link3": "Chet el valyutasini sotish va sotib olish",
+        "link4": "Diling operatsiyalar",
+        "link5": "Faktoring"
+      },
+      "InternetBanking": {
+        "title": "Internet banking",
+        "title_sub": "Biznesingiz uchun qulay mobil va Internet-bank",
+        "text": "Dunyoning istalgan nuqtasida kuniga 24 soat mavjud bo'lgan hisob-kitoblarni boshqarish, bank operatsiyalari, xarajatlar va daromadlarni tahlil qilish."
+      }
+    },
+    "btn1": "So'rov qoldiring",
+    "btn2": "Rasmiylashtirish",
+    "SettlementAndCashService": {
+      "tab1": "Tavsif",
+      "tab2": "Tariflar va kerakli hujjatlar",
+      "text1": "Hisob raqam ochish uchun",
+      "text2": "Sizning shartlaringiz bo'yicha ochamiz va ishlaymiz",
+      "text3": "Hisob raqam ochish uchun so'rov qoldiring",
+      "text4": "Operator javobini kuting",
+      "text5": "Hujjatlar uchun sizga eng yaqin ofisga keling",
+      "text6": "Hisob raqam ochish uchun",
+      "text7": "Bankga bormasdan onlayn hisobni ochamiz va rekvizitlarni 5 daqiqada yuboramiz",
+      "text8": "Zarur hujjatlar",
+      "text9": "Yuklab olish uchun"
+    },
+    "SalaryProject": {
+      "FormTitle": "Ma'lumotlaringizni to'ldiring",
+      "text1": "Ushbu xizmat foydalanuvchilari orasida turli xil mijozlar mavjud.",
+      "text2": "Onlayn Ariza",
+      "text3": "Ish haqi kartalarini chiqarish va ish haqini to'lash",
+      "text4": "Hujjatlar to'plamini tayyorlang va ularni bankka topshiring",
+      "text5": "Ish haqi loyihasini ochish uchun saytdagi arizani to'ldiring",
+      "text6": "Xodimlar bilan hisob-kitoblarni osonlashtirish uchun bir necha oddiy qadamlar",
+      "text7": "Ish haqi loyihasini rasmiylashtirish",
+      "text8": "Xizmat xodimlar sonidan qat'i nazar taqdim etiladi",
+      "text9": "Ushbu xizmat foydalanuvchilari orasida turli xil mijozlar mavjud bo'lib — respublika miqyosidagi yirik korxona va tashkilotlardan tortib bir necha kishilik kichik xususiy korxonalarga qadar.",
+      "text10": "Eslatma",
+      "text11": " komissiya olinmaydi",
+      "text12": "Byudjet tashkilotlari uchun komissiya - ",
+      "text13": " shartnoma asosida",
+      "text14": "Ish haqini plastik kartaga o'tkazish - ",
+      "text15": " bepul",
+      "text16": "Plastik kartochka berish - ",
+      "text17": "Xizmat uchun tariflar ",
+      "text18": "Ish haqini hisoblash va berilishining maxfiyligi ",
+      "text19": "To'lov hujjatlarini qayta ishlash xavfsizligini va nazoratini oshirish",
+      "text20": "Xodimlarning ish haqi olishida vaqtlarini qisqartirish",
+      "text21": "Buxgalteriya hisobini soddalashtirish",
+      "text22": "Inkasatsiya xarajatlarini kamaytirish",
+      "text23": "Ish haqi, ularning joylashgan joyidan qat'i nazar, barcha xodimlarga bir vaqtning o'zida beriladi",
+      "text24": "Naqd pul aylanmasini kamaytirish hisobiga kassa operatsiyalari hajmini qisqartirish",
+      "text25": "Ish haqi loyihasining afzalliklari:"
+    },
+    "Cards": {
+      "TradeAcquiring": {
+        "TAB1": {
+          "tab1": "Savdo ekvayringi haqida",
+          "header1": "Foydalanish afzalliklari",
+          "header1_sub": "Chakana savdo, umumiy ovqatlanish korxonalari va turli xizmatlar ko'rsatuvchi kompaniyalar uchun optimal yechim",
+          "card1": "Foyda ortishi",
+          "card12": "Mijozlar mavjud naqd pul bilan cheklanmaydi va xaridlarni osonlashtiradi",
+          "card2": "O'rtacha chekni oshirish",
+          "card21": "Tovarlarni to'lov kartasi bilan to'lashda o'rtacha tekshirish naqd pul bilan to'lashingizdan ko'ra ancha yuqori",
+          "card3": "Raqobatbardoshlikni oshirish",
+          "card31": "Yangi xizmatlar va to'lov usullari sizga raqobatchilardan farq qilish imkonini beradi",
+          "card4": "Mijozlar bazasi darajasini oshirish",
+          "card41": "Siz o'rtacha va yuqori daromadli ko'proq mijozlarga ega bo'lasiz",
+          "card5": "Xavf va xarajatlarni kamaytirish",
+          "card51": "Naqd pul aylanishi bilan bog'liq xatarlar va yig'ish xizmatlari xarajatlari kamayadi",
+          "card6": "Vaqtni tejash",
+          "card61": "Siz mijozlarga xizmat ko'rsatish tezligini sezilarli darajada oshirishingiz mumkin (ayniqsa kontaktsiz to'lov bilan).",
+          "header2": "Terminalni ulash",
+          "header2_sub": "3 oddiy qadamni bajaring",
+          "step1": "Saytdagi arizani to'ldiring. Menejer sizga murojaat qiladi.",
+          "step2": "Ro'yxatga olish uchun pasport bilan bankka keling",
+          "step3": "Terminalni bir necha kun ichida oling",
+          "order_terminal": "Terminalga buyurtma berish",
+          "order_terminal_sub": "Turli xizmatlar ko'rsatuvchi kompaniyalar uchun qulay yechim.",
+          "order": "Buyurtma berish"
+        },
+        "TAB2": {
+          "tab2": "Tariflar",
+          "header": "Xizmatlar uchun tariflar",
+          "li1": "Yuridik shaxslar uchun terminal ijarasi - 25 000 so'm",
+          "li2": "IP terminal ijarasi uchun - 15 000 so'm",
+          "li3": "Terminalni berish va uni inkassatsiya qilish - bepul"
+        },
+        "TAB3": {
+          "tab3": "Hujjatlar",
+          "header": "Kerakli hujjatlar",
+          "name": "Pasport",
+          "name_sub": "yoki boshqa identifikatsiya hujjati"
+        }
+      }
+    },
+    "CorporateInternetBank": {
+      "header1": "Kiruvchi kvitansiyalar",
+      "header12": "Joriy hisob raqamiga kiruvchi tushumlar to'g'risidagi ma'lumotlarni bir zumda olish",
+      "header2": "To'lovlarni amalga oshirish",
+      "header21": "O'z ofisingizdan chiqmasdan onlayn to'lovlarni amalga oshirish",
+      "title": "Tizimga qanday ulanish kerak",
+      "title_sub": "Tizimdan foydalanishdan oldin asosiy qadamlar",
+      "one": "OViS xodimi va xavfsizlik bo'limiga texnik xavfsizlik qoidalari, jihozlar va xodimlarning bank bilan aloqa qilish uchun kompyuter o'rnatiladigan xonaga kirishi bo'yicha ko'rsatmalar berish.",
+      "two": "Korporativ mijozlar bilan ishlash bo'limi bilan xizmatlar ko'rsatish bo'yicha shartnoma tuzish",
+      "three": "Mijoz tomonidan iKey-ni sotib olish - ma'lumotni himoya qilish va xavfsizlik, shifrlash va raqamli imzo kalitlarini yaratish uchun kalit",
+      "four": "Tizimda ishlash uchun kadrlarni tayyorlash. Bajarilgan ishlar aktini imzolash"
+    },
+    "TradeFinance": {
+      "BankPartners": {
+        "name1": "Kommerzbank",
+        "state1": "Germaniya",
+        "name2": "O‘zbekiston Respublikasi Tashqi iqtisodiy faoliyat milliy banki",
+        "state2": "O‘zbekiston",
+        "name3": "Xalqaro Raiffeisen Banki",
+        "state3": "Vena, Avstriya",
+        "name4": "Sberbank",
+        "state4": "Rossiya",
+        "cityLabel": "Shahar / Mamlakat:",
+        "visit_site": "Saytga tashrif buyurish"
+      }
+    }
+  },
+  "InternationalCooperation": {
+    "Home": {
+      "to_financial_institutions": "Moliyaviy tashkilotlarga",
+      "to_financial_institutions_sub": "AJ “Asakabank” jahon va ichki moliyaviy bozordagi rivojlanish tendensiyalari o’zgarishlariga o’z vaqtida munosabat bildirish orqali O’zbekiston va chet eldagi bank korrespondentlar bilan munosabatlarni rivojlantirishga alohida e’tibor qaratmoqda. “Asakabank\" korrespondentlik munosabatlarini olib borishdagi o’z faoliyatini nafaqat o’z pozitsiyalaridan, balki, avvalambor bank mijozlari pozitsiyalaridan baholaydi.",
+      "int_button": "Xalqaro hamkorlik",
+      "important_info": "Barcha zarur ma'lumotlar",
+      "correspondent": "Korrespondentlik munosabatlari",
+      "trade": "Savdoni moliyalashtirish",
+      "project": "Loyihalarni moliyalashtirish",
+      "int_coop": "Xalqaro hamkorlik",
+      "world_bank": "Jahon banki bilan hamkorlik",
+      "int_contracts": "Xalqaro shartnomalar",
+      "treasury": "G'aznaxona operatsiyalari",
+      "useful_info": "Foydali ma'lumotlar",
+      "bank_partners": "Bank hamkorlari"
+    },
+    "Cooperation": {
+      "text1": "Dunyoning eng yirik banklarida ochilgan korrespondentlik hisobvaraqlari orqali turli operatsiyalarni amalga oshirish imkonini beruvchi keng korrespondentlik tarmog'iga ega bo'lgan \"Asaka\" banki dunyoning yirik banklari orasida yetakchi o'rinni egallaydi.",
+      "text2": "Bugungi kunda \"Asaka\" bankida Korrespondent-banklar soni 370 dan ortiq bankni tashkil etadi. Ularning 34 tasi bilan turli valyutalarda hisob raqamlar ochildi: Nostro 34 turi va Loro hisoblarining 38 turi",
+      "text3": "Ayni paytda Korrespondent banklar soni \"Asaka\" bank tomonidan mijozlarning topshiriqlari bo'yicha o'tkazilayotgan barcha banklararo operatsiyalarni to'liq qamrab olish imkonini bermoqda. Zarur hollarda \"Asaka\" bank yangi banklar bilan korrespondentlik munosabatlarini o'rnatish bo'yicha tezkor ishlarni amalga oshirishga tayyor."
+    },
+    "InternationalActivity": {
+      "text1": "“Asaka” banki jahon va ichki moliyaviy bozordagi rivojlanish tendensiyalari o’zgarishlariga o’z vaqtida munosabat bildirish orqali O’zbekiston va chet eldagi bank korrespondentlar bilan munosabatlarni rivojlantirishga alohida e’tibor qaratmoqda. “Asaka” bank korrespondentlik munosabatlarini olib borishdagi o’z faoliyatini nafaqat o’z pozitsiyalaridan, balki, avvalambor bank mijozlari pozitsiyalaridan baholaydi. Ular uchun optimal sharoitlar bank tomonidan 24 yillik faoliyat davomida samaradorlik, to’lovlarning iqtisodiyligi, ijro muddatlari va komission harajatlarning past darajaliligi orqali yaratildi.",
+      "text2": "Hamkorlik yo’nalishlari spektrini kengaytirish va xizmat ko’rsatish sifatini oshirish orqali, bank o’z korrespondentlik tarmog’ini muntazam kengaytirib kelmoqda. Hozirgi kunda bank dunyoning 370 dan ortiq yetakchi horijiy banklari bilan korrespondentlik munosabatlarini o’rnatgan. Yirik horijiy banklardagi korrespondentlik hisoblari tarmog’i orqali “Asaka” bank o’zining dunyoning asosiy moliyaviy markazlarida mavjudligini ta’minladi. Bank Germaniya, Avstriya, Yaponiya, AQSh, Buyuk Britaniya, Italiya, Shvetsariya, Xitoy Xalq Respublikasi, Korea Respublikasi, Rossiya va boshqa mamlakatlarning yetakchi banklari bilan korrespondentlik munosabatlarini olib boradi",
+      "text3": "Hozirgi kunda bank-korrespondentlar soni “Asaka” bank tomonidan bajarilayotgan mijozlarning so’rovi bo’yicha barcha banklararo operatsiyalarni qoplashni ta’minlay oladi. Zarurat tug’ilganida “Asaka” bank yangi banklar bilan korrespondentlik munosabatlarini o’rnatish bo’yicha ishlarni operativ suratda olib borishga tayyor.",
+      "text4": "Dunyoning moliyaviy institutlari bilan munosabatlarni rivojlantirish an’anaviy ravishda bank faoliyatining ustuvor yo’nalishlaridan biri hisoblanadi. Xalqaro moliyaviy muassasalar bilan hamkorlikni rivojlantirishda asosiy e’tibor investitsion loyihalarni o’rta va uzoq muddatga moliyalashtirish sohasi, savdo operatsiyalarini qisqa muddatga moliyalashtirish (savdoni moliyalashtirish), bank faoliyatidagi turli xil masalalar bo’yicha bilim va tajriba almashish, kasbiy ta’lim dasturlarida qatnashish va boshqalarga qaratiladi.",
+      "text5": "“Asaka” bank doimiy asosda turli xil mahalliy va xorijiy assotsiatsiyalar bilan sheriklikni muntazam rivojlantiradi va hozirgi kunda O’zbekiston Banklari Assotsiatsiyasi, O’zbekiston Respublikasi Savdo-Sanoat Palatasi, Osiyo Bankirlar Assotsiatsiyasi (OBA), Osiyo va Tinch Okeani Moliyaviy Institutlarini Rivojlantirish Assotsiatsiyasi (OTOMIRA), SWIFT, THOMSON REUTERS va Mastercard kabi tashkilotlarning a’zosi hisoblanadi.",
+      "text6": "Hisob kitoblarning sifati, tezligi va ishonchliligiga alohida e’tibor berish, boshqa banklar bilan munosabatlarni rivojlantirishga alohida yondashuvni qo’llash orqali “Asaka” bank keyinchalik ham o’zining ichki va xalqaro bozordagi pozitsiyalarini mustahkamlashga harakat qiladi."
+    },
+    "TradeFInance": {
+      "text1": "«Asaka» bank yil davomida savdoni moliyalashtirilish sohasida faol ish olib bormoqda, xususan, hozirgi kunda eksport-import operatsiyalar bo’yicha 1 yilgacha bo’lgan qisqa muddatli kreditlardan foydalanilmoqda. Kredit beruvchilar qatorida — JP Morgan Chase (AQSh), Korea Exim Bank (Koreya), UBS AG (Shveytsariya), Commerzbank AG (Germaniya), Landes Bank Berlin AG (Germaniya), Dresdner Bank AG (Germaniya), SMBC (Yaponiya), RBI (Avstriya), CITIBANK (AQSh) va boshqa xalqaro moliyaviy institutlar mavjud. Xorijiy hamkorlar tomonidan savdoni moliyalashtirish sohasidagi taqdim etilgan kredit liniyalarining umumiy miqdori 500 million AQSH dollaridan oshadi. Ushbu kredit liniyalar doirasida, doimiy ravishda AJ “O’zavtosanoat” (shu jumladan AJ “GM Uzbekistan”), AJ “O’zkimyosanoat”, AJ “O’zagrotexsanoatxolding” kabi boshqa mijozlarning akkreditivlari tasdiqlanyapti.",
+      "text2": "Savdo bitimlarning asosiy qismi Janubiy Koreya, Germaniya, Rossiya, Hindiston, Turkiya, Shveytsariya, Italiya va boshqa mamlakatlar etkazib beruvchilariga to’g’ri keladi."
+    },
+    "ProjectFinancing": {
+      "header1": "Asaka banki tomonidan chet el kredit liniyalari orqali moliyalashtirilgan eng katta loyihalari quyidagilar:",
+      "text1": "“Asaka” bank loyihalarni moliyalashtirish sohasida Xalqaro Moliyaviy Muassasalar va chet el Banklari bilan hamkorlik qiladi. Hamkorlik davomida bank tomonidan Yevropa Tiklanish va Taraqqiyot Banki, Commerzbank AG, Drezdnerbank AG, Raiffeisen Bank International, Banco Santander, Jahon Banki, United Bank of Switzerland, Credit Suisse, Societe Generale, Instituto de Credito Oficial, Xalqaro Moliyaviy Korporatsiya (XMK), Osiyo Taraqqiyot Banki (OTB), Unicredit Bank, The Bank of Tokyo-Mitsubishi UFJ, ING bank, Mizuho bank, Sumitomo Mitsui Banking Corporation, Japan Bank for International Cooperation (JBIC), Xitoy Eksport Import Banki, Xitoy Davlat Tarqqiyot Banki, Islom Taraqqiyot Banki, Xususiy Sektorni Rivojlantiruvchi Islom Korporatsiyasi kredit liniyalari jalb etilgan. Yuqoridagi kredit liniyalar doirasida sanoatning turli xil sohasidagi loyihalar moliyalashtirildi.",
+      "li1": "«Japan Bank for International Cooperation» (JBIC) va boshqa yapon banklari «The Bank of Tokyo-Mitsubishi UFJ, LTD.», «SMBC», «Mizuho» va «ING»ning sindikatlangan krediti orqali “AJ “Navoiyazot” negizida ammiak va karbamid ishlab chiqarish qurilishi” – 69,24 mlrd. yapon yeni (577,0 mln AQSH dollari ekvivalentida).",
+      "li2": "Xitoy Eksport-Import Banki orqali “AJ “Navoiyazot” negizida PVX, metanol va kaustik soda ishlab chiqarish kompleksining qurilishi” – 373,83 mln AQSh dollari.",
+      "li3": "Xitoy Eksport-Import Banki orqali “Angren EIIZ hududida konveyer lentalari, avtomobil va qishloq ho’jaligi shinalarini ishlab chiqarishni tashkillashtirish” – 156,37 mln AQSh dollari.",
+      "header2": "Milliy eksport kredit agentliklari (eka) bilan hamkorlik",
+      "text2": "Xorijiy banklarning kredit yo’nalishlarini jalb etishning asosiy shartlaridan biri – «Euler Hermes» EKA (Germaniya), «SACE» EKA (Italiya), «CESCE» EKA (Ispaniya) kabi Milliy Eksport Kredit Agentliklari tomonidan ajratiladigan sug’urta kafolati mavjudligidir.",
+      "text3": "Mazkur yo’nalishda amalga oshirilgan ish natijasida «Euler Hermes» EKA (Germaniya) tomonidan «Asaka» banki uchun bevosita limit ajratilgan va uning yordamida Landes Bank Berlin AG, Commerzbank AG, HVB, Dresdner Bank AG ishtiroki bilan 15 ta loyiha moliyalashtirilgan.",
+      "text4": "CESCE EKA (Ispaniya) ishtirokida Banco Santander, ICO, Societe Generale (Ispaniya vakolatxonasi) ishtiroki bilan 4 ta loyiha moliyalashtirilgan, shunda uchta loyihaga Hukumat Kafolati jalb etilgan.",
+      "text5": "«SACE» EKA (Italiya) tomonidan «Asaka» banki uchun bevosita limit ajratilgan va uning yordamida HVB banki (Italiya vakolatxonasi) ishtiroki bilan 3 ta loyiha moliyalashtirilgan.",
+      "text6": "EGAP EKA (Chexiya) RZB banki (Chexiya) ishtiroki bilan 1 ta loyihani moliyalashtirish uchun sug’urta kafolatini taqdim etgan"
+    },
+    "WorldBank": {
+      "first": "1-kredit liniya:",
+      "text1": "O’zbekiston Respublikasi Vazirlar Mahkamasining 25 iyul 2011 yildagi “Xalqaro Taraqqiyot Uyushmasi ishtirokida “Sanoat korxonalarining energiya samaradorligini oshirish” loyihasi bo’yicha choralar” to’g’risidagi №211 qaroriga muvofiq, 9 dekabr 2011 yilda “Asaka” bank tomonidan XTUning 8 mln AQSh dollari miqdoridagi vositalarini qayta kreditlash to’g’risida O’zbekiston Respublikasi Moliya va Iqtisodiyot Vazirliklari bilan Kelishuv imzolandi.",
+      "text2": "Ushbu liniya doirasida “Asaka” bank tomonidan AJ “O’ztransgaz”, Oziq ovqat sanoati uyushmasi, AJ “O’zpaxtasanoat” va AJ “O’zmetkombinat” kabi mijozlarning 10,6 mln AQSh dollari miqdoridagi 11ta loyihalari XTUning 8 mln AQSh dollari miqdoridagi vositalarini jalb qilish orqali moliyalashtirilgan.",
+      "second": "2-kredit liniya:",
+      "text3": "2013 yil 28 oktabrda O’zbekiston Respublikasi Vazirlar Mahkamasining 12.06.2013yildagi “Xalqaro Taraqqiyot Uyushmasi ishtirokida “Sanoat korxonalarining energiya samaradorligini oshirish” loyihasi bo’yicha choralar” to’g’risidagi №168 qaroriga muvofiq “Asaka” bank tomonidan O’zbekiston Respublikasi Moliya va Iqtisodiyot Vazirliklari bilan qayta kreditlash to’g’risidagi Kelishuvni imzolash orqali XTUning 33 mln AQSh dollari miqdoridagi qo’shimcha moliyalashtirishni jalb qilish bo’yicha ishlar amalga oshirildi.",
+      "text4": "O’zbekiston Respublikasi Iqtisodiyot Vazirligi taqdimotiga ko’ra “Asaka” bank tomonidan dastlabki qiymati 43,55 mln AQSh dollari bo’lgan 13ta loyiha tanlanib XTUning umumiy miqdori 33,72 mln AQSh dollari bo’lgan mablag’larini jalb qilish orqali moliyalashtirish Jaxon Banki tomonidan ma’qullandi. AJ “O’zbekenergo” (gaz izolyatsiya qiluvchi o’chirib yoqgichlar), AJ “O’zneftgazqazibchiqrish” (chastota konvertori, mikroturbin elektrostansiyalar), AJ “O’ztransgaz” (OSR texnologiyasi bo’yicha elektroenergiya ishlab chiqaruvchi issiqlik uztish uskunasi), AJ “O’zpaxtasanoat” (gidravlik presslar) va Navoiy TMK (ekskavatorlardagi elektrodvigatellarni almashtirish) uchun energiya tejovchi uskunularni sotib olish rejalashtirilmoqda."
+    },
+    "Agreements": {
+      "text1": "Xorijiy banklarning kredit yo’nalishlarini jalb etishning asosiy shartlaridan biri – «Euler Hermes» EKA (Germaniya), «SACE» EKA (Iyaliya), «CESCE» EKA (Ispaniya) kabi Milliy Eksport Kredit Agentliklari tomonidan ajratiladigan sug’urta kafolati mavjudligidir.",
+      "text2": "Mazkur yo’nalishda amalga oshirilgan ish natijasida «Euler Hermes» EKA (Germaniya) tomonidan «Asaka» banki uchun bevosita limit ajratilgan va uning yordamida Landes Bank Berlin AG, Commerzbank AG, HVB, Dresdner Bank AG ishtiroki bilan 15 ta loyiha moliyalashtirilgan.",
+      "text3": "CESCE EKA (Ispaniya) ishtirokida Banco Santander, ICO, Societe Generale (Ispaniya vakolatxonasi) ishtiroki bilan 4 ta loyiha moliyalashtirilgan, shunda uchta loyihaga Hukumat Kafolati jalb etilgan.",
+      "text4": "«SACE» EKA (Iyaliya) tomonidan «Asaka» banki uchun bevosita limit ajratilgan va uning yordamida HVB banki (Italiya vakolatxonasi) ishtiroki bilan 3 ta loyiha moliyalashtirilgan.",
+      "header": "Hozirgi kunda sanoat sohalarida amalga oshirilayotgan bir qator sarmoya loyihalari quyidagi Kredit Yo’nalishlari bo’yicha moliyalashtirilgan:",
+      "header_li1": "Xalqaro Moliya Korporatsiyasi – XMK;",
+      "header_li2": "Osiyo Rivojlanish Banki – ORB;",
+      "header_li3": "Islom Rivojlanish Banki – IRB;",
+      "header_li4": "«Landes Bank Berlin AG»ning 2 kredit yo’nalisi (Germaniya);",
+      "header_li5": "«Commerzbank AG» (Germaniya);",
+      "header_li6": "«Dresdner Bank» (Germaniya);",
+      "header_li7": "«Hipovereyns bank» (Germaniya);",
+      "header_li8": "«Banco Santander Setral Hispano»ning 2 kredit yo’nalisi (Ispaniya);",
+      "header_li9": "«Societe Generale» (Ispaniya vakolatxonasi);",
+      "header_li10": "«Instituto de Kredito Ofisial» (Ispaniya);",
+      "header_li11": "«Rayfayzen bank» (Chexiya);",
+      "header_li12": "Milliy Eksport Kredit Agentliklari bilan hamkorlik.",
+      "header2": "Loyihalarni moliyalashtirish",
+      "header2_sub": "xorijiy banklar ishtirokida",
+      "commersant_bank": "Kommertsbank kredit liniyasi (Germaniya)",
+      "commersant_bank_sub": "2009 yilning 18 sentyabrida «Asaka» banki va Kommertsbank o’rtasida 40 mln. Evro miqdoridagi yangi kredit liniyasi imzolandi. Ushbu liniya Evropadan tehnik jihozlarni import qilish uchun berilgan. Hozirgi paytda «Asaka» banki ushbu liniya bo’yicha potensial loyihalarni topib moliyalashtirishni ko’rib chiqmoqda.",
+      "header3": "Hususiy sektorni rivozhlantirish islom korporatsiyasini (hsrik) kredit liniyasi",
+      "header3_sub": "2013 yilning 2-6 sentyabrlarda Jidda shahridagi Hususiy sektorni rivozhlantirish Islom korporatsiyasining bosh ofisiga “Asaka” bankining delegatsiyasining tashrifi jarayonida, HSRIK vakillari bilan uchrashuv tashkil qilindi. Uchrashuv mobaynida hozirdagi mavjud bo’lgan kredit liniya, yangi qo’shimcha kredit liniyasini jalb qilish, kelajakdagi o’zaro hamkorlik masalalari ko’rib chiqildi.",
+      "header4": "Islom taraqqiyot banki",
+      "header4_sub": "2013 yilning 17 mayida O’zbekistonning 4 ta tijorat banki tarafidan («Asaka» Bank, «O’zsanoatqurilishbank», «Aziya Al'yans Bank» va «Ipoteka» Bank) Islom Taraqqiyot Banki manziliga murojaatnoma yuborildi. Ushbu murojaatnomaning maqsadi o’zaro hamkorlikni qo’llab quvvatlash va 100 mln. miqdoridagi jangi kredit liniyani jalb qilishda edi."
+    },
+    "TreasuryOperations": {
+      "header1": "“Asakabank” AJ quyidagi g’aznaxona amaliyotlarini taklif etadi:",
+      "header1_li1": "Banklararo va xalqaro bozorda asosiy valyutalar bilan konversion amaliyotlarni o’tkazish",
+      "header1_li2": "“Xalqaro valyuta / O’zbekiston Respublikasi milliy valyutasi” asosida conversion amaliyotlarni o’tkazish",
+      "header1_li3": "SVOP bitimlarini tuzish",
+      "header2": "Banklararo kreditlash",
+      "header2_li1": "Belgilangan limitlar va / yoki taqdim etiladigan garovlar doirasida banklararo kreditlar ajratish",
+      "header2_li2": "Banklararo kreditlarni asosiy erkin konvertatsiya qilinadigan valyutalarda va O'zbekiston Respublikasining milliy valyutasida jalb qilish",
+      "header2_li3": "O'zbekiston Respublikasi milliy valyutasidagi va chet el valyutasidagi korrespondentlik (bank) hisobvaraqlaridagi kunlik kredit qoldiqlari bo'yicha foizlarni hisoblash - kelishuv asosida",
+      "header2_li4": "\"Loro\" (AQSh dollarida, evroda, O'zbekiston Respublikasining milliy valyutasida) korrespondentlik hisobvaraqlari bo'yicha vakolatli banklar uchun belgilangan limitlar bo'yicha overdraftni taqdim etish",
+      "header3": "Banknot amaliyotlari",
+      "header3_li1": "Barcha asosiy erkin konvertatsiya qilinadigan valyutalar hamda O'zbekiston Respublikasining milliy valyutasi bilan banklararo banknota operatsiyalarini o'tkazish",
+      "header3_li2": "Naqd chet el valyutasini qabul qilish / chiqarish"
+    },
+    "Ratings": {
+      "Fitch": {
+        "header": "2020 yil 2 iyun kuni “Fitch Ratings” xalqaro reyting agentligi “Asaka” bankiga quyidagi reyting baholarini berdi:",
+        "text1": "Emitentning milliy va xorijiy valyutadagi uzoq muddatli defolt reytingi:",
+        "text2": "Emitentning milliy va xorijiy valyutadagi qisqa muddatli defolt reytingi:",
+        "text3": "Barqarorlik reytingi:",
+        "text4": "Quvvatlash reytingi:",
+        "text5": "Quvvatlash reytingi darajasi:",
+        "stable": "«Barqaror» istiqboli"
+      },
+      "Moody": {
+        "header": "2020 yil 15 dekabr kuni “Moody’s” xalqaro reyting agentligi “Asaka” bankining quyidagi reyting baholarini tasdiqladi:",
+        "text1": "Kontragent xatarlar bahosi:",
+        "text2": "Bank depozitlari reytingi:",
+        "text3": "Bankning moliyaviy barqarorlik reytingi:",
+        "text4": "Quvvatlash reytingi",
+        "text5": "Bankning bazaviy Kredit bahosi:",
+        "text6": "Bankning belgilangan bazaviy Kredit bahosi:"
+      }
+    }
+  },
+  "Promo": {
+    "btn": "aksiya qoidalari",
+    "text1": "Boshlanish vaqti",
+    "text2": "Tugash vaqti"
+  },
+  "SHAREHOLDERS_AND_INVESTORS": {
+    "Index": {
+      "btn": "Rivojlanish dinamikasi",
+      "text1": "\"Asakabank\" AJ ning",
+      "text2": "2020 yil uchun asosiy ko'rsatkichlari",
+      "text3": "2019 yil boshidan buyon \"Asaka\" bank tomonidan uzoq muddatli investitsiya loyihalarini moliyalashtirish uchun 1 545,3 mlrd. so'm ajratildi",
+      "text4": "Korporativ boshqaruv",
+      "link1": "Kollegial organlar",
+      "link2": "Korporativ boshqaruv kodeksi",
+      "link3": "Ichki hujjatlar",
+      "link4": "Noqonuniy daromadlarni legallashtirishga qarshi kurashish",
+      "link5": "Moliyaviy ko'rsatkichlar",
+      "link6": "Biznes-reja",
+      "link7": "Ochiq ma'lumotlar",
+      "link8": "Xayriya faoliyati"
+    },
+    "bank_structure": {
+      "tab1": "Bank kengashi",
+      "tab2": "Bank boshqaruvi",
+      "tab3": "Tarkibiy bo'linmalar",
+      "tab4": "Bank tuzilishi sxemasi",
+      "tab5": "Taftish komissiyasi",
+      "text1": "Bank Kengashi Bank faoliyati ustidan umumiy rahbarlikni, omonatchilar, kreditorlar va aksiyadorlar manfaatlarini himoya qilgan holda kreditlarni to’g’ri berilishi va mablag’larning investistiyasi ustidan nazoratni amalga oshiradi",
+      "text2": "Bank Kengashi Raisi",
+      "text3": "Vafayev Shuhrat Abdusharifovich",
+      "text4": "O‘zbekiston Respublikasi investitsiya va tashqi savdo vaziri o‘rinbosari – O‘zbekiston Respublikasi Tiklanish va taraqqiyot jamg‘armasi ijrochi direktori",
+      "text5": "Bank Kengashi a’zosi",
+      "text6": "O.A Yusupov",
+      "text7": "O‘zbekiston Respublikasi Tiklanish va taraqqiyot jamg‘armasi boshqarma boshlig'i",
+      "text8": "Bank Boshqaruvi Raisi",
+      "text9": "Saydullayev Nodirbek Narzullayevich",
+      "text10": "Telefon:",
+      "text11": "(+998 78) 147 55 55",
+      "text12": "E-mail: ",
+      "text13": "Biografiya",
+      "text14": "Ish joyi, lavozimi:",
+      "text15": "'Asakabank' Boshqaruv Raisi",
+      "text16": "Tug’ilgan sana:",
+      "text17": "1982 yil",
+      "text18": "Tug’ilgan joyi:",
+      "text19": "Jizzax viloyati",
+      "text20": "Rahbariyat",
+      "text21": "Boshqaruvi Raisi:",
+      "text22": "Saydullaev Nodirbek Narzullayevich",
+      "text23": "Telefon:",
+      "text24": "(+998 78) 147 55 55",
+      "text25": "E-mail: n.saydullayev@asakabank.uz",
+      "text26": "Bоshqаruv Rаisi birinchi o`rinbosari:",
+      "text27": "Zakirov Sur’at Utkurovich",
+      "text28": "Telefon:",
+      "text29": "(+998 78) 147 55 55",
+      "text30": "E-mail: n.saydullayev@asakabank.uz",
+      "text31": "Darvishev Nurbek Muradovich",
+      "text32": "O'zbekiston Respublikasi Tiklanish va taraqqiyot jamg'armasida bo'lim boshlig'i",
+      "text33": "SMS - xabarnoma xizmati",
+      "text34": "SMS - xabarnoma xizmati",
+      "text35": "Bankomatlar",
+      "text36": "To'lov ishi uchun bankomatlar ro'yxati",
+      "text37": "Infokiosklar",
+      "text38": "Biznesingiz uchun eng qulay takliflar"
+    },
+    "InternalDocuments": "Ichki normativ hujjatlar",
+    "FinancialIndicators": {
+      "title": "2020 yil uchun moliyaviy hisobotlar",
+      "text": "2020 yil yakunlari bo'yicha hisobot"
+    },
+    "AuditReport": {
+      "title": "Ko'chirish uchun ma'lumotlar",
+      "text": "Tuzilgan tashqi audit hisoboti – I bosqich",
+      "text2": "Tuzilgan tashqi audit hisoboti – II bosqich"
+    },
+    "InvestorFinance": {
+      "EndYear": "Yil yakunlari bo'yicha hisobot",
+      "FinancialReport": "yil uchun moliyaviy hisobot",
+      "Report": "Moliyaviy hisobot",
+      "QuarterReport": "chorak hisoboti",
+      "AuditReport": "Auditorlik hisoboti",
+      "Text1": "Asakabank tomonidan 2015-2018 yillar natijasi bo'yicha hisoblangan va to'langan dividendlar to'g'risida ma'lumot",
+      "Text2": "Asakabank tomonidan 2016-2019 yillar natijasi bo'yicha hisoblangan va to'langan dividendlar to'g'risida ma'lumot",
+      "Text3": "Birinchi yarim yillik hisoboti",
+      "Text4": "Asakabank tomonidan 2015-2017 yillar natijasi bo'yicha hisoblangan va to'langan dividendlar to'g'risida\n                ma'lumot"
+    },
+    "BankPerformance": {
+      "title": "Bank faoliyatining asosiy ko'rsatkichlari",
+      "displayName": "Кo'rsatkichlar nomi",
+      "milliardSum": "mlrd.so'm",
+      "totalCapital": "Umumiy kapital",
+      "AuthorizedCapital": "shu jumladan: Ustav kapitali",
+      "totalAssets": "Jami aktivlar",
+      "fundsCorrespondent": "Vakillik hisobvarag'idagi mablag'lar",
+      "cashHand": "Kassadagi mablag'lar",
+      "fundsMandatory": "Majburiy zahira hisobvarag'idagi mablag'lar",
+      "creditInvestments": "Kredit qo'yilmalari",
+      "loansForeign": "Horijiy valyutada berilgan kreditlar",
+      "mortgageLoans": "Ipoteka kreditlari",
+      "consumerLoans": "Istemol kreditlari",
+      "microCredits": "Mikrokreditlar",
+      "investmentPortfolio": "Qimmatbaho qog'ozlar va investitsiyalar portfeli",
+      "attractedDeposits": "Jalb qilingan depozitlar hajmi",
+      "depositsPopulation": "Aholi omonatlari",
+      "issuedBank": "Bank tomonidan chiqarilgan qimmatbaho qog'ozlar",
+      "bankBenefits": "Bank foydasi",
+      "customerBase": "Mijozlar bazasi (dona)",
+      "individuals": "shundan: xususiy mijozlar (omonatchilar)",
+      "numberBranches": "Filiallar soni",
+      "numberMiniBanks": "Minibanklar soni"
+    },
+    "StatisticGraphs": {
+      "title1": "Aktivlar dinamikasi, mln.so'm",
+      "title2": "Majburiyatlar dinamikasi, mln.so'm",
+      "title3": "Kapital dinamikasi, mln.so'm",
+      "title4": "2021 yil uchun aktivlar tarkibi, %",
+      "title5": "2021 yil uchun majburiyatlar tarkibi, %",
+      "title6": "Aktivlar va kapital rentabelligi, %",
+      "ch1": "Kapital",
+      "ch2": "Ustav kapital",
+      "ch3": "Sof foyda",
+      "ch4": "Aktivlar rentabelligi (ROA)",
+      "ch5": "Kapital rentabelligi (ROE)",
+      "ch6": "Kassadagi va Markaziy bankdagi naqd pullar",
+      "ch7": "Boshqa banklardagi mablag'lar",
+      "ch8": "Qimmatli qog'ozlar",
+      "ch9": "Investitsiya (netto)",
+      "ch10": "Kredit va lizing (netto)",
+      "ch11": "Asosiy vositalar",
+      "ch12": "Boshqa aktivlar",
+      "ch14": "Mijozlar depozitlari",
+      "ch15": "Boshqa banklar depozitlari",
+      "ch16": "Xorijiy banklar va Xorijiy Moliyaviy Institutlar kredit liniyalari",
+      "ch17": "Boshqa qarzlar",
+      "ch18": "Boshqa majburiyatlar",
+      "ch19": "Jami kapital"
+    }
+  },
+  "REQUISITES": {
+    "Requisites": {
+      "requisites": "Rekvizitlar",
+      "row1": "To'liq nomi:",
+      "row12": "«Asakabank» Aksiyadorlik Jamiyati",
+      "row2": "Qisqartirilgan nomi:",
+      "row21": "«Asakabank»",
+      "row3": "MFO:",
+      "row4": "O'zbekiston Respublikasi Markaziy bankidagi kor. hisob.:",
+      "row5": "INN:",
+      "row6": "OKONX:",
+      "row7": "OKPO:",
+      "row8": "SOAT:",
+      "row9": "KOPF:",
+      "row10": "KFS:"
+    },
+    "ForCall": {
+      "for_call": "Murojaat uchun axborot",
+      "row1": "Manzil:",
+      "row12": "O’zbekiston Respublikasi, Toshkent shahar, 100015, Mirobod tumani, Nukus ko'chasi, 67 uy",
+      "row2": "Pochta manzili:",
+      "row21": "100015, Toshkent shahar, Mirobod tumani, Nukus ko'chasi, 67 uy",
+      "row3": "Aloqa markazi 24/7:",
+      "row4": "Ishonch telefoni:",
+      "row41": "+998 71-200-55-22 9.00 dan 18.00 gacha (13.00-14.00 tushlik) Dushanbadan - Jumagacha",
+      "row5": "Faks:",
+      "row6": "Elektron pochta:"
+    },
+    "WorkHours": {
+      "work_hours": "Ish vaqti",
+      "for_ind": "Xususiy mijozlar uchun:",
+      "for_ind_sub": "dushanba — juma: soat 9:00 dan 18:00 gacha tushlik tanaffus soat 13:00 dan 14:00 gacha",
+      "for_corp": "Yuridik shaxslar uchun:",
+      "for_corp_sub": "dushanba-juma: 9:00 dan 18:00 gacha tushlik vaqti 13:00 dan 14: 00 gacha",
+      "text": "Tuzilgan tashqi audit hisoboti – I bosqich",
+      "text2": "Tuzilgan tashqi audit hisoboti – II bosqich"
+    }
+  },
+  "Comp": {
+    "h1": "Xurmatli «Аsaka Bank» mijozlari!",
+    "h5": "Bosh Komplaens menedjeri sahifasiga hush kelibsiz.",
+    "text1": "Maʼlumki, bankimizda komplaens nazorat tizimi joriy etilgan boʻlib, bank faoliyatida bajarilayotgan operatsiya va xarakatlarni qonun talablariga, nazorat qiluvchi organlarning qoidalari va standartlariga, bank ichki meʼyoriy xujjatlariga, siyosat va kodekslariga muvofiqligini nazorat qilish hamda mijozni lozim darajada tekshirish, jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirgʻin qurolini tarqatishni moliyalashtirishga qarshi kurashish, korruptsiya holati va alomatlariga qarshi kurashish boʻyicha qonunchilik talablariga muvofiqligini, bankning ichki meʼyoriy hujjatlari bilan belgilangan tartib va qoidalar, bank faoliyatida korporativ odob-ahloq (etika) kodeksi talablariga rioya etilishini nazorat qilish koʻzda tutilgan.",
+    "text2": "Bankning Komplaens nazoratini amalga oshirish maqsadida bevosita Bank Kengashiga boʼysunuvchi Komplaens nazorat Departamenti tashkil qilingan.",
+    "text3": "Tashkil qilingan Komplaens tizimi amaldagi meʼyoriy hujjatlar asosida ish yuritayotgan bank xodimlarining lavozim majburiyatlaridan qatʼiy nazar, rioya qilinishi lozim boʼlgan, noqonuniy xatti-harakatlar sodir etilishining oldini olishga qaratilgan korporativ madaniyat va qadriyatlarning elementlar toʼplami – Komplaens nazorat Siyosati bilan tartibga solinadi.",
+    "text4": "Shuningdek, har bir mijoz Oʻzbekiston Respublikasi normativ-huquqiy hujjatlari, shu jumladan Oʻzbekiston Respublikasi Markaziy banki meʼyoriy hujjatlari, bankning ichki qoidalari, bank va uning xodimlarini odob-ahloq meʼyorlari talablarini buzilganligi faktlari toʻgʻrisida oʻz faoliyatida duch kelgan boʻlsa, mazkur sahifa orqali xabar berish uchun bankning Bosh Komplaens menedjeriga shaxsan murojaat qilish imkoniyatiga ega.",
+    "text5": "Yuqorida ko'rsatib o'tilgan mavzudan tashqaridagi murojaatlar ko'rib chiqilmaydi va ularga javob berilmaydi."
+  },
+  "DepositCalculator": {
+    "header": "Foizlarni hisoblash",
+    "header_sub": "O'zingiz uchun eng qulay omonat turini tanlang!",
+    "currency_type": "Valyuta turi",
+    "deposit_type": "Omonat turi",
+    "amount": "Miqdor",
+    "credit_period": "Kredit muddati",
+    "month": "oy",
+    "annual_rate": "Yillik foiz stavkasi",
+    "thirty_days": "30 kunga",
+    "overall_profit": "Butun davr uchun daromad",
+    "text": "Hisob-kitoblar faqat ma'lumot berish uchun mo'ljallangan. Umumiy miqdor individual tarzda hisoblanadi.",
+    "open_deposit": "Omonat ochish"
+  },
+  "LastCorrections": {
+    "depositName": "Depozit nomi",
+    "region": "Hudud",
+    "filial": "Filial",
+    "status": "Status",
+    "notSelected": "Tanlanmadi",
+    "date": "Sana",
+    "appForDeposit": "Depozit uchun ariza",
+    "appForCard": "Karta uchun ariza",
+    "appForCredit": "Kredit uchun ariza",
+    "myApplications": "Mening arizalarim",
+    "userCabinet": "Foydalanuvchi kabineti",
+    "deposit": "Depozit",
+    "size": "O'lchami",
+    "sendToCustomer": "Mijozga yuborish",
+    "changeStatus": "Statusni o'zgartirish",
+    "fromCustomer": "Mijozdan kelgan xabar",
+    "toCustomer": "Mijozga xabar yozish",
+    "picture": "Rasm",
+    "endConversation": "Mijoz bilan murojaat yakunlangan",
+    "toFilial": "Filialga yuborish",
+    "send": "Yuborish",
+    "name": "Ism",
+    "role": "Role nomi",
+    "income_info": "Daromadlar to'g'risida ma'lumotlar",
+    "upload_file": "Faylni yuklang",
+    "filter_by_status": "Status bo'yicha saralash...",
+    "filter_by_card": "Karta nomi bo'yicha saralash...",
+    "filter_by_filial": "Filial bo'yicha saralash...",
+    "document_type": "Hujjat turi",
+    "financing": "Moliyalash",
+    "number_exchange_office": "Valyuta ayirboshlash shaxobchasining raqami:",
+    "nationality": "Millati:",
+    "education": "Ma'lumoti:",
+    "specialization": "Mutaxassisligi:",
+    "experience_in_bank": "Bank tizimida ish tajribasi:",
+    "in_position": "Egallab turgan lavozimida:",
+    "get_deposit": "Omonatni olish",
+    "for_download": "Yuklash uchun hujjatlar",
+    "mon_fri": "Ish vaqti dushanbadan jumagacha",
+    "mon-sat": "Ish vaqti dushanbadan shanbagacha",
+    "deposit_calculation_info": "Omonat hisobi haqida ma'lumot",
+    "audit1": "Tuzilgan tashqi audit hisoboti – I bosqich",
+    "audit2": "Tuzilgan tashqi audit hisoboti – II bosqich",
+    "audit3": "\"Asakabank\" AJ Korporativ boshqaruv tizimini baholash natijalari bo'yicha Xulosa",
+    "org_name": "Tashkilot nomi"
+  },
+  "MoneySend": {
+    "senderCardNumber": "Yuboruvchining karta raqami",
+    "expirationMonth": "Amal qilish oyi",
+    "expirationYear": "Amal qilish yili",
+    "receiverCardNumber": "Qabul qiluvchining karta raqami",
+    "transferAmount": "O'tkazma miqdori",
+    "receiverFirstName": "Qabul qiluvchining ismi",
+    "receiverLastName": "Qabul qiluvchining familiyasi",
+    "enterVerification": "Iltimos tasdiqlash kodini kiriting!",
+    "sixCharacters": "kamida oltita raqam bo'lishi shart!",
+    "close": "Orqaga",
+    "verifyTransfer": "Iltimos o'tkazmani tasdiqlang!",
+    "transferDetails": "O'tkazma haqida ma'lumot",
+    "senderFullName": "Yuboruvchining to'liq ismi",
+    "receiverFullName": "Qabul qiluvchining to'liq ismi",
+    "commission": "Komissiya",
+    "total": "Jami",
+    "verify": "Tasdiqlash"
+  },
+  "CardRequisites": {
+    "filial": "Filial",
+    "account": "Hisob/raqam",
+    "accountFull": "Hisob/raqam to'liq nomi",
+    "inn": "INN",
+    "cardType": "Karta turi",
+    "enterCardNumber": "Karta raqamini kiriting"
+  },
+  "CreditCalculator": {
+    "payment_table": "Kreditni to'lash jadvali",
+    "credit_type": "Kredit turi",
+    "credit_period": "Kredit muddati",
+    "annual_rate": "Yillik foiz stavkasi",
+    "initial_payment": "Boshlang'ich to'lov",
+    "privilege_period": "Imtiyozli davr",
+    "payment_period": "To'lash muddati",
+    "date": "Kuni",
+    "debt": "Qarz",
+    "base_debt_payment": "Asosiy qarz bo'yicha muntazam to'lovlar",
+    "interest_rate_payment": "Kredit foizlari bo'yicha to'lovlar",
+    "total_payment": "Jami to'lovlar",
+    "total": "Jami"
+  },
+  "MobileSlide": {
+    "authorization": "Avtorizatsiya",
+    "card_info": "Kartalar haqida ma'lumot",
+    "head_interface": "Bosh interfeys",
+    "zastavka": "Ekran saqlovchi",
+    "mobile_bank": "Mobil bank",
+    "pocket": "Hamma mablag' cho'ntagingizda",
+    "text": "Siz uchun qulay vaqtda kreditlar, depozitlar, hisoblar tuzing, moliyani boshqaring. Xizmatlar, onlayn chat, valyuta operatsiyalari uchun tezkor to'lov.",
+    "auth_sub": "Ilovaga kiring va avtorizatsiya qilish uchun telefon raqamini kiriting",
+    "choose_section": "Bo'limni tanlash",
+    "choose_section_sub": "Ekran menyusida \"Xalqaro pul o'tkazmalari\" bo'limini tanlang",
+    "moneysend_system": "MoneySend tizimi",
+    "moneysend_system_sub": "Xalqaro pul o'tkazmalari tizimi \"MoneySend\"ni tanlang",
+    "enter_info": "Ma'lumotlarni kiritish",
+    "enter_info_sub": "Quyidagi ma'lumotlarni kiriting:",
+    "li1": "- Qabul qiluvchining karta raqami",
+    "li2": "- Qabul qiluvchining ismi va familiyasi",
+    "li3": "- O'tkazma miqdori",
+    "success_sent": "O'tkazma muvaffaqiyatli yuborildi!",
+    "for_transfer": "O'TKAZMA UCHUN ZARUR:",
+    "install_asakabank": "\"Asakabank\" ilovasini oʻrnating",
+    "required": "MasterCard Standard/gold/platinum/world kartasi mavjud bo’lishi",
+    "required_sub": "(kartaga onlayn tarzda veb-sayt orqali yoki \"Asakabank\" mobil ilovasida buyurtma berish mumkin)",
+    "apply_card": "Karta chiqarish"
+  },
+  "PublicOffer": {
+    "new": "Yangi oferta",
+    "old": "Eski oferta"
+  },
+  "OnlinePolls": {
+    "votes": "Ovozlar",
+    "results": "So'rov natijalari",
+    "to_vote": "Ovoz berish"
+  },
+  "PhysicalPersons": {
+    "Deposits": {
+      "AboutDeposit": {
+        "title": "Bankimizga omonat qo'yishning afzalliklari",
+        "card1": "Omonatlar deklaratsiya qilinmaydi",
+        "card2": "Omonatlar soliq va boshqa majburiy to'lovlardan ozod qilingan",
+        "card3": "Omonatlar to'g'risidagi ma'lumotlar bank siridir",
+        "card4": "Qulay foiz stavkalari",
+        "card5": "Omonatlar miqdori cheklanmagan",
+        "howToOpenDeposit": "Omonatni qanday ochish mumkin?",
+        "threeWays": "Bankimizda omonatni rasmiylashtirishni 3ta usuli",
+        "first": "Veb-saytda ariza qo'ldiring va qo'ng'iroqni kuting",
+        "second": "Yoki darhol kerakli hujjatlar bilan bankka keling",
+        "third": "Hisobga pulni kiritgandan so'ng daromad oling",
+        "openDeposit": "Hozirda o'z hissangizni oching.",
+        "calc": "Hissangizning foydasini hisoblash",
+        "saveMoney": "Pulingizni xavsiz saqlash"
+      }
+    },
+    "Credits": {
+      "interest_rates": "Foiz stavkalari",
+      "annuity": "Аnnuitet grafik",
+      "differential": "Differentsial grafik"
+    }
+  },
+  "MobileVersion": {
+    "install-phone": "Telefoningizga o'rnating",
+    "install": "Yuklash"
+  }
+}
